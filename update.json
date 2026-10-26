@@ -1,11 +1,11 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.1.apk",
-  "sha256": "2883463aa7748052d5deda1c2b4fa8bc00ce8cdd2acf804e309522b042270758",
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.2.apk",
+  "sha256": "58656a904616807f09abf3af212861c4c1bb0f657a8f540a6535b946de108d14",
   "mandatory": false,
   "notes": {
-    "ar": "الشعارات تملأ بطاقات القنوات والراديو مع خلفية زجاجية، إعدادات بتصميم جديد، وضع الأجهزة الضعيفة، وتحسينات الوضع الأفقي.",
-    "fr": "Les logos remplissent les cartes avec un fond en verre, nouveaux réglages, mode appareils modestes et améliorations du mode paysage."
+    "ar": "قوائم القنوات والراديو بأحجام أصغر وأسهل للتصفح على الهاتف والتلفاز، إخفاء الشريط الجانبي في القوائم على التلفاز، وزر الرجوع يعيدك إلى الشاشة الرئيسية.",
+    "fr": "Listes de chaînes et de radios plus compactes sur téléphone et TV, barre latérale masquée dans les listes sur TV, et retour à l’accueil avec la touche Retour."
   }
 }
