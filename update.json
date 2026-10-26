@@ -1,11 +1,11 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.4",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.4.apk",
-  "sha256": "f389665b3ce51e9693845b50a6adee5572906c5ec896d52fd38cd12f54b1fc0f",
+  "versionCode": 7,
+  "versionName": "1.1.5",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.5.apk",
+  "sha256": "efd6fcaecf9b9bc3c5d77065c28bba8284a4eab00e001fd1abf11fe0955b23ab",
   "mandatory": false,
   "notes": {
-    "ar": "مشغّل راديو جديد بتصميم عصري مع قائمة المحطات، رسالة تحديث ثابتة في الشاشة الرئيسية، وقائمة القنوات تفتح بزر OK من اليسار أثناء المشاهدة على التلفاز.",
-    "fr": "Nouveau lecteur radio moderne avec la liste des stations, message de mise à jour permanent sur l’accueil, et liste des chaînes à gauche avec OK pendant la lecture sur TV."
+    "ar": "إضافة باقة القنوات الجزائرية (التلفزيون العمومي TV1–TV9، النهار، الشروق، البلاد، الجزائر الدولية AL24، الحياة، الوطنية، سميرة تي في) مع محلل ذكي لتجديد روابط البث المباشر تلقائياً داخل التطبيق.",
+    "fr": "Ajout du bouquet des chaînes algériennes (ENTV TV1–TV9, Ennahar, Echorouk, El Bilad, AL24 News, El Hayat, El Watania, Samira TV) avec résolution automatique des flux en direct intégrée."
   }
 }
