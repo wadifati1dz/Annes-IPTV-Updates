@@ -1,0 +1,11 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.0.apk",
+  "sha256": "c1ee1bd8971d1dcfd6b0db7ad97077c088a6421536f6bb3b4920f6e9e684c5a2",
+  "mandatory": false,
+  "notes": {
+    "ar": "قسم الراديو الجديد (100 محطة)، شعارات المحطات، قائمة راديو بتصميم القنوات، تحسين الوضع الأفقي، وصورة البث أصغر بنسبة 5% لتبقى الشعارات داخل الشاشة.",
+    "fr": "Nouvelle section Radio (100 stations), logos des stations, liste Radio au style des chaînes, meilleur mode paysage et image 5 % plus petite pour garder les logos visibles."
+  }
+}
