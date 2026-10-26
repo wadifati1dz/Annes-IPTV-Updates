@@ -1,11 +1,11 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.3",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.3.apk",
-  "sha256": "fdeb9daeb60170b911123c092c0a2b84638b1011fbdc8b4d7ba5d3d65efccfd6",
+  "versionCode": 6,
+  "versionName": "1.1.4",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.4.apk",
+  "sha256": "f389665b3ce51e9693845b50a6adee5572906c5ec896d52fd38cd12f54b1fc0f",
   "mandatory": false,
   "notes": {
-    "ar": "شعار التطبيق الجديد، تحميل أسرع لقوائم القنوات، النقر على القناة يشغّلها مباشرة، زر المفضلة داخل المشغّل، وإخفاء الشريط الجانبي أثناء المشاهدة على التلفاز.",
-    "fr": "Nouveau logo, listes de chaînes qui s’affichent plus vite, lecture directe au toucher, favori dans le lecteur et barre latérale masquée pendant la lecture sur TV."
+    "ar": "مشغّل راديو جديد بتصميم عصري مع قائمة المحطات، رسالة تحديث ثابتة في الشاشة الرئيسية، وقائمة القنوات تفتح بزر OK من اليسار أثناء المشاهدة على التلفاز.",
+    "fr": "Nouveau lecteur radio moderne avec la liste des stations, message de mise à jour permanent sur l’accueil, et liste des chaînes à gauche avec OK pendant la lecture sur TV."
   }
 }
