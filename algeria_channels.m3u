@@ -1,6 +1,10 @@
 #EXTM3U
-# القائمة المدمجة للقنوات الجزائرية - Annes IPTV
+# القائمة المدمجة للقنوات الجزائرية والرياضية والفرنسية - Annes IPTV
 # يتم فك وتحديث روابط البث المباشر تلقائياً داخل التطبيق عبر LiveStreamResolver
+
+# ==============================================================================
+# 1. باقة القنوات الجزائرية (Algerian Channels - 22)
+# ==============================================================================
 
 #EXTINF:-1 tvg-id="ENTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/entv_algerie.jpg" group-title="General",التلفزيون الجزائري - الأرضية (TV1)
 https://www.elahmad.ru/tv/algeria_live.php?id=entv_algerie
@@ -67,3 +71,177 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/almagharibiatv.jpg" group-title="News",CNA - القناة المغاربية الإخبارية
 https://live.creacast.com/cna/stream/playlist.m3u8
+
+# ==============================================================================
+# 2. باقة قنوات ألوان الرياضية (Alwan Sports - 8)
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="AlwanSport1.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_1.png" group-title="Sports",Alwan Sport 1 - ألوان الرياضية 1
+https://alwanlive.stream/?channel=1
+
+#EXTINF:-1 tvg-id="AlwanSport2.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_2.png" group-title="Sports",Alwan Sport 2 - ألوان الرياضية 2
+https://alwanlive.stream/?channel=2
+
+#EXTINF:-1 tvg-id="AlwanSport3.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_3.png" group-title="Sports",Alwan Sport 3 - ألوان الرياضية 3
+https://alwanlive.stream/?channel=3
+
+#EXTINF:-1 tvg-id="AlwanSport4.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_4.png" group-title="Sports",Alwan Sport 4 - ألوان الرياضية 4
+https://alwanlive.stream/?channel=4
+
+#EXTINF:-1 tvg-id="AlwanSport5.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_5.png" group-title="Sports",Alwan Sport 5 - ألوان الرياضية 5
+https://alwanlive.stream/?channel=5
+
+#EXTINF:-1 tvg-id="AlwanSport6.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_6.png" group-title="Sports",Alwan Sport 6 - ألوان الرياضية 6
+https://alwanlive.stream/?channel=6
+
+#EXTINF:-1 tvg-id="AlwanSport7.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_7.png" group-title="Sports",Alwan Sport 7 - ألوان الرياضية 7
+https://alwanlive.stream/?channel=7
+
+#EXTINF:-1 tvg-id="AlwanSport8.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_8.png" group-title="Sports",Alwan Sport 8 - ألوان الرياضية 8
+https://alwanlive.stream/?channel=8
+
+# ==============================================================================
+# 3. باقة القنوات الرياضية العربية والعالمية (Sports Channels - 22)
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_xtra.png" group-title="Sports",beIN SPORTS XTRA HD - بي إن سبورت إكسترا
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_1.jpg" group-title="Sports",KSA Sports 1 - السعودية الرياضية 1
+https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport
+
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_2.jpg" group-title="Sports",KSA Sports 2 - السعودية الرياضية 2
+https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport2
+
+#EXTINF:-1 tvg-id="KSASports3.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_3.jpg" group-title="Sports",KSA Sports 3 - السعودية الرياضية 3
+https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport3
+
+#EXTINF:-1 tvg-id="KSASports4.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_4.jpg" group-title="Sports",KSA Sports 4 - السعودية الرياضية 4
+https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport4
+
+#EXTINF:-1 tvg-id="OnTimeSports1.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ontime_sports1.jpg" group-title="Sports",ON Time Sports 1 - أون تايم سبورت 1
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=on_time_sports1
+
+#EXTINF:-1 tvg-id="OnTimeSports2.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ontime_sports2.jpg" group-title="Sports",ON Time Sports 2 - أون تايم سبورت 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=on_time_sports2
+
+#EXTINF:-1 tvg-id="AlAhlyTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alahly_tv.jpg" group-title="Sports",Al Ahly TV - قناة النادي الأهلي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alahly_tv
+
+#EXTINF:-1 tvg-id="ZamalekTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/zamalek_tv.jpg" group-title="Sports",Zamalek TV - قناة نادي الزمالك
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=zamalek
+
+#EXTINF:-1 tvg-id="NileSport.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/nile_sport.jpg" group-title="Sports",Nile Sport - نايل سبورت
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nilesport
+
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/arryadia.jpg" group-title="Sports",Arryadia Maroc - الرياضية المغربية
+https://www.elahmad.ru/tv/radiant.php?id=arryadia1
+
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/sharjah_sport.jpg" group-title="Sports",Sharjah Sports - الشارقة الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_sharjah_sport1
+
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/iraqia_sport.jpg" group-title="Sports",Al Iraqia Sports - العراقية الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aliraqya_sport
+
+#EXTINF:-1 tvg-id="KuwaitSportPlus.kw" tvg-country="KW" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/kuwait_sport_plus.jpg" group-title="Sports",Kuwait Sport Plus - الكويت الرياضية بلس
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=kw_sport_plus1
+
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bahrain_sport_1.jpg" group-title="Sports",Bahrain Sports 1 - البحرين الرياضية 1
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=bahrain_sport
+
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-country="BH" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bahrain_sport_2.jpg" group-title="Sports",Bahrain Sports 2 - البحرين الرياضية 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=bahrain_sport_2
+
+#EXTINF:-1 tvg-id="JordanSport.jo" tvg-country="JO" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/jordan_sport.jpg" group-title="Sports",Jordan Sport - الأردن الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=jordan_sport1
+
+#EXTINF:-1 tvg-id="PalestineSport.ps" tvg-country="PS" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/palestine_sport.jpg" group-title="Sports",Palestine Sport - فلسطين الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=palestine_sport
+
+#EXTINF:-1 tvg-id="LibyaSports.ly" tvg-country="LY" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/libya_sport.jpg" group-title="Sports",Libya Sports - ليبيا الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=libya_sport
+
+#EXTINF:-1 tvg-id="MauritaniaSport.mr" tvg-country="MR" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/mauritania_sport.jpg" group-title="Sports",Mauritania Sport - الموريتانية الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=mauritanie_sport
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-country="ES" tvg-language="es" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/real_madrid_tv.jpg" group-title="Sports",Real Madrid TV HD - قناة ريال مدريد
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-country="TR" tvg-language="tr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/aspor.jpg" group-title="Sports",A Spor HD - إيه سبور الرياضية
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+# ==============================================================================
+# 4. باقة القنوات الفرنسية (French Channels - 24)
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1.png" group-title="General",TF1 HD
+http://149.62.177.107:9999/TF1/index.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france2.png" group-title="General",France 2 HD
+http://149.62.177.107:9999/France_2/index.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france3.png" group-title="General",France 3 HD
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france4.png" group-title="General",France 4 HD
+http://149.62.177.107:9999/France_4/index.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france5.png" group-title="Documentary",France 5 HD
+http://149.62.177.107:9999/France_5/index.m3u8
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/m6.png" group-title="Entertainment",M6 HD
+http://99.27.51.147:8080/M6/index.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/arte_fr.png" group-title="Culture",Arte France HD
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tmc.png" group-title="Entertainment",TMC HD
+http://149.62.177.107:9999/TMC/index.m3u8
+
+#EXTINF:-1 tvg-id="TFX.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tfx.png" group-title="Entertainment",TFX HD
+http://149.62.177.107:9999/TFX/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1_series_films.png" group-title="Entertainment",TF1 Séries Films HD
+http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/w9.png" group-title="Entertainment",W9 HD
+http://5.180.164.197:8080/W9/index.m3u8
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/6ter.png" group-title="Entertainment",6ter HD
+http://149.62.177.107:9999/6ter/index.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lequipe.png" group-title="Sports",L'Équipe HD - ليكيب الرياضية
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_story.png" group-title="General",RMC Story HD
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_decouverte.png" group-title="Documentary",RMC Découverte HD
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="News",BFM TV HD
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_business.png" group-title="Business",BFM Business HD
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-id="CNews.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cnews.png" group-title="News",CNews HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+
+#EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lci.png" group-title="News",LCI HD
+http://149.62.177.107:9999/LCI/index.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france24_fr.png" group-title="News",France 24 Français HD
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/euronews_fr.png" group-title="News",Euronews Français HD
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tv5monde.png" group-title="News",TV5Monde Info HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/gulli.png" group-title="Kids",Gulli Kids FR
+http://99.27.51.147:8080/Gulli/index.m3u8
+
+#EXTINF:-1 tvg-id="LCP.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lcp.png" group-title="News",LCP - Assemblée Nationale
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
