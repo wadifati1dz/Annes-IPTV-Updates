@@ -1,11 +1,11 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.6.apk",
-  "sha256": "d079dc5e32753f137761fbf1fc91dd960e25050db33073c5dd7ad039c54f51ce",
+  "versionCode": 9,
+  "versionName": "1.1.7",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.7.apk",
+  "sha256": "f29f0d165ab2f08512445d58eda340cca3233a6aa916a6b459cbf73c38cb5dc8",
   "mandatory": false,
   "notes": {
-    "ar": "إصلاح شامل لتشغيل باقة القنوات الجزائرية (22 قناة: الأرضية TV1–TV8، النهار، الشروق HD، الشروق نيوز، البلاد، سميرة تي في، الهداف، الحياة، الفجر، الجزائرية وان، الأنيس، AL24، الوطنية، عمو يزيد، CNA) مع دعم فك التشفير المباشر AES-256-CBC من مصادر Algeria-TV.",
-    "fr": "Correction complète de la lecture des 22 chaînes algériennes (ENTV TV1–TV8, Ennahar, Echorouk HD, Echorouk News, El Bilad, Samira TV, El Heddaf, El Hayat, El Fadjr, El Djazair N1, Alanis, AL24, El Watania, Amou Yazid, CNA) avec décryptage direct AES-256-CBC."
+    "ar": "تضمين الشعارات الرسمية لـ 22 قناة جزائرية محلياً داخل التطبيق وعلى GitHub لتظهر فوراً في جميع الشاشات بدون حجب (403 Forbidden).",
+    "fr": "Intégration locale et sur GitHub des logos officiels des 22 chaînes algériennes pour un affichage instantané sur tous les écrans."
   }
 }
