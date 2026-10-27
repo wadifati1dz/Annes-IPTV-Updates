@@ -1,11 +1,11 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.5",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.5.apk",
-  "sha256": "efd6fcaecf9b9bc3c5d77065c28bba8284a4eab00e001fd1abf11fe0955b23ab",
+  "versionCode": 8,
+  "versionName": "1.1.6",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.6.apk",
+  "sha256": "d079dc5e32753f137761fbf1fc91dd960e25050db33073c5dd7ad039c54f51ce",
   "mandatory": false,
   "notes": {
-    "ar": "إضافة باقة القنوات الجزائرية (التلفزيون العمومي TV1–TV9، النهار، الشروق، البلاد، الجزائر الدولية AL24، الحياة، الوطنية، سميرة تي في) مع محلل ذكي لتجديد روابط البث المباشر تلقائياً داخل التطبيق.",
-    "fr": "Ajout du bouquet des chaînes algériennes (ENTV TV1–TV9, Ennahar, Echorouk, El Bilad, AL24 News, El Hayat, El Watania, Samira TV) avec résolution automatique des flux en direct intégrée."
+    "ar": "إصلاح شامل لتشغيل باقة القنوات الجزائرية (22 قناة: الأرضية TV1–TV8، النهار، الشروق HD، الشروق نيوز، البلاد، سميرة تي في، الهداف، الحياة، الفجر، الجزائرية وان، الأنيس، AL24، الوطنية، عمو يزيد، CNA) مع دعم فك التشفير المباشر AES-256-CBC من مصادر Algeria-TV.",
+    "fr": "Correction complète de la lecture des 22 chaînes algériennes (ENTV TV1–TV8, Ennahar, Echorouk HD, Echorouk News, El Bilad, Samira TV, El Heddaf, El Hayat, El Fadjr, El Djazair N1, Alanis, AL24, El Watania, Amou Yazid, CNA) avec décryptage direct AES-256-CBC."
   }
 }

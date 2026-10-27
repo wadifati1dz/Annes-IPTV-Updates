@@ -2,53 +2,68 @@
 # القائمة المدمجة للقنوات الجزائرية - Annes IPTV
 # يتم فك وتحديث روابط البث المباشر تلقائياً داخل التطبيق عبر LiveStreamResolver
 
-#EXTINF:-1 tvg-id="ENTV.dz" tvg-name="ENTV Programme National" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ENTV_Alg%C3%A9rie_logo.png/512px-ENTV_Alg%C3%A9rie_logo.png" group-title="General",التلفزيون الجزائري - الأرضية (TV1)
-https://www.entv.dz/live-tv-1/
+#EXTINF:-1 tvg-id="ENTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/entv_algerie.jpg" group-title="General",التلفزيون الجزائري - الأرضية (TV1)
+https://www.elahmad.ru/tv/algeria_live.php?id=entv_algerie
 
-#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="Canal Algérie" tvg-country="DZ" tvg-language="fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Canal_Alg%C3%A9rie_logo.png/512px-Canal_Alg%C3%A9rie_logo.png" group-title="General",Canal Algérie - كنال ألجيري (TV2)
-https://www.entv.dz/canal-algerie/
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/canal_algerie.jpg" group-title="General",Canal Algérie - الجزائرية الثانية (TV2)
+https://www.elahmad.ru/tv/algeria_live.php?id=algerie
 
-#EXTINF:-1 tvg-id="Algerie3.dz" tvg-name="Algérie 3" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Alg%C3%A9rie_3_logo.png/512px-Alg%C3%A9rie_3_logo.png" group-title="News",الجزائرية الثالثة الإخبارية (TV3)
-https://www.entv.dz/algerie-3/
+#EXTINF:-1 tvg-id="Algerie3.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/algerie3.jpg" group-title="News",الجزائرية الثالثة الإخبارية (TV3)
+https://www.elahmad.ru/tv/algeria_live.php?id=algeria3
 
-#EXTINF:-1 tvg-id="TamazightTV4.dz" tvg-name="Tamazight TV 4" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TV4_Tamazight_logo.png/512px-TV4_Tamazight_logo.png" group-title="General",القناة الرابعة الأمازيغية (TV4)
-https://www.entv.dz/tv-4/
+#EXTINF:-1 tvg-id="TamazightTV4.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/algerie4.jpg" group-title="General",القناة الرابعة الأمازيغية (TV4)
+https://www.elahmad.ru/tv/algeria_live.php?id=algerie4
 
-#EXTINF:-1 tvg-id="CoranTV5.dz" tvg-name="Coran TV 5" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/TV5_Coran_logo.png/512px-TV5_Coran_logo.png" group-title="Religious",إذاعة وتلفزيون القرآن الكريم الجزائرية (TV5)
-https://www.entv.dz/tv-5/
+#EXTINF:-1 tvg-id="CoranTV5.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/algerie5.jpg" group-title="Religious",قناة القرآن الكريم الجزائرية (TV5)
+https://www.elahmad.ru/tv/algeria_live.php?id=algerie5
 
-#EXTINF:-1 tvg-id="TV6Algerie.dz" tvg-name="TV6 Algérie" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ENTV_Alg%C3%A9rie_logo.png/512px-ENTV_Alg%C3%A9rie_logo.png" group-title="Entertainment",القناة السادسة الشبابية الجزائرية (TV6)
-https://www.entv.dz/tv-6/
+#EXTINF:-1 tvg-id="TV6Algerie.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/algerie6.jpg" group-title="Entertainment",القناة السادسة الشبابية الجزائرية (TV6)
+https://www.elahmad.ru/tv/algeria_live.php?id=algerie6
 
-#EXTINF:-1 tvg-id="ElMaarefaTV7.dz" tvg-name="El Maarefa TV 7" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ENTV_Alg%C3%A9rie_logo.png/512px-ENTV_Alg%C3%A9rie_logo.png" group-title="Education",قناة المعرفة الجزائرية (TV7)
-https://www.entv.dz/tv-7/
+#EXTINF:-1 tvg-id="ElMaarefaTV7.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/algerie7.jpg" group-title="Education",قناة المعرفة الجزائرية (TV7)
+https://www.elahmad.ru/tv/algeria_live.php?id=algerie7
 
-#EXTINF:-1 tvg-id="EdhakiraTV8.dz" tvg-name="Edhakira TV 8" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ENTV_Alg%C3%A9rie_logo.png/512px-ENTV_Alg%C3%A9rie_logo.png" group-title="Documentary",قناة الذاكرة الجزائرية (TV8)
-https://www.entv.dz/tv-8/
+#EXTINF:-1 tvg-id="EdhakiraTV8.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/algerie8.jpg" group-title="Documentary",قناة الذاكرة الجزائرية (TV8)
+https://www.elahmad.ru/tv/algeria_live.php?id=algerie8
 
-#EXTINF:-1 tvg-id="ElBarlamaniaTV9.dz" tvg-name="El Barlamania TV 9" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ENTV_Alg%C3%A9rie_logo.png/512px-ENTV_Alg%C3%A9rie_logo.png" group-title="News",القناة البرلمانية الجزائرية (TV9)
-https://www.entv.dz/tv-9/
+#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/ennahartv.jpg" group-title="News",Ennahar TV - قناة النهار الجزائرية
+https://www.elahmad.ru/tv/algeria_live.php?id=ennahartv
 
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/AL24_News_Logo.png/512px-AL24_News_Logo.png" group-title="News",AL24 News - الجزائر الدولية
-https://www.youtube.com/@AL24newschannel/live
+#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/echorouk_tv.jpg" group-title="General",Echorouk TV HD - الشروق العامة
+https://www.elahmad.ru/tv/algeria_live.php?id=echorouk_tvhd
 
-#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Ennahar_TV_logo.png" group-title="News",Ennahar TV - قناة النهار الجزائرية
-https://www.youtube.com/@EnnaharTv/live
+#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/echorouk_news.jpg" group-title="News",Echorouk News - الشروق نيوز
+https://www.elahmad.ru/tv/algeria_live.php?id=echorouk_news
 
-#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-name="Echorouk News" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Echorouk_News_logo.png/512px-Echorouk_News_logo.png" group-title="News",Echorouk News - الشروق نيوز
-https://www.youtube.com/@EchorouknewsTV/live
+#EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/elbilad.jpg" group-title="News",El Bilad TV - قناة البلاد الجزائرية
+https://www.elahmad.ru/tv/algeria_live.php?id=elbilad
 
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-name="Echorouk TV" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Echorouk_TV_logo.png/512px-Echorouk_TV_logo.png" group-title="General",Echorouk TV - الشروق العامة
-https://www.youtube.com/@EchoroukTVOfficial/live
+#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/samira_tv.jpg" group-title="Lifestyle",Samira TV - سميرة تي في
+https://www.elahmad.ru/tv/algeria_live.php?id=samira_tv
 
-#EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-name="El Bilad TV" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/El_Bilad_TV_logo.png/512px-El_Bilad_TV_logo.png" group-title="News",El Bilad TV - قناة البلاد الجزائرية
-https://www.youtube.com/@ElbiladTv/live
+#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/elheddaf.jpg" group-title="Sports",El Heddaf TV - قناة الهداف الرياضية
+https://www.elahmad.ru/tv/algeria_live.php?id=elheddaf
 
-#EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-name="El Hayat TV" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/El_Hayat_TV_Algeria.png/512px-El_Hayat_TV_Algeria.png" group-title="General",El Hayat TV - قناة الحياة الجزائرية
-https://www.youtube.com/@elhayatchannel/live
+#EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/el_hayat_tv.jpg" group-title="General",El Hayat TV - قناة الحياة الجزائرية
+https://www.elahmad.ru/tv/algeria_live.php?id=elhayatonline
 
-#EXTINF:-1 tvg-id="ElWataniaTV.dz" tvg-name="El Watania TV" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/El_Watania_TV_DZ.png/512px-El_Watania_TV_DZ.png" group-title="General",El Watania TV - قناة الوطنية الجزائرية
-https://www.youtube.com/@elwataniatv/live
+#EXTINF:-1 tvg-id="ElFadjrTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/el_fadjr_tv.jpg" group-title="General",El Fadjr TV - قناة الفجر الجزائرية
+https://www.elahmad.ru/tv/algeria_live.php?id=el_fadjr_tv
 
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-name="Samira TV" tvg-country="DZ" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Samira_TV_logo.png/512px-Samira_TV_logo.png" group-title="Lifestyle",Samira TV - سميرة تي في
-https://www.youtube.com/@SamiraTVOfficial/live
+#EXTINF:-1 tvg-id="ElDjazairN1.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/el_djazairia_n1.jpg" group-title="General",El Djazair N1 - الجزائرية وان
+https://www.elahmad.ru/tv/algeria_live.php?id=el_djazairia
+
+#EXTINF:-1 tvg-id="AlanisTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alanistv.jpg" group-title="Religious",Alanis TV - قناة الأنيس الفضائية
+https://www.elahmad.ru/tv/algeria_live.php?id=alanis_tv
+
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al24news.jpg" group-title="News",AL24 News - الجزائر الدولية
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElWataniaTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/elwataniatv_dz.jpg" group-title="General",El Watania TV - قناة الوطنية الجزائرية
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://i.imgur.com/3fJ1P9k.png" group-title="Kids",Amou Yazid TV - قناة عمو يزيد للأطفال
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almagharibiatv.jpg" group-title="News",CNA - القناة المغاربية الإخبارية
+https://live.creacast.com/cna/stream/playlist.m3u8
