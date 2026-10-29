@@ -1,11 +1,11 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.12",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.12.apk",
-  "sha256": "a6f45c352902655987f0cef4b43869300a4414d3be74f62b536990d7efb00dee",
+  "versionCode": 15,
+  "versionName": "1.1.13",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.13.apk",
+  "sha256": "bcc3829f730324937e1d7344a2a9864c008762c541805334e63c25a0dce6696f",
   "mandatory": false,
   "notes": {
-    "ar": "شعارات حقيقية للقنوات التي ليس لها شعار، وعرض القناة كاملاً عند الإمساك بالهاتف عمودياً، وقائمة قنوات جديدة داخل المشغّل مع اختيار الباقة وشعارات دائرية، وإزالة القائمة الجانبية من شاشات التلفاز.",
-    "fr": "Vrais logos pour les chaînes sans logo, image complète en portrait sur téléphone, nouvelle liste de chaînes dans le lecteur avec choix du bouquet et logos ronds, et suppression du menu latéral sur TV."
+    "ar": "الراديو بالباقات حسب البلد مع 109 محطات عربية وفرنسية جديدة وشعارات، وقائمة جانبية ومشغّل مصغّر بتصميم جديد، وأيقونات حديثة في الشاشة الرئيسية، وإصلاح بقاء القناة في التحميل: أزرار التحكم تبقى متاحة وتظهر رسالة خطأ بعد 15 ثانية.",
+    "fr": "Radio par bouquets (pays) avec 109 nouvelles stations arabes et françaises et leurs logos, nouveau panneau latéral et mini-lecteur, icônes modernes sur l'accueil, et correctif des chaînes qui ne chargent pas : les commandes restent accessibles et une erreur s'affiche après 15 s."
   }
 }
