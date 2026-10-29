@@ -105,10 +105,10 @@ https://alwanlive.stream/?channel=8
 # ==============================================================================
 
 #EXTINF:-1 tvg-id="beINSPORTSNews.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_news.png" group-title="Sports",beIN SPORTS News HD - بي إن سبورت الإخبارية
-https://www.youtube.com/@beINSPORTS/live
+https://alwanlive.stream/?channel=1
 
 #EXTINF:-1 tvg-id="beINSPORTSHD.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_hd.png" group-title="Sports",beIN SPORTS HD - بي إن سبورت المفتوحة
-https://www.youtube.com/c/beINSPORTS/live
+https://alwanlive.stream/?channel=2
 
 #EXTINF:-1 tvg-id="beINSPORTS1.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_1.png" group-title="Sports",beIN SPORTS 1 HD - بي إن سبورت 1
 https://alwanlive.stream/?channel=1
@@ -141,7 +141,7 @@ https://alwanlive.stream/?channel=1
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA2.us" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_xtra_2.png" group-title="Sports",beIN SPORTS XTRA 2 HD - بي إن سبورت إكسترا 2
-https://bein-xtra2-bein.amagi.tv/playlist.m3u8
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRAES.us" tvg-country="QA" tvg-language="es" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_xtra_es.png" group-title="Sports",beIN SPORTS XTRA en Español
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
