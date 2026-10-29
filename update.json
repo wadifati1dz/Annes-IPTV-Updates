@@ -1,11 +1,11 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.13",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.13.apk",
-  "sha256": "bcc3829f730324937e1d7344a2a9864c008762c541805334e63c25a0dce6696f",
+  "versionCode": 16,
+  "versionName": "1.1.14",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.14.apk",
+  "sha256": "cce813bd99bb8a624dd89a90788d0322aae0e975bc1b9a3522f1c1e80d8a2850",
   "mandatory": false,
   "notes": {
-    "ar": "الراديو بالباقات حسب البلد مع 109 محطات عربية وفرنسية جديدة وشعارات، وقائمة جانبية ومشغّل مصغّر بتصميم جديد، وأيقونات حديثة في الشاشة الرئيسية، وإصلاح بقاء القناة في التحميل: أزرار التحكم تبقى متاحة وتظهر رسالة خطأ بعد 15 ثانية.",
-    "fr": "Radio par bouquets (pays) avec 109 nouvelles stations arabes et françaises et leurs logos, nouveau panneau latéral et mini-lecteur, icônes modernes sur l'accueil, et correctif des chaînes qui ne chargent pas : les commandes restent accessibles et une erreur s'affiche après 15 s."
+    "ar": "ظرف أصفر صغير أعلى وسط الشاشة يظهر عند وجود تحديث جديد غير مثبّت ويفتح شاشة التحديث، وأزرار المشغّل تختفي تلقائياً بعد ثانيتين.",
+    "fr": "Petite enveloppe jaune en haut de l'écran quand une mise à jour n'est pas installée (ouvre l'écran de mise à jour), et les commandes du lecteur se masquent après 2 secondes."
   }
 }
