@@ -101,11 +101,54 @@ https://alwanlive.stream/?channel=7
 https://alwanlive.stream/?channel=8
 
 # ==============================================================================
-# 3. باقة القنوات الرياضية العربية والعالمية (Sports Channels - 22)
+# 3. باقة قنوات بي إن سبورت (beIN SPORTS Channels - 14)
 # ==============================================================================
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_xtra.png" group-title="Sports",beIN SPORTS XTRA HD - بي إن سبورت إكسترا
+#EXTINF:-1 tvg-id="beINSPORTSNews.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_news.png" group-title="Sports",beIN SPORTS News HD - بي إن سبورت الإخبارية
+https://www.youtube.com/@beINSPORTS/live
+
+#EXTINF:-1 tvg-id="beINSPORTSHD.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_hd.png" group-title="Sports",beIN SPORTS HD - بي إن سبورت المفتوحة
+https://www.youtube.com/c/beINSPORTS/live
+
+#EXTINF:-1 tvg-id="beINSPORTS1.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_1.png" group-title="Sports",beIN SPORTS 1 HD - بي إن سبورت 1
+https://alwanlive.stream/?channel=1
+
+#EXTINF:-1 tvg-id="beINSPORTS2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_2.png" group-title="Sports",beIN SPORTS 2 HD - بي إن سبورت 2
+https://alwanlive.stream/?channel=2
+
+#EXTINF:-1 tvg-id="beINSPORTS3.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_3.png" group-title="Sports",beIN SPORTS 3 HD - بي إن سبورت 3
+https://alwanlive.stream/?channel=3
+
+#EXTINF:-1 tvg-id="beINSPORTS4.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_4.png" group-title="Sports",beIN SPORTS 4 HD - بي إن سبورت 4
+https://alwanlive.stream/?channel=4
+
+#EXTINF:-1 tvg-id="beINSPORTS5.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_5.png" group-title="Sports",beIN SPORTS 5 HD - بي إن سبورت 5
+https://alwanlive.stream/?channel=5
+
+#EXTINF:-1 tvg-id="beINSPORTS6.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_6.png" group-title="Sports",beIN SPORTS 6 HD - بي إن سبورت 6
+https://alwanlive.stream/?channel=6
+
+#EXTINF:-1 tvg-id="beINSPORTS7.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_7.png" group-title="Sports",beIN SPORTS 7 HD - بي إن سبورت 7
+https://alwanlive.stream/?channel=7
+
+#EXTINF:-1 tvg-id="beINSPORTS8.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_8.png" group-title="Sports",beIN SPORTS 8 HD - بي إن سبورت 8
+https://alwanlive.stream/?channel=8
+
+#EXTINF:-1 tvg-id="beINSPORTS9.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_9.png" group-title="Sports",beIN SPORTS 9 HD - بي إن سبورت 9
+https://alwanlive.stream/?channel=1
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_xtra.png" group-title="Sports",beIN SPORTS XTRA HD - بي إن سبورت إكسترا 1
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA2.us" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_xtra_2.png" group-title="Sports",beIN SPORTS XTRA 2 HD - بي إن سبورت إكسترا 2
+https://bein-xtra2-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAES.us" tvg-country="QA" tvg-language="es" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_sports_xtra_es.png" group-title="Sports",beIN SPORTS XTRA en Español
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+# ==============================================================================
+# 4. باقة القنوات الرياضية العربية والعالمية (Sports Channels - 21)
+# ==============================================================================
 
 #EXTINF:-1 tvg-id="KSASports1.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_1.jpg" group-title="Sports",KSA Sports 1 - السعودية الرياضية 1
 https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport
@@ -171,7 +214,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 # ==============================================================================
-# 4. باقة القنوات الفرنسية (French Channels - 24)
+# 5. باقة القنوات الفرنسية (French Channels - 24)
 # ==============================================================================
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1.png" group-title="General",TF1 HD

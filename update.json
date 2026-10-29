@@ -1,11 +1,11 @@
 {
-  "versionCode": 20,
-  "versionName": "1.1.18",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.18.apk",
-  "sha256": "b7fa9c5bf4971c74f7e752534a43306ed8af31efcf5894108725bcbfe340b7aa",
+  "versionCode": 21,
+  "versionName": "1.1.19",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.19.apk",
+  "sha256": "accea44eed7c2bfb7dcb3e01825c478a1e370fe45bc67a77afef486432c6b051",
   "mandatory": false,
   "notes": {
-    "ar": "جديد: مؤقّت النوم، التبديل بالسحب والتحكم بالصوت والسطوع، إدخال رقم القناة بالريموت، عنوان الأغنية في الراديو، مجموعات المفضّلة، وفحص القنوات التي لا تعمل.",
-    "fr": "Nouveau : minuterie de sommeil, zapping par balayage avec volume et luminosité, saisie du numéro de chaîne à la télécommande, titre du morceau en radio, groupes de favoris et vérification des chaînes hors service."
+    "ar": "إضافة باقة قنوات بي إن سبورت بالكامل (14 قناة) بدقة عالية مع شعارات مدمجة وسريعة، وتحديث إجمالي القنوات إلى 89 قناة.",
+    "fr": "Ajout du bouquet beIN SPORTS complet (14 chaînes) en HD avec logos intégrés, et mise à jour de la liste vers 89 chaînes."
   }
 }
