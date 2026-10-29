@@ -1,11 +1,11 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.15",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.15.apk",
-  "sha256": "c3401482314c95f19e9f5f01c390f0e4208729c833b70e101e7c665d5e80ddea",
+  "versionCode": 18,
+  "versionName": "1.1.16",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.16.apk",
+  "sha256": "fce5a5067ec6db69045fc032baa756beaf9a53e18baabf2c4419e9514147803c",
   "mandatory": false,
   "notes": {
-    "ar": "على التلفاز: حذف أزرار التحكم أثناء مشاهدة القنوات، وزر OK يفتح القائمة الجانبية، OK مرة لتشغيل القناة ومرة أخرى للتثبيت والخروج، والضغط المطول للمفضلة أو الحذف، وتحديد فاتح واضح في القوائم.",
-    "fr": "Sur TV : plus de barre de commandes pendant le direct, OK ouvre la liste latérale (un OK pour lancer, un second pour valider), appui long pour favori ou suppression, et sélection claire en blanc dans les listes."
+    "ar": "ظرف التحديث بصورة جديدة أكبر، مشغّل الراديو بالحجم الكامل بتصميم جديد وصف أزرار واحد، حذف قوائم الفلترة باللغة والبلد مع شرائح التخصص وشريط بحث جديد، وحذف باقات General وNews وUndefined.",
+    "fr": "Enveloppe de mise à jour agrandie avec nouvelle image, lecteur radio plein écran au nouveau design avec une seule rangée de boutons, filtres langue et pays supprimés avec puces de spécialité et nouvelle barre de recherche, et bouquets General, News et Undefined retirés."
   }
 }
