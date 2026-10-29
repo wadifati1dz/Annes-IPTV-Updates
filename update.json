@@ -1,11 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.10",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.10.apk",
-  "sha256": "0a01c1bdd8b766ecb1721ccec6149e320360f613959ea377fdd4b93421828c24",
+  "versionCode": 13,
+  "versionName": "1.1.11",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.11.apk",
+  "sha256": "3f542c7422373fe366a62b8739e893e45cf7aa5ea765ad3a87a3a04fad19852f",
   "mandatory": false,
   "notes": {
-    "ar": "أعلام الدول على الباقات، 3 أيقونات في الصف عمودياً و8 أفقياً على الهاتف، وإزالة القنوات الإسرائيلية من كل القوائم.",
-    "fr": "Drapeaux des pays sur les bouquets, 3 icônes par ligne en portrait et 8 en paysage sur téléphone, et suppression des chaînes israéliennes de toutes les listes."
+    "ar": "واجهة رئيسية جديدة بنمط ذهبي، وخلفية افتراضية جديدة (يمكن تغييرها من الإعدادات)، وشعارات حروفية للقنوات التي ليس لها شعار.",
+    "fr": "Nouvel accueil au style doré, nouveau fond par défaut (modifiable dans les réglages) et logos à initiales pour les chaînes sans logo."
   }
 }
