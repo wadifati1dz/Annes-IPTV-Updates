@@ -1,11 +1,11 @@
 {
-  "versionCode": 18,
-  "versionName": "1.1.16",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.16.apk",
-  "sha256": "fce5a5067ec6db69045fc032baa756beaf9a53e18baabf2c4419e9514147803c",
+  "versionCode": 19,
+  "versionName": "1.1.17",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.17.apk",
+  "sha256": "cf7e5c6fcd415d4e308fa6084e7d78437d2fd136be4ae0c1d64916fadcb27fd2",
   "mandatory": false,
   "notes": {
-    "ar": "ظرف التحديث بصورة جديدة أكبر، مشغّل الراديو بالحجم الكامل بتصميم جديد وصف أزرار واحد، حذف قوائم الفلترة باللغة والبلد مع شرائح التخصص وشريط بحث جديد، وحذف باقات General وNews وUndefined.",
-    "fr": "Enveloppe de mise à jour agrandie avec nouvelle image, lecteur radio plein écran au nouveau design avec une seule rangée de boutons, filtres langue et pays supprimés avec puces de spécialité et nouvelle barre de recherche, et bouquets General, News et Undefined retirés."
+    "ar": "فلترة التخصص عادت قائمة منسدلة بجانب شريط البحث، وظرف التحديث على التلفاز صار بعيداً عن حافة الشاشة العليا حتى يظهر كاملاً.",
+    "fr": "Le filtre de spécialité redevient une liste déroulante à côté de la recherche, et l'enveloppe de mise à jour est éloignée du bord haut sur TV pour rester visible."
   }
 }
