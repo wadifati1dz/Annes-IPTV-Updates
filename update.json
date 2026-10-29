@@ -1,11 +1,11 @@
 {
-  "versionCode": 19,
-  "versionName": "1.1.17",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.17.apk",
-  "sha256": "cf7e5c6fcd415d4e308fa6084e7d78437d2fd136be4ae0c1d64916fadcb27fd2",
+  "versionCode": 20,
+  "versionName": "1.1.18",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.18.apk",
+  "sha256": "b7fa9c5bf4971c74f7e752534a43306ed8af31efcf5894108725bcbfe340b7aa",
   "mandatory": false,
   "notes": {
-    "ar": "فلترة التخصص عادت قائمة منسدلة بجانب شريط البحث، وظرف التحديث على التلفاز صار بعيداً عن حافة الشاشة العليا حتى يظهر كاملاً.",
-    "fr": "Le filtre de spécialité redevient une liste déroulante à côté de la recherche, et l'enveloppe de mise à jour est éloignée du bord haut sur TV pour rester visible."
+    "ar": "جديد: مؤقّت النوم، التبديل بالسحب والتحكم بالصوت والسطوع، إدخال رقم القناة بالريموت، عنوان الأغنية في الراديو، مجموعات المفضّلة، وفحص القنوات التي لا تعمل.",
+    "fr": "Nouveau : minuterie de sommeil, zapping par balayage avec volume et luminosité, saisie du numéro de chaîne à la télécommande, titre du morceau en radio, groupes de favoris et vérification des chaînes hors service."
   }
 }
