@@ -1,11 +1,11 @@
 {
-  "versionCode": 23,
-  "versionName": "1.1.21",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.21.apk",
-  "sha256": "0d7d57bd613a6913f3c99559467680a9922fdcea154129a78074c3d53bb6fd0d",
+  "versionCode": 24,
+  "versionName": "1.1.22",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.22.apk",
+  "sha256": "72ac195ffa96ccb88372f574178973c23452c6ab62c3d3e71eb4e8a86c01a11e",
   "mandatory": false,
   "notes": {
-    "ar": "حل مشكلة عدم ظهور قنوات beIN SPORTS في القائمة من خلال إصلاح خوارزمية منع التكرار وتمييز روابط القنوات الرياضية.",
-    "fr": "Correction de la deduplication des chaines beIN SPORTS et mise a jour des endpoints du bouquet sportif."
+    "ar": "إضافة الباقة الفرنسية الكاملة وقنوات السينما والأفلام والمسلسلات المجانية (Pluto TV Cinéma & Séries, CStar, RMC Life, BFM2).",
+    "fr": "Ajout du bouquet francais complet TNT et des chaines cinema et series gratuites 24/7."
   }
 }

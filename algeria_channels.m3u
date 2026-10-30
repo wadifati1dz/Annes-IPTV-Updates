@@ -214,7 +214,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 # ==============================================================================
-# 5. باقة القنوات الفرنسية (French Channels - 24)
+# 5. باقة القنوات الفرنسية والأفلام (French Channels & Cinema - 25)
 # ==============================================================================
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1.png" group-title="General",TF1 HD
@@ -235,8 +235,8 @@ http://149.62.177.107:9999/France_5/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/m6.png" group-title="Entertainment",M6 HD
 http://99.27.51.147:8080/M6/index.m3u8
 
-#EXTINF:-1 tvg-id="arte.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/arte_fr.png" group-title="Culture",Arte France HD
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/w9.png" group-title="Entertainment",W9 HD
+http://5.180.164.197:8080/W9/index.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tmc.png" group-title="Entertainment",TMC HD
 http://149.62.177.107:9999/TMC/index.m3u8
@@ -247,38 +247,35 @@ http://149.62.177.107:9999/TFX/index.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1_series_films.png" group-title="Entertainment",TF1 Séries Films HD
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 
-#EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/w9.png" group-title="Entertainment",W9 HD
-http://5.180.164.197:8080/W9/index.m3u8
-
 #EXTINF:-1 tvg-id="6ter.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/6ter.png" group-title="Entertainment",6ter HD
 http://149.62.177.107:9999/6ter/index.m3u8
 
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lequipe.png" group-title="Sports",L'Équipe HD - ليكيب الرياضية
-https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_story.png" group-title="General",RMC Story HD
-https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cstar.png" group-title="Entertainment",CStar HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_decouverte.png" group-title="Documentary",RMC Découverte HD
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="News",BFM TV HD
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_story.png" group-title="General",RMC Story HD
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_business.png" group-title="Business",BFM Business HD
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="RMCLife.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_life.png" group-title="Lifestyle",RMC Life HD
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lequipe.png" group-title="Sports",L'Équipe HD - ليكيب الرياضية
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 
 #EXTINF:-1 tvg-id="CNews.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cnews.png" group-title="News",CNews HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="News",BFM2 HD
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lci.png" group-title="News",LCI HD
 http://149.62.177.107:9999/LCI/index.m3u8
 
 #EXTINF:-1 tvg-id="France24.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france24_fr.png" group-title="News",France 24 Français HD
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/euronews_fr.png" group-title="News",Euronews Français HD
-https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tv5monde.png" group-title="News",TV5Monde Info HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -288,3 +285,9 @@ http://99.27.51.147:8080/Gulli/index.m3u8
 
 #EXTINF:-1 tvg-id="LCP.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lcp.png" group-title="News",LCP - Assemblée Nationale
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+
+#EXTINF:-1 tvg-id="PlutoCineFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_cinema.png" group-title="Movies",Pluto TV Cinéma Français
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoSeriesFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_series.png" group-title="Entertainment",Pluto TV Séries FR
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
