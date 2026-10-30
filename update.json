@@ -1,11 +1,11 @@
 {
-  "versionCode": 22,
-  "versionName": "1.1.20",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.20.apk",
-  "sha256": "24563b2a40f496aae16e721b890043919357616a933a58cda553c2c1b14c29ee",
+  "versionCode": 23,
+  "versionName": "1.1.21",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.21.apk",
+  "sha256": "0d7d57bd613a6913f3c99559467680a9922fdcea154129a78074c3d53bb6fd0d",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث تلقائي لقائمة القنوات لتشمل باقة beIN SPORTS كاملة (89 قناة)، مع تحسين وتحديث سيرفرات البث الرياضي المباشر وحل مشكلة تحديث القنوات.",
-    "fr": "Mise a jour automatique des chaines beIN SPORTS completes (89 chaines) et optimisation des serveurs de streaming direct."
+    "ar": "حل مشكلة عدم ظهور قنوات beIN SPORTS في القائمة من خلال إصلاح خوارزمية منع التكرار وتمييز روابط القنوات الرياضية.",
+    "fr": "Correction de la deduplication des chaines beIN SPORTS et mise a jour des endpoints du bouquet sportif."
   }
 }
