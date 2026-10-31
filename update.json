@@ -1,11 +1,11 @@
 {
-  "versionCode": 25,
-  "versionName": "1.1.23",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.23.apk",
+  "versionCode": 26,
+  "versionName": "1.1.24",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.24.apk",
   "sha256": "574f418987b1fce59db544a4db60826890f556874fb01496ff3d0f3f2ff98bbd",
-  "mandatory": false,
+  "mandatory": true,
   "notes": {
-    "ar": "تحديث شامل: توسيع باقة الراديو (274 محطة)، إضافة قنوات دبي للإعلام ومكتبة أفلام وثائقية، قسم جديد (رياضة) بنتائج ومباريات اليوم وباقة قنوات رياضية خاصة، قسم جديد (أفلام) بقنوات سينما ومكتبة وثائقيات، حذف شريط التبويب السفلي، إصلاح عدد أعمدة شبكات القنوات في الوضعين العمودي والأفقي، إصلاح تشويش الكتابة في حقول البحث، وإصلاح انطفاء الشاشة وضبط المؤقت أثناء التشغيل.",
-    "fr": "Mise a jour majeure: catalogue radio etendu (274 stations), ajout des chaines Dubai Media et d une bibliotheque de documentaires, nouvelle section Sport (resultats du jour et bouquet de chaines sportives), nouvelle section Films (chaines cinema et documentaires), suppression de la barre de navigation du bas, correction du nombre de colonnes des grilles de chaines (portrait/paysage), correction du bug de saisie dans les champs de recherche, et correction de l ecran qui s eteint pendant la lecture avec minuteur de veille fonctionnel."
+    "ar": "إصلاح عاجل: خلل في تحديث 1.1.23 كان يمحو القنوات الجزائرية والعربية المنسقة ويستبدلها بفهرس عالمي عام أغلب قنواته لا تعمل، وأيضا قسم الافلام المباشرة كان يعرض محتوى الوثائقيات. تم تصحيح الاستيراد، وقسم الافلام المباشرة يعرض الآن قنوات الأفلام فقط بشعارات مربعة، وقسم الأفلام الوثائقية معطّل مؤقتا حتى يتم إصلاحه.",
+    "fr": "Correctif urgent: un bug de la mise a jour 1.1.23 effacait les chaines algeriennes/arabes selectionnees et les remplacait par un index mondial generique en grande partie hors service, et la section Chaines de films affichait aussi les documentaires. Import corrige: les chaines de films s affichent desormais seules avec des logos carres, et les Documentaires sont temporairement desactivees en attendant leur correction."
   }
 }
