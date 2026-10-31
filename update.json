@@ -1,11 +1,11 @@
 {
-  "versionCode": 24,
-  "versionName": "1.1.22",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.22.apk",
-  "sha256": "72ac195ffa96ccb88372f574178973c23452c6ab62c3d3e71eb4e8a86c01a11e",
+  "versionCode": 25,
+  "versionName": "1.1.23",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.23.apk",
+  "sha256": "574f418987b1fce59db544a4db60826890f556874fb01496ff3d0f3f2ff98bbd",
   "mandatory": false,
   "notes": {
-    "ar": "إضافة الباقة الفرنسية الكاملة وقنوات السينما والأفلام والمسلسلات المجانية (Pluto TV Cinéma & Séries, CStar, RMC Life, BFM2).",
-    "fr": "Ajout du bouquet francais complet TNT et des chaines cinema et series gratuites 24/7."
+    "ar": "تحديث شامل: توسيع باقة الراديو (274 محطة)، إضافة قنوات دبي للإعلام ومكتبة أفلام وثائقية، قسم جديد (رياضة) بنتائج ومباريات اليوم وباقة قنوات رياضية خاصة، قسم جديد (أفلام) بقنوات سينما ومكتبة وثائقيات، حذف شريط التبويب السفلي، إصلاح عدد أعمدة شبكات القنوات في الوضعين العمودي والأفقي، إصلاح تشويش الكتابة في حقول البحث، وإصلاح انطفاء الشاشة وضبط المؤقت أثناء التشغيل.",
+    "fr": "Mise a jour majeure: catalogue radio etendu (274 stations), ajout des chaines Dubai Media et d une bibliotheque de documentaires, nouvelle section Sport (resultats du jour et bouquet de chaines sportives), nouvelle section Films (chaines cinema et documentaires), suppression de la barre de navigation du bas, correction du nombre de colonnes des grilles de chaines (portrait/paysage), correction du bug de saisie dans les champs de recherche, et correction de l ecran qui s eteint pendant la lecture avec minuteur de veille fonctionnel."
   }
 }
