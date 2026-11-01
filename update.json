@@ -1,11 +1,11 @@
 {
-  "versionCode": 26,
-  "versionName": "1.1.24",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.24.apk",
-  "sha256": "d5e0451a921d37650f8f457b9890d8b0430b28e264d59b67c0955afca449d82e",
-  "mandatory": true,
+  "versionCode": 27,
+  "versionName": "1.1.25",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.25.apk",
+  "sha256": "0ec954477915949c1aa212dd4536c044602e017ec606d1e002869a7b10a88a56",
+  "mandatory": false,
   "notes": {
-    "ar": "إصلاح عاجل: خلل في تحديث 1.1.23 كان يمحو القنوات الجزائرية والعربية المنسقة ويستبدلها بفهرس عالمي عام أغلب قنواته لا تعمل، وأيضا قسم الافلام المباشرة كان يعرض محتوى الوثائقيات. تم تصحيح الاستيراد، وقسم الافلام المباشرة يعرض الآن قنوات الأفلام فقط بشعارات مربعة، وقسم الأفلام الوثائقية معطّل مؤقتا حتى يتم إصلاحه.",
-    "fr": "Correctif urgent: un bug de la mise a jour 1.1.23 effacait les chaines algeriennes/arabes selectionnees et les remplacait par un index mondial generique en grande partie hors service, et la section Chaines de films affichait aussi les documentaires. Import corrige: les chaines de films s affichent desormais seules avec des logos carres, et les Documentaires sont temporairement desactivees en attendant leur correction."
+    "ar": "إضافة قائمتي القنوات العربية والفرنسية (iptv-org) تلقائيا كمصدرين قابلين للتعطيل من الإعدادات، مع نظام يتجنب تكرار القنوات بين المصادر المتعددة (قائمتنا المنسقة لها الأولوية دائما). أضيفت أيضا قنوات Al Kass Sports للتجربة.",
+    "fr": "Ajout automatique des listes de chaines arabes et francaises (iptv-org) comme sources desactivables depuis les reglages, avec un systeme qui evite les doublons entre plusieurs sources (notre liste selectionnee reste toujours prioritaire). Ajout egalement des chaines Al Kass Sports a l essai."
   }
 }
