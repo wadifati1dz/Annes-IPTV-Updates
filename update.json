@@ -1,11 +1,11 @@
 {
-  "versionCode": 27,
-  "versionName": "1.1.25",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.25.apk",
-  "sha256": "0ec954477915949c1aa212dd4536c044602e017ec606d1e002869a7b10a88a56",
+  "versionCode": 28,
+  "versionName": "1.1.26",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.26.apk",
+  "sha256": "84fb854fe084225855c4e3a966efb5a03f1d755b72de8c9840b5e1f1ce4bfaf8",
   "mandatory": false,
   "notes": {
-    "ar": "إضافة قائمتي القنوات العربية والفرنسية (iptv-org) تلقائيا كمصدرين قابلين للتعطيل من الإعدادات، مع نظام يتجنب تكرار القنوات بين المصادر المتعددة (قائمتنا المنسقة لها الأولوية دائما). أضيفت أيضا قنوات Al Kass Sports للتجربة.",
-    "fr": "Ajout automatique des listes de chaines arabes et francaises (iptv-org) comme sources desactivables depuis les reglages, avec un systeme qui evite les doublons entre plusieurs sources (notre liste selectionnee reste toujours prioritaire). Ajout egalement des chaines Al Kass Sports a l essai."
+    "ar": "جديد: إضافة جدول ترتيب الدوريات والبطولات الكبرى، تعديل القائمة الجانبية (شعار أكبر، ساعة حية بالثواني، وعلم البلد)، حل مشكلة التجمد عند الخروج من البث المباشر، وتحسين التنقل بالريموت كنترول في قسم الرياضة.",
+    "fr": "Nouveau : classement des championnats, panneau latéral amélioré (grand logo, horloge en secondes, drapeau), correction du gel en quittant le direct, et navigation télécommande dans la section sport."
   }
 }
