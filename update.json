@@ -1,11 +1,11 @@
 {
-  "versionCode": 28,
-  "versionName": "1.1.26",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.26.apk",
-  "sha256": "84fb854fe084225855c4e3a966efb5a03f1d755b72de8c9840b5e1f1ce4bfaf8",
+  "versionCode": 29,
+  "versionName": "1.1.27",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.27.apk",
+  "sha256": "03c5c62fd9c300718ea9b3eb88c840aba03e8f54f48762857643c485ffc453a3",
   "mandatory": false,
   "notes": {
-    "ar": "جديد: إضافة جدول ترتيب الدوريات والبطولات الكبرى، تعديل القائمة الجانبية (شعار أكبر، ساعة حية بالثواني، وعلم البلد)، حل مشكلة التجمد عند الخروج من البث المباشر، وتحسين التنقل بالريموت كنترول في قسم الرياضة.",
-    "fr": "Nouveau : classement des championnats, panneau latéral amélioré (grand logo, horloge en secondes, drapeau), correction du gel en quittant le direct, et navigation télécommande dans la section sport."
+    "ar": "جديد: إضافة خاصية إعادة ترتيب الباقات والقنوات وترقيمها، التحكم في شفافية قائمة القنوات في الإعدادات، ملء شاشة التلفاز بنسبة 100% بدون هوامش، إعادة تصميم بطاقة خيارات القناة وحل مشكلة الإغلاق السريع، وتحديث شكل القنوات المشاهدة مؤخراً إلى مربعات أنيقة.",
+    "fr": "Nouveau : réorganisation et numérotation des bouquets et chaînes, contrôle de la transparence du panneau dans les paramètres, affichage 100% plein écran sur TV, nouvelle carte d'options de chaîne avec confirmation, et vignettes carrées pour les chaînes récentes."
   }
 }
