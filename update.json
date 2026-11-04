@@ -1,11 +1,11 @@
 {
-  "versionCode": 32,
-  "versionName": "1.1.30",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.30.apk",
-  "sha256": "ac6bef2f306f6aba01093af3072aa154dfdefd79051542927e50ebe1346c5352",
+  "versionCode": 33,
+  "versionName": "1.1.31",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.31.apk",
+  "sha256": "e0eefc32b8e53a3744799eca47891d6841ac02d5e12fec3f78cf6be132ceaf2e",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.30: إضافة الدوري الجزائري والسعودي والقطري وتصنيف FIFA، فلترة قنوات الأفلام حسب اللغة مع دخول مباشر، تحسين قائمة حفظ وحذف القنوات بالريموت، وإلغاء الأشرطة وعناصر التحكم المزعجة على التلفاز لعرض نقي وتحكم فوري.",
-    "fr": "Mise à jour 1.1.30 : ajout des ligues algérienne, saoudienne et qatarie et classement FIFA, filtrage des films par langue avec accès direct, amélioration du dialogue des chaînes et suppression des barres encombrantes sur TV."
+    "ar": "تحديث 1.1.31: حل نهائي وسلس للانتقال بين قائمة القنوات وقائمة الباقات بالريموت، وحذف القائمة الشبكية القديمة للراديو للدخول المباشر إلى مشغل الراديو الشامل.",
+    "fr": "Mise à jour 1.1.31 : navigation fluide et garantie entre les chaînes et les bouquets à la télécommande, et accès direct au lecteur radio complet sans l'ancienne grille."
   }
 }
