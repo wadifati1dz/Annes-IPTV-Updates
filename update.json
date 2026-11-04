@@ -1,11 +1,11 @@
 {
-  "versionCode": 34,
-  "versionName": "1.1.32",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.32.apk",
-  "sha256": "ec5e49b33c44539f102ae762c6578f5a12d1be9c8cc0b333e6c8bd42ac99513d",
+  "versionCode": 35,
+  "versionName": "1.1.33",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.33.apk",
+  "sha256": "08d05d952216bb0e476b52f93e62ef3abf49bb129a3765b15b00d6f476675593",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.32: موجة صوتية كونية تفاعلية حية في مشغل الراديو المباشر، إعادة تنظيم مشغل الراديو ودعم التحكم الكامل بالريموت ودمج مؤقت النوم، تسريع وسلاسة التنقل بين بطاقات الشاشة الرئيسية، إصلاح ثبات نافذة الخيارات عند الضغط المطوّل، وتوحيد حجم بطاقات المشاهدة الأخيرة.",
-    "fr": "Mise à jour 1.1.32 : onde sonore cosmique en temps réel dans le lecteur radio, contrôle complet à la télécommande avec minuterie intégrée, navigation ultra-fluide sur l'écran d'accueil, stabilité du menu d'appui long, et cartes de reprise compactes."
+    "ar": "تحديث 1.1.33: توسعة ضخمة للقنوات المدمجة (254 قناة) تشمل باقة MBC كاملة (17 قناة)، قنوات الكأس الرياضية 1–8 بجودة 1080p، باقات الإمارات وقطر وbeIN الترفيهية ومصر والمغرب، باقة القنوات الفرنسية TNT وCanal+ ومجموعة RMC كاملة، باقة الوثائقيات والطبيعة والصيد والسفر (Animaux / Chasse & Pêche / Voyage / E!)، وباقة Box Premium & FilmBox.",
+    "fr": "Mise à jour 1.1.33 : extension majeure de la liste intégrée (254 chaînes) incluant le bouquet complet MBC (17 chaînes), Al Kass Sports 1–8 en 1080p, les chaînes des Émirats, du Qatar, beIN Entertainment, d'Égypte et du Maroc, le bouquet français TNT + Canal+ + groupe RMC complet, les chaînes Nature/Chasse & Pêche/Voyage/E!, ainsi que le bouquet Box Premium & FilmBox."
   }
 }
