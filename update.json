@@ -1,11 +1,11 @@
 {
-  "versionCode": 33,
-  "versionName": "1.1.31",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.31.apk",
-  "sha256": "e0eefc32b8e53a3744799eca47891d6841ac02d5e12fec3f78cf6be132ceaf2e",
+  "versionCode": 34,
+  "versionName": "1.1.32",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.32.apk",
+  "sha256": "ec5e49b33c44539f102ae762c6578f5a12d1be9c8cc0b333e6c8bd42ac99513d",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.31: حل نهائي وسلس للانتقال بين قائمة القنوات وقائمة الباقات بالريموت، وحذف القائمة الشبكية القديمة للراديو للدخول المباشر إلى مشغل الراديو الشامل.",
-    "fr": "Mise à jour 1.1.31 : navigation fluide et garantie entre les chaînes et les bouquets à la télécommande, et accès direct au lecteur radio complet sans l'ancienne grille."
+    "ar": "تحديث 1.1.32: موجة صوتية كونية تفاعلية حية في مشغل الراديو المباشر، إعادة تنظيم مشغل الراديو ودعم التحكم الكامل بالريموت ودمج مؤقت النوم، تسريع وسلاسة التنقل بين بطاقات الشاشة الرئيسية، إصلاح ثبات نافذة الخيارات عند الضغط المطوّل، وتوحيد حجم بطاقات المشاهدة الأخيرة.",
+    "fr": "Mise à jour 1.1.32 : onde sonore cosmique en temps réel dans le lecteur radio, contrôle complet à la télécommande avec minuterie intégrée, navigation ultra-fluide sur l'écran d'accueil, stabilité du menu d'appui long, et cartes de reprise compactes."
   }
 }
