@@ -1,11 +1,11 @@
 {
-  "versionCode": 29,
-  "versionName": "1.1.27",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.27.apk",
-  "sha256": "03c5c62fd9c300718ea9b3eb88c840aba03e8f54f48762857643c485ffc453a3",
+  "versionCode": 30,
+  "versionName": "1.1.28",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.28.apk",
+  "sha256": "a23c3e045b4e9940d511e77e26cbfa344ff9f784e923c701bf2d8951c96ea45f",
   "mandatory": false,
   "notes": {
-    "ar": "جديد: إضافة خاصية إعادة ترتيب الباقات والقنوات وترقيمها، التحكم في شفافية قائمة القنوات في الإعدادات، ملء شاشة التلفاز بنسبة 100% بدون هوامش، إعادة تصميم بطاقة خيارات القناة وحل مشكلة الإغلاق السريع، وتحديث شكل القنوات المشاهدة مؤخراً إلى مربعات أنيقة.",
-    "fr": "Nouveau : réorganisation et numérotation des bouquets et chaînes, contrôle de la transparence du panneau dans les paramètres, affichage 100% plein écran sur TV, nouvelle carte d'options de chaîne avec confirmation, et vignettes carrées pour les chaînes récentes."
+    "ar": "إصلاحات تقنية وتنقل سلس: حل مشكلة تعليق المؤشر بين قائمة الباقات وقائمة القنوات/المحطات وإمكانية العودة والتنقل بكل سلاسة بريموت التلفاز، تنظيف وهيكلة كود المشغل في مكون منفصل وخفيف، وتحسين أداء المشغل وتجاوب الأزرار.",
+    "fr": "Correctifs techniques et navigation fluide : résolution du blocage du curseur entre bouquets et liste de chaînes/stations avec transitions fluides à la télécommande, refactorisation et nettoyage du code du lecteur, et réactivité accrue."
   }
 }
