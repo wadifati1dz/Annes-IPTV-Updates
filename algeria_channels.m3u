@@ -291,3 +291,90 @@ https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
 
 #EXTINF:-1 tvg-id="PlutoSeriesFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_series.png" group-title="Entertainment",Pluto TV Séries FR
 https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+
+# ==============================================================================
+# 6. قنوات دبي للإعلام الرسمية (Dubai Media Incorporated - 6) — لا شعار متاح (الموقع الرسمي يمنع الربط المباشر بالصورة)
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-country="AE" tvg-language="ar" group-title="General",Dubai TV
+https://svs.itworkscdn.net/dubaimedialive/dubaitvabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="AE" tvg-language="en" group-title="Entertainment",Dubai One
+https://svs.itworkscdn.net/dubaimedialive/dubaioneabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NoorDubai.ae" tvg-country="AE" tvg-language="ar" group-title="Religious",Noor Dubai
+https://svs.itworkscdn.net/dubaimedialive/noordubaiabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-country="AE" tvg-language="ar" group-title="General",Sama Dubai
+https://svs.itworkscdn.net/dubaimedialive/samadubaiabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-country="AE" tvg-language="ar" group-title="Sports",Dubai Racing
+https://svs.itworkscdn.net/dubaimedialive/dubairacingabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-country="AE" tvg-language="ar" group-title="General",Dubai Zaman
+https://svs.itworkscdn.net/dubaimedialive/dubaizamanabr/playlist.m3u8
+
+# ==============================================================================
+# 7. أفلام وثائقية (نطاق عام - Archive.org) — Public Domain Documentaries (14)
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_prelude_to_war" group-title="Documentary;Movies",Why We Fight: Prelude to War (1942)
+https://archive.org/download/wwf_prelude_to_war/prelude_to_war_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_nazis_strike" group-title="Documentary;Movies",Why We Fight: The Nazis Strike (1943)
+https://archive.org/download/wwf_the_nazis_strike/the_nazis_strike_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_battle_of_britain" group-title="Documentary;Movies",Why We Fight: The Battle of Britain (1943)
+https://archive.org/download/wwf_the_battle_of_britain/the_battle_of_britain_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_battle_of_russia_pt1" group-title="Documentary;Movies",Why We Fight: The Battle of Russia - Part 1 (1943)
+https://archive.org/download/wwf_the_battle_of_russia_pt1/the_battle_of_russia_pt1_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/war_comes_to_america" group-title="Documentary;Movies",Why We Fight: War Comes to America (1945)
+https://archive.org/download/war_comes_to_america/war_comes_to_america_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/TheNewSpirit" group-title="Documentary;Movies",The New Spirit (1942)
+https://archive.org/download/TheNewSpirit/TheNewSpirit.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/battle_of_san_pietro" group-title="Documentary;Movies",The Battle of San Pietro (1945)
+https://archive.org/download/battle_of_san_pietro/battle_of_san_pietro_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/the_battle_of_midway" group-title="Documentary;Movies",The Battle of Midway (1942)
+https://archive.org/download/the_battle_of_midway/the_battle_of_midway_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/TheMemphisBelleAStoryofaFlyingFortress" group-title="Documentary;Movies",The Memphis Belle: A Story of a Flying Fortress (1944)
+https://archive.org/download/TheMemphisBelleAStoryofaFlyingFortress/Memphis.BelleTheA.Story.Of.A.Flying.Fortress.1944_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/DeathMills" group-title="Documentary;Movies",Death Mills (1945)
+https://archive.org/download/DeathMills/DeathMills.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/the_quiet_one" group-title="Documentary;Movies",The Quiet One (1948)
+https://archive.org/download/the_quiet_one/the_quiet_one.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/bacteria_friend_and_foe" group-title="Documentary;Movies",Bacteria: Friend and Foe
+https://archive.org/download/bacteria_friend_and_foe/bacteria_friend_and_foe_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/ParkCons1938" group-title="Documentary;Movies",Park Conscious (1938)
+https://archive.org/download/ParkCons1938/ParkCons1938_512kb.mp4
+
+# ==============================================================================
+# 8. Al Kass Sports (قطر - غير مؤكد العمل، أضيفت للتجربة فقط)
+# ==============================================================================
+
+#EXTINF:-1 tvg-country="QA" tvg-language="ar" group-title="Sports",Al Kass Sports 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1 tvg-country="QA" tvg-language="ar" group-title="Sports",Al Kass Sports 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1 tvg-country="QA" tvg-language="ar" group-title="Sports",Al Kass Sports 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1 tvg-country="QA" tvg-language="ar" group-title="Sports",Al Kass Sports 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1 tvg-country="QA" tvg-language="ar" group-title="Sports",Al Kass Sports 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
+#EXTINF:-1 tvg-country="QA" tvg-language="ar" group-title="Sports",Al Kass Sports 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
