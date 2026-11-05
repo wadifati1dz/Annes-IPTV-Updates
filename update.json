@@ -1,11 +1,11 @@
 {
-  "versionCode": 35,
-  "versionName": "1.1.33",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.33.apk",
-  "sha256": "08d05d952216bb0e476b52f93e62ef3abf49bb129a3765b15b00d6f476675593",
+  "versionCode": 36,
+  "versionName": "1.1.34",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.34.apk",
+  "sha256": "b69922247dad5378b1bb51b9977302138f7d594f944a1a1b44790ae97c1d32b9",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.33: توسعة ضخمة للقنوات المدمجة (254 قناة) تشمل باقة MBC كاملة (17 قناة)، قنوات الكأس الرياضية 1–8 بجودة 1080p، باقات الإمارات وقطر وbeIN الترفيهية ومصر والمغرب، باقة القنوات الفرنسية TNT وCanal+ ومجموعة RMC كاملة، باقة الوثائقيات والطبيعة والصيد والسفر (Animaux / Chasse & Pêche / Voyage / E!)، وباقة Box Premium & FilmBox.",
-    "fr": "Mise à jour 1.1.33 : extension majeure de la liste intégrée (254 chaînes) incluant le bouquet complet MBC (17 chaînes), Al Kass Sports 1–8 en 1080p, les chaînes des Émirats, du Qatar, beIN Entertainment, d'Égypte et du Maroc, le bouquet français TNT + Canal+ + groupe RMC complet, les chaînes Nature/Chasse & Pêche/Voyage/E!, ainsi que le bouquet Box Premium & FilmBox."
+    "ar": "تحديث 1.1.34: دمج وفصل الباقات الجديدة (Box Premium، MBC، beIN Sports، beIN Entertainment، ART، Rotana، Al Kass Sports 1-8، Alwan Sports) كباقات مستقلة، وتحديث سيرفرات القنوات الفرنسية (TF1, M6, W9, TMC, TFX) وقنوات الإمارات وحل مشاكل الحظر الجغرافي 403.",
+    "fr": "Mise à jour 1.1.34 : séparation des bouquets thématiques (Box Premium, MBC, beIN Sports, beIN Entertainment, ART, Rotana, Al Kass Sports 1-8, Alwan Sports) en cartes indépendantes, mise à jour des flux TNT français (TF1, M6, W9, TMC, TFX) et chaînes des Émirats, correction du géo-blocage 403."
   }
 }
