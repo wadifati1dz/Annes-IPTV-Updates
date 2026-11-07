@@ -1,11 +1,11 @@
 {
-  "versionCode": 36,
-  "versionName": "1.1.34",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.34.apk",
-  "sha256": "b69922247dad5378b1bb51b9977302138f7d594f944a1a1b44790ae97c1d32b9",
+  "versionCode": 37,
+  "versionName": "1.1.35",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.35.apk",
+  "sha256": "94b44071752e02ee49c7f68c83f236da65480ea179cb01fa3ff3eb015a85001d",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.34: دمج وفصل الباقات الجديدة (Box Premium، MBC، beIN Sports، beIN Entertainment، ART، Rotana، Al Kass Sports 1-8، Alwan Sports) كباقات مستقلة، وتحديث سيرفرات القنوات الفرنسية (TF1, M6, W9, TMC, TFX) وقنوات الإمارات وحل مشاكل الحظر الجغرافي 403.",
-    "fr": "Mise à jour 1.1.34 : séparation des bouquets thématiques (Box Premium, MBC, beIN Sports, beIN Entertainment, ART, Rotana, Al Kass Sports 1-8, Alwan Sports) en cartes indépendantes, mise à jour des flux TNT français (TF1, M6, W9, TMC, TFX) et chaînes des Émirats, correction du géo-blocage 403."
+    "ar": "تحديث 1.1.35: إضافة باقة القرآن الكريم والقنوات الدينية الإسلامية، وتعيين شعار القرآن الذهبي للقنوات الدينية، تحسين وتنسيق مشغل الراديو بالكامل في الوضعين الأفقي والعمودي، إصلاح حساسية إيماءات الصوت باللمس على الأجهزة اللوحية (Tablets) والهواتف، خفض الـ Header لمساحة مريحة، وفحص وتنبيه التحديث التلقائي الفوري عند فتح التطبيق.",
+    "fr": "Mise à jour 1.1.35 : ajout du bouquet Saint Coran et chaînes islamiques avec logo doré dédié, refonte et harmonisation du lecteur radio (modes portrait et paysage), correction de la sensibilité du geste tactile de volume sur tablettes et téléphones, espacement élégant de l'en-tête et vérification automatique immédiate des mises à jour au démarrage."
   }
 }
