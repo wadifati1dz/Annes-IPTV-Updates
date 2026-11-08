@@ -485,6 +485,28 @@ https://www.elahmad.ru/tv/live/alkass-net.php?id=seven
 https://www.elahmad.ru/tv/live/alkass-net.php?id=eight
 
 # ==============================================================================
+# 8.1 باقة قنوات أبوظبي الرياضية (AD Sports Bouquet - 6)
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/abu_dhabi_sports_1.jpg" group-title="AD Sports",AD Sports 1 HD - أبوظبي الرياضية 1
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=adsport1
+
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/abu_dhabi_sports_2.jpg" group-title="AD Sports",AD Sports 2 HD - أبوظبي الرياضية 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=adsport2
+
+#EXTINF:-1 tvg-id="AbuDhabiSportsPremium1.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/abu_dhabi_sports_3.jpg" group-title="AD Sports",AD Sports Premium 1 HD - أبوظبي الرياضية بريميوم 1
+https://alwanlive.stream/?channel=ad_premium1
+
+#EXTINF:-1 tvg-id="AbuDhabiSportsPremium2.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/abu_dhabi_sports_4.jpg" group-title="AD Sports",AD Sports Premium 2 HD - أبوظبي الرياضية بريميوم 2
+https://alwanlive.stream/?channel=ad_premium2
+
+#EXTINF:-1 tvg-id="AbuDhabiSportsAsia1.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/abu_dhabi_sports_1.jpg" group-title="AD Sports",AD Sports 1 Asia HD - أبوظبي الرياضية 1 آسيا
+https://alwanlive.stream/?channel=ad_asia1
+
+#EXTINF:-1 tvg-id="AbuDhabiSportsAsia2.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/abu_dhabi_sports_2.jpg" group-title="AD Sports",AD Sports 2 Asia HD - أبوظبي الرياضية 2 آسيا
+https://alwanlive.stream/?channel=ad_asia2
+
+# ==============================================================================
 # 9. باقة قنوات إم بي سي (MBC Channels - 17)
 # ==============================================================================
 
@@ -574,28 +596,104 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alarabytv
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alaraby_2
 
 # ==============================================================================
-# 10.1 باقة قنوات بي إن الترفيهية (beIN Entertainment - 7)
+# 10.1 باقة قنوات بي إن الترفيهية الكاملة (beIN Entertainment - 27)
 # ==============================================================================
 
-#EXTINF:-1 tvg-id="Baraem.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/baraem.jpg" group-title="beIN Entertainment",beIN Baraem - قناة براعم للأطفال
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=baraem
+#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_series1.png" group-title="beIN Entertainment",beIN Series 1 HD - بي إن سيريز 1
+https://alwanlive.stream/?channel=bein_series1
 
-#EXTINF:-1 tvg-id="JeemTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/jscc.jpg" group-title="beIN Entertainment",beIN Jeem TV - قناة جيم للأطفال
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=jscc1
+#EXTINF:-1 tvg-id="beINSeriesHD.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_series2.png" group-title="beIN Entertainment",beIN Series HD - بي إن سيريز
+https://alwanlive.stream/?channel=bein_series2
 
-#EXTINF:-1 tvg-id="Fatafeat.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/fatafeat.jpg" group-title="beIN Entertainment",beIN Fatafeat - قناة فتافيت
+#EXTINF:-1 tvg-id="beINDrama1.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_drama.png" group-title="beIN Entertainment",beIN Drama 1 HD - بي إن دراما 1
+https://alwanlive.stream/?channel=bein_drama
+
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_movies1.png" group-title="beIN Entertainment",beIN Movies 1 Premiere HD - بي إن موفيز 1
+https://alwanlive.stream/?channel=bein_movies1
+
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_movies2.png" group-title="beIN Entertainment",beIN Movies 2 Action HD - بي إن موفيز 2
+https://alwanlive.stream/?channel=bein_movies2
+
+#EXTINF:-1 tvg-id="beINMovies3.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_movies3.png" group-title="beIN Entertainment",beIN Movies 3 Drama HD - بي إن موفيز 3
+https://alwanlive.stream/?channel=bein_movies3
+
+#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_movies4.png" group-title="beIN Entertainment",beIN Movies 4 Family HD - بي إن موفيز 4
+https://alwanlive.stream/?channel=bein_movies4
+
+#EXTINF:-1 tvg-id="beINGourmet.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bein_gourmet.png" group-title="beIN Entertainment",beIN Gourmet HD - بي إن غورميه
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=bein_gourmet
+
+#EXTINF:-1 tvg-id="Fatafeat.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/fatafeat.jpg" group-title="beIN Entertainment",Fatafeat HD - فتافيت
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=fatafeat
 
-#EXTINF:-1 tvg-id="Spacetoon.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/spacetoon.jpg" group-title="beIN Entertainment",SpaceToon HD - قناة سبيس تون
+#EXTINF:-1 tvg-id="BeJunior.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/be_junior.png" group-title="beIN Entertainment",Be Junior HD - بي جونيور
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=be_junior
+
+#EXTINF:-1 tvg-id="JeemTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/jscc.jpg" group-title="beIN Entertainment",Jeem HD - تلفزيون ج
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=jscc1
+
+#EXTINF:-1 tvg-id="Baraem.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/baraem.jpg" group-title="beIN Entertainment",Baraem HD - براعم للأطفال
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=baraem
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bbc_earth.png" group-title="beIN Entertainment",BBC Earth ME HD - بي بي سي إيرث
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=bbcearth
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aljazeera.jpg" group-title="beIN Entertainment",Al Jazeera Channel HD - الجزيرة الإخبارية
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDoc.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aljazeera_doc.jpg" group-title="beIN Entertainment",Al Jazeera Documentary HD - الجزيرة الوثائقية
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEng.qa" tvg-country="QA" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aljazeera_english.jpg" group-title="beIN Entertainment",Al Jazeera English HD - الجزيرة الإنجليزية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aljazeera_en
+
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bloomberg.png" group-title="beIN Entertainment",Bloomberg TV HD - بلومبيرغ
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.us" tvg-country="US" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cartoonito.png" group-title="beIN Entertainment",Cartoonito HD - كارتونيتو
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cartoonito
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/food_network.png" group-title="beIN Entertainment",Food Network HD - فود نيتورك
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAr.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cartoon_network.jpg" group-title="beIN Entertainment",Cartoon Network Arabic HD - كرتون نتورك بالعربية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cartoon_network
+
+#EXTINF:-1 tvg-id="CartoonNetworkEn.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cartoon_network_en.png" group-title="beIN Entertainment",Cartoon Network English HD - كرتون نتورك الإنجليزية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cartoon_network_en
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/hgtv.png" group-title="beIN Entertainment",HGTV HD - إتش جي تي في
+http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-country="US" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cnn.jpg" group-title="beIN Entertainment",CNN International HD - سي إن إن الدولية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cnn
+
+#EXTINF:-1 tvg-id="DiscoveryME.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/discovery.png" group-title="beIN Entertainment",Discovery Channel Middle East HD - ديسكفري
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarAction.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/star_action.png" group-title="beIN Entertainment",Star Action HD - ستار أكشن
+https://alwanlive.stream/?channel=star_action
+
+#EXTINF:-1 tvg-id="StarWorld.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/star_world.png" group-title="beIN Entertainment",Star World HD - ستار وورلد
+https://alwanlive.stream/?channel=star_world
+
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/travel_channel.png" group-title="beIN Entertainment",Travel Channel Europe HD - ترافل تشانيل
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+
+# ==============================================================================
+# باقة قنوات الأطفال العامة (General Kids)
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="Spacetoon.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/spacetoon.jpg" group-title="Kids",SpaceToon HD - قناة سبيس تون
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=spacetoon_live
 
-#EXTINF:-1 tvg-id="MoonbugKids.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/moonbug_kids.jpg" group-title="beIN Entertainment",Moonbug Kids - قناة مون باج للأطفال
+#EXTINF:-1 tvg-id="MoonbugKids.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/moonbug_kids.jpg" group-title="Kids",Moonbug Kids - قناة مون باج للأطفال
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=moonbug_kids
 
-#EXTINF:-1 tvg-id="ToyorAlJanah.jo" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/toyoraljanah.jpg" group-title="beIN Entertainment",Toyor Al Janah - قناة طيور الجنة
+#EXTINF:-1 tvg-id="ToyorAlJanah.jo" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/toyoraljanah.jpg" group-title="Kids",Toyor Al Janah - قناة طيور الجنة
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=toyoraljanah
 
-#EXTINF:-1 tvg-id="Karameesh.jo" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/karameesh.jpg" group-title="beIN Entertainment",Karameesh - قناة كراميش
+#EXTINF:-1 tvg-id="Karameesh.jo" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/karameesh.jpg" group-title="Kids",Karameesh - قناة كراميش
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=karameesh
 
 # ==============================================================================

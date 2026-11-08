@@ -1,11 +1,11 @@
 {
-  "versionCode": 38,
-  "versionName": "1.1.36",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.36.apk",
-  "sha256": "bfed44bc950a05d8ecb4adb8adb231c07a0271471be0b7e30a4346d1d174d19f",
+  "versionCode": 39,
+  "versionName": "1.1.37",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.37.apk",
+  "sha256": "390b8582ac712eabc8ea6a8680a29149348181f7387dc3e65e2df31be22395b8",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.36: إعادة تصميم كاملة لمشغل الراديو على التلفاز (شاشة سينمائية كاملة، كبسولة تحكم مكبرة للريموت مع حلقة تركيز متوهجة، درج محطات منزلق جانبي)، إصلاح وتشغيل قنوات MBC (MBC 2 و MBC Action و MBC Max و MBC 3) عبر سيرفرات Shahid CDN السريعة، إضافة باقات Home Cinema الجديدة، ودعم فك التشفير البرمجي FFmpeg.",
-    "fr": "Mise à jour 1.1.36 : refonte complète du lecteur radio sur Android TV (plein écran cinématographique, capsule de contrôle agrandie avec bague de focus, tiroir latéral de stations), correction des chaînes MBC (MBC 2, Action, Max, 3) via Shahid CDN, ajout des bouquets Home Cinema et décodage logiciel FFmpeg."
+    "ar": "تحديث 1.1.37: إضافة باقة قنوات beIN Entertainment الكاملة (27 قناة تشمل الأفلام، المسلسلات، الوثائقيات، الأخبار وقنوات الأطفال المتخصصة مطابقة لتطبيق OZTV)، إضافة باقة قنوات أبوظبي الرياضية (AD Sports) الجديدة بـ 6 قنوات عالية الدقة مع قنوات البريميوم وآسيا، وتحسينات عامة في ثبات وسرعة البث المباشر.",
+    "fr": "Mise à jour 1.1.37 : ajout du bouquet complet beIN Entertainment (27 chaînes cinéma, séries, documentaires et jeunesse conforme à OZTV), ajout du nouveau bouquet Abu Dhabi Sports (AD Sports - 6 chaînes HD incluant Premium et Asie), et améliorations des flux en direct."
   }
 }
