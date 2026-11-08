@@ -1,11 +1,11 @@
 {
-  "versionCode": 39,
-  "versionName": "1.1.37",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.37.apk",
-  "sha256": "390b8582ac712eabc8ea6a8680a29149348181f7387dc3e65e2df31be22395b8",
+  "versionCode": 40,
+  "versionName": "1.1.38",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.38.apk",
+  "sha256": "54b3b68edec11f654454c4a7321fca99b630e4f200a05e9dabec826be05d1179",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.37: إضافة باقة قنوات beIN Entertainment الكاملة (27 قناة تشمل الأفلام، المسلسلات، الوثائقيات، الأخبار وقنوات الأطفال المتخصصة مطابقة لتطبيق OZTV)، إضافة باقة قنوات أبوظبي الرياضية (AD Sports) الجديدة بـ 6 قنوات عالية الدقة مع قنوات البريميوم وآسيا، وتحسينات عامة في ثبات وسرعة البث المباشر.",
-    "fr": "Mise à jour 1.1.37 : ajout du bouquet complet beIN Entertainment (27 chaînes cinéma, séries, documentaires et jeunesse conforme à OZTV), ajout du nouveau bouquet Abu Dhabi Sports (AD Sports - 6 chaînes HD incluant Premium et Asie), et améliorations des flux en direct."
+    "ar": "تحديث 1.1.38: تحسين مشغل الراديو على أجهزة التلفاز (تشغيل المحطة في الخلفية دون إغلاق القائمة، وفتح القائمة بالسهم للأعلى)، تنظيف وتنظيم باقة beIN Sports بأسماء إنجليزية نظيفة والحفاظ على قنوات XTRA و XTRA 2، تنظيف باقة beIN Entertainment وحذف القنوات المتعطلة، حذف باقة أبوظبي الرياضية المتعطلة، وتحديث سيرفرات قنوات MBC.",
+    "fr": "Mise à jour 1.1.38 : amélioration du lecteur radio sur TV (lecture en arrière-plan sans fermeture du tiroir), optimisation du bouquet beIN Sports en anglais et préservation des chaînes XTRA, nettoyage de beIN Entertainment, suppression d'AD Sports et mise à jour des flux MBC."
   }
 }
