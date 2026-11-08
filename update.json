@@ -1,11 +1,11 @@
 {
-  "versionCode": 37,
-  "versionName": "1.1.35",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.35.apk",
-  "sha256": "94b44071752e02ee49c7f68c83f236da65480ea179cb01fa3ff3eb015a85001d",
+  "versionCode": 38,
+  "versionName": "1.1.36",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.36.apk",
+  "sha256": "bfed44bc950a05d8ecb4adb8adb231c07a0271471be0b7e30a4346d1d174d19f",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.35: إضافة باقة القرآن الكريم والقنوات الدينية الإسلامية، وتعيين شعار القرآن الذهبي للقنوات الدينية، تحسين وتنسيق مشغل الراديو بالكامل في الوضعين الأفقي والعمودي، إصلاح حساسية إيماءات الصوت باللمس على الأجهزة اللوحية (Tablets) والهواتف، خفض الـ Header لمساحة مريحة، وفحص وتنبيه التحديث التلقائي الفوري عند فتح التطبيق.",
-    "fr": "Mise à jour 1.1.35 : ajout du bouquet Saint Coran et chaînes islamiques avec logo doré dédié, refonte et harmonisation du lecteur radio (modes portrait et paysage), correction de la sensibilité du geste tactile de volume sur tablettes et téléphones, espacement élégant de l'en-tête et vérification automatique immédiate des mises à jour au démarrage."
+    "ar": "تحديث 1.1.36: إعادة تصميم كاملة لمشغل الراديو على التلفاز (شاشة سينمائية كاملة، كبسولة تحكم مكبرة للريموت مع حلقة تركيز متوهجة، درج محطات منزلق جانبي)، إصلاح وتشغيل قنوات MBC (MBC 2 و MBC Action و MBC Max و MBC 3) عبر سيرفرات Shahid CDN السريعة، إضافة باقات Home Cinema الجديدة، ودعم فك التشفير البرمجي FFmpeg.",
+    "fr": "Mise à jour 1.1.36 : refonte complète du lecteur radio sur Android TV (plein écran cinématographique, capsule de contrôle agrandie avec bague de focus, tiroir latéral de stations), correction des chaînes MBC (MBC 2, Action, Max, 3) via Shahid CDN, ajout des bouquets Home Cinema et décodage logiciel FFmpeg."
   }
 }
