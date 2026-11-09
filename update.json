@@ -1,11 +1,11 @@
 {
-  "versionCode": 45,
-  "versionName": "1.1.43",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.43.apk",
-  "sha256": "4a9056bb74e67720b42df1d25a90271a1a06f2b7e8e333891b062dea2d610272",
+  "versionCode": 48,
+  "versionName": "1.1.46",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.46.apk",
+  "sha256": "6d8e5d18c6bb9057ec11fa8004f112fde0ddf6a7309fc8b65c9772d77aa9da33",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.43: تمكين الوصول الفوري والسلس إلى زر 'مشاهدة الآن' بالريموت كنترول على التلفاز مع التركيز التلقائي ورفع الزر ليظهر في الشاشة الأولى، الإخفاء التلقائي لقائمة الفئات وشريط البحث عند التصفح لتوفير مساحة عرض أكبر للأفلام، استعادة التصميم الكلاسيكي السابق في الوضع العمودي مع الاحتفاظ بتصميم السينما والتلفاز في الوضع الأفقي، وإغلاق ثغرة تسريب الأفلام الآسيوية والأجنبية المخلة بالحياء (مثل Up to You و Love و The Girl Next Door 4) نهائياً عبر فلترة الوسوم وقوائم العناوين العائلية المعتمدة.",
-    "fr": "Mise à jour 1.1.43 : Accès immédiat au bouton 'Regarder maintenant' avec la télécommande TV (focus automatique dès l'ouverture), masquage automatique de la barre des catégories lors du défilement pour agrandir l'espace d'affichage, restauration du design classique en mode portrait tout en conservant le design Cinéma TV en mode paysage, et blocage intégral des films érotiques asiatiques/internationaux dans Romance et Drame."
+    "ar": "تحديث 1.1.46: حل مشكلة العرض العريض للصورة في الوضع العمودي والحفاظ التلقائي على أبعاد الشاشة الطبيعية (FIT) مع دعم زر ملء الشاشة للتدوير، إضافة عداد المستخدمين المتصلين أونلاين لحظياً في الشاشة الرئيسية، الدخول المباشر لمشغل البث الفضائي فور النقر على 'البث المباشر' بالقناة الأخيرة مباشرة، إزالة قنوات beIN Sports التسعة من باقة قطر مع الإبقاء عليها في باقتها المخصصة، وتشغيل قنوات MBC وفك تشفير بثها بثبات وسلاسة.",
+    "fr": "Mise à jour 1.1.46 : Correction du ratio d'image en mode portrait (mode FIT naturel sans distorsion) avec rotation plein écran améliorée, ajout du compteur d'utilisateurs connectés en temps réel sur l'écran d'accueil, accès direct au lecteur TV lors du clic sur 'TV en direct', retrait des 9 chaînes beIN Sports du bouquet Qatar (conservées dans leur bouquet beIN Sports dédié), et lecture stable et déchiffrée des chaînes MBC."
   }
 }
