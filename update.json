@@ -1,17 +1,17 @@
 {
-  "versionCode": 51,
-  "versionName": "1.1.49",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.49.apk",
-  "sha256": "e5780cb09d0728ad1654ae5618d992db3640c2a9ba76dfcd6704ec692bd0c567",
+  "versionCode": 52,
+  "versionName": "1.1.50",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.50.apk",
+  "sha256": "30634c145647dbec583f7c79a346dc166184361bc695ba06fcd8a353b2c2464c",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.48: إضافة ميزة الترجمة التلقائية (OpenSubtitles) للأفلام والمسلسلات والأنمي مع زر CC في المشغل، إعادة تصميم شاشة تفاصيل العمل مع بوستر سينمائي كبير وزر مشاهدة أنيق، فتح فوري لقسم وتصنيفات الأفلام (VOD 0ms Cache) مع تحديث صامت في الخلفية، إثراء قوائم الأفلام وتصدر إصدارات 2026 و2025 في رأس القائمة، توافق كامل لمشغل الراديو على التلفاز مع ذبذبات صوتية متناغمة مع الإيقاع، وإزالة قنوات beIN القديمة من الباقة الجزائرية.",
-    "fr": "Mise à jour 1.1.48 : Intégration des sous-titres automatiques (OpenSubtitles) pour films, séries et animes avec bouton CC, nouveau design de l'écran des détails avec grand poster immersif et bouton de lecture compact et élégant, chargement instantané de la section VOD (0ms Cache) avec rafraîchissement silencieux, abondance des films 2026/2025 en tête de liste, lecteur radio optimisé pour Android TV avec visualiseur audio synchronisé, et suppression des anciens flux beIN Sports."
+    "ar": "تحديث 1.1.50: إزالة المساحة الفارغة في أعلى شاشة الهاتف، إظهار بطاقة التنبيه الذهبية للتحديثات في الشاشة الرئيسية تلقائياً، حل مشكلة التحكم بالريموت لتفعيل الترجمة (CC) في مشغل الأفلام، عزل قنوات beIN Sports عن باقة دولة قطر مع بقائها في باقة الرياضة، وعرض كامل تفاصيل الفيلم وزر المفضلة مع الحفاظ على أفلام بوليوود.",
+    "fr": "Mise à jour 1.1.50: Suppression de l'espace vide en haut sur mobile, carte de mise à jour automatique sur l'écran d'accueil, navigation télécommande fluide pour les sous-titres (CC) dans le lecteur, bouquet Qatar nettoyé des chaînes beIN Sports, et affichage complet des détails des films."
   },
-  "apkSize": 29343800,
-  "releaseDate": "2026-11-09",
+  "apkSize": 29360184,
+  "releaseDate": "2026-11-10",
   "releaseNotes": {
-    "ar": "إصدار 1.1.49:\n• إضافة زر الترجمة (CC) وزر الإعدادات في شريط مشغل التلفاز TV والتحكم فيها بسلاسة.\n• دعم الترجمة التلقائية باللغتين العربية والفرنسية عبر OpenSubtitles وتفعيلها فورياً.\n• إعادة تصميم صفحة بطاقة الفيلم (Widescreen 2-Column) للتلفاز وإلغاء أي فراغ أسود.\n• عرض لغة الفيلم الأصلية، الترجمات المتوفرة، تاريخ الصدور، التقييم، والمدة بجانب البوستر.\n• إضافة زر المفضلة للمشاهدة لاحقاً بجانب زر مشاهدة الآن.\n• الحفاظ الكامل على أفلام بوليوود والهندية وإضافة باقة السينما الفرنسية.\n• تصحيح باقة دولة قطر بنقل قنوات beIN Sports إلى باقتها الرياضية المخصصة فقط.\n• تثبيت الشريط الأفقي للفئات في قسم الأفلام وإزالة الترددات المشوهة وتوسيط الراديو.",
-    "fr": "Version 1.1.49:\n• Bouton Sous-titres (CC) et Paramètres directement sur la barre du lecteur TV.\n• Téléchargement et intégration automatique des sous-titres Arabes et Français via OpenSubtitles.\n• Refonte grand écran cinéma de la fiche film TV (zéro espace vide).\n• Affichage complet de la langue audio, sous-titres disponibles, date, durée et note à côté de l'affiche.\n• Bouton Ajouter aux favoris / À regarder plus tard.\n• Conservation des films Bollywood et ajout de la catégorie Cinéma Français.\n• Correction du bouquet Qatar (beIN Sports exclusif au bouquet Sports).\n• Fixation de la barre des catégories VOD et recentrage de la radio."
+    "ar": "إصدار 1.1.50:\n• إزالة المساحة الفارغة العلوية تماماً على شاشات الهواتف.\n• بطاقة تنبيه صفراء تلقائية في الصفحة الرئيسية فور توفر تحديث هوائي للتثبيت الفوري بنقرة واحدة.\n• تمكين التحكم بالريموت في مشغل الأفلام لتفعيل الترجمة (CC) بدون تداخل أزرار التقديم.\n• إزالة قنوات beIN Sports من قائمة قنوات دولة قطر وحصرها في باقة الرياضة.\n• بطاقة تفاصيل الفيلم المتكاملة (لغة الصوت، الترجمات، تاريخ الصدور، المفضلة) وبقاء أفلام بوليوود.",
+    "fr": "Version 1.1.50:\n• Suppression de l'espace vide en haut sur mobile.\n• Bannière dorée de mise à jour sur l'accueil avec installation directe en 1 clic.\n• Contrôle télécommande fluide pour le bouton Sous-titres (CC) dans le lecteur vidéo.\n• Suppression des chaînes beIN Sports du bouquet Qatar (présentes uniquement dans le bouquet beIN Sports).\n• Fiche détails film complète (langue audio, sous-titres, date de sortie, favoris) et maintien des films Bollywood."
   }
 }
