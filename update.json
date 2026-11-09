@@ -1,11 +1,11 @@
 {
-  "versionCode": 43,
-  "versionName": "1.1.41",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.41.apk",
-  "sha256": "424051d242c294c0a6be0ceb1b54c13879adf1514686caf5ba6a0798cc1e566a",
+  "versionCode": 44,
+  "versionName": "1.1.42",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.42.apk",
+  "sha256": "9ec38636116ca54add4e012632b977466e2fe4d800d8bab9f161ca16730e6667",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.41: مطابقة الواجهة الرئيسية على الهاتف بالوضع الأفقي لتطابق التصميم الرسمي للتلفاز بدقة، إبراز بؤرة التحديد والتنقل بجهاز التحكم بالريموت في شريط فئات الرياضة والدوريات بإطار ذهبي مضيء وتكبير فوري، تحويل أسماء الفرق في جدول الترتيب إلى الأبيض الناصع عالي التباين، وضع الشعارات الرسمية لكافة الأندية (الدوري الجزائري وكبرى الدوريات) والشعارات الرسمية لكل دوري وبطولة، حل مشكلة النقر على زر 'مشاهدة الآن' بالريموت كنترول في صفحة الفيلم، وتفعيل جهاز رقابة صارم يمنع تماماً أي محتوى مخل بالحياء أو غير لائق عبر جميع الأقسام.",
-    "fr": "Mise à jour 1.1.41 : Harmonisation complète de l'accueil paysage sur mobile avec le design officiel TV, mise en évidence lumineuse et dorée du focus télécommande sur les onglets sport et championnats, affichage des noms d'équipes en blanc éclatant, intégration des logos officiels des clubs et des championnats, accessibilité totale du bouton 'Regarder' à la télécommande dans les détails de films, et activation d'un filtre strict de contrôle parental et de censure contre tout contenu inapproprié."
+    "ar": "تحديث 1.1.42: إصلاح جذري ونهائي لانهيار التطبيق على أجهزة التلفاز في صفحة تفاصيل الأفلام عبر إزالة طلبات التركيز القسري وتأمين مفاتيح طاقم التمثيل والمواسم ضد التكرار، تفعيل جهاز رقابة صارم وشامل يحجب بشكل قاطع كافة أفلام Vivamax والمحتويات الإباحية والخليعة في قسمي الدراما والرومانسية ويوجه البحث للأعمال العالمية النظيفة، ومطابقة واجهة الهاتف في الوضع الأفقي مع التصميم الرسمي للتلفاز بدقة.",
+    "fr": "Mise à jour 1.1.42 : Correction définitive du crash sur TV lors de l'ouverture des détails de films (sécurisation des clés Compose et navigation télécommande native), renforcement absolu du contrôle parental et censure stricte éliminant tous les contenus érotiques/Vivamax dans Drame et Romance, et harmonisation complète de l'accueil paysage mobile avec le design TV."
   }
 }
