@@ -1,11 +1,11 @@
 {
-  "versionCode": 40,
-  "versionName": "1.1.38",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.38.apk",
-  "sha256": "54b3b68edec11f654454c4a7321fca99b630e4f200a05e9dabec826be05d1179",
+  "versionCode": 41,
+  "versionName": "1.1.39",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.39.apk",
+  "sha256": "16d3d261ebf92daf15a3717b725de857d017debf0d6503f94a035267849c0ea7",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.38: تحسين مشغل الراديو على أجهزة التلفاز (تشغيل المحطة في الخلفية دون إغلاق القائمة، وفتح القائمة بالسهم للأعلى)، تنظيف وتنظيم باقة beIN Sports بأسماء إنجليزية نظيفة والحفاظ على قنوات XTRA و XTRA 2، تنظيف باقة beIN Entertainment وحذف القنوات المتعطلة، حذف باقة أبوظبي الرياضية المتعطلة، وتحديث سيرفرات قنوات MBC.",
-    "fr": "Mise à jour 1.1.38 : amélioration du lecteur radio sur TV (lecture en arrière-plan sans fermeture du tiroir), optimisation du bouquet beIN Sports en anglais et préservation des chaînes XTRA, nettoyage de beIN Entertainment, suppression d'AD Sports et mise à jour des flux MBC."
+    "ar": "تحديث 1.1.39: إطلاق قسم الأطفال والكرتون بتجربة عائلية نقية 100% (أفلام ديزني، بيكسار، دريم ووركس، سبيستون)، تنقية عالم الأنمي بالكامل بحظر قاطع لأي محتوى مخل (+18/Hentai)، إثراء السينما العربية والأفلام الرائجة متعددة اللغات، وترجمة شاملة لجميع التبويبات باللغات العربية والفرنسية والإنجليزية.",
+    "fr": "Mise à jour 1.1.39 : Nouveau Hub Enfants 100% familial (Disney, Pixar, DreamWorks, Spacetoon), filtrage strict de l'univers Anime contre tout contenu adulte (+18), enrichissement du cinéma arabe et des nouveautés mondiales, et localisation multilingue complète des onglets (AR / FR / EN)."
   }
 }
