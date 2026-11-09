@@ -1,11 +1,11 @@
 {
-  "versionCode": 41,
-  "versionName": "1.1.39",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.39.apk",
-  "sha256": "16d3d261ebf92daf15a3717b725de857d017debf0d6503f94a035267849c0ea7",
+  "versionCode": 42,
+  "versionName": "1.1.40",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.40.apk",
+  "sha256": "06699dcce40cd91c1bbcbdcf3ecfc13c82d5809fb6d9502ab993ec22119e6fad",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.39: إطلاق قسم الأطفال والكرتون بتجربة عائلية نقية 100% (أفلام ديزني، بيكسار، دريم ووركس، سبيستون)، تنقية عالم الأنمي بالكامل بحظر قاطع لأي محتوى مخل (+18/Hentai)، إثراء السينما العربية والأفلام الرائجة متعددة اللغات، وترجمة شاملة لجميع التبويبات باللغات العربية والفرنسية والإنجليزية.",
-    "fr": "Mise à jour 1.1.39 : Nouveau Hub Enfants 100% familial (Disney, Pixar, DreamWorks, Spacetoon), filtrage strict de l'univers Anime contre tout contenu adulte (+18), enrichissement du cinéma arabe et des nouveautés mondiales, et localisation multilingue complète des onglets (AR / FR / EN)."
+    "ar": "تحديث 1.1.40: حل مشكلة تحديد وبؤرة التصفح بجهاز التحكم (الريموت كنترول) على التلفاز في بطاقات قسم السينما وبطاقات الأفلام وتبويبات الفئات، حل مشكلة تكرار العناوين في القوائم وإلغاء تكرار الأسماء المتطابقة، إثراء الصفحة الرئيسية لكل قسم بصفوف غنية ومتنوعة مع إمكانية النقر على اسم التصنيف أو «عرض الكل» لعرض المجموعة كاملة، إضافة شريط تصنيف وتصفية الأفلام حسب النوع (أكشن، كوميديا، دراما، رعب، مغامرات، خيال علمي...)، وتثبيت تخطيط 2x2 للبطاقات الأربعة في الوضع الأفقي على الهواتف والألواح والتلفاز مع الحفاظ على الواجهة الرسمية للهاتف.",
+    "fr": "Mise à jour 1.1.40 : Amélioration majeure de la navigation à la télécommande (focus TV lumineux et bordures dorées sur les cartes de films et onglets), suppression définitive des doublons dans les listes, enrichissement des pages d'accueil avec 'Voir tout' cliquable par catégorie, ajout du filtre par genres (Action, Comédie, Drame, Horreur, etc.), et disposition 2x2 des 4 cartes en mode paysage sur smartphone, tablette et TV."
   }
 }
