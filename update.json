@@ -1,11 +1,11 @@
 {
-  "versionCode": 48,
-  "versionName": "1.1.46",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.46.apk",
-  "sha256": "6d8e5d18c6bb9057ec11fa8004f112fde0ddf6a7309fc8b65c9772d77aa9da33",
+  "versionCode": 49,
+  "versionName": "1.1.47",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.47.apk",
+  "sha256": "229f3f858bb94d057f282144738c4431334003a39bf1362e04c68f95d9b74241",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.46: حل مشكلة العرض العريض للصورة في الوضع العمودي والحفاظ التلقائي على أبعاد الشاشة الطبيعية (FIT) مع دعم زر ملء الشاشة للتدوير، إضافة عداد المستخدمين المتصلين أونلاين لحظياً في الشاشة الرئيسية، الدخول المباشر لمشغل البث الفضائي فور النقر على 'البث المباشر' بالقناة الأخيرة مباشرة، إزالة قنوات beIN Sports التسعة من باقة قطر مع الإبقاء عليها في باقتها المخصصة، وتشغيل قنوات MBC وفك تشفير بثها بثبات وسلاسة.",
-    "fr": "Mise à jour 1.1.46 : Correction du ratio d'image en mode portrait (mode FIT naturel sans distorsion) avec rotation plein écran améliorée, ajout du compteur d'utilisateurs connectés en temps réel sur l'écran d'accueil, accès direct au lecteur TV lors du clic sur 'TV en direct', retrait des 9 chaînes beIN Sports du bouquet Qatar (conservées dans leur bouquet beIN Sports dédié), et lecture stable et déchiffrée des chaînes MBC."
+    "ar": "تحديث 1.1.47: تفعيل الشريط الزمني وعناصر التحكم الكاملة بالأفلام على شاشات التلفاز (VOD Timeline)، ظهور فوري لقائمة القنوات عند الضغط على OK في المشغل بدون أي تأخير أو تجمد في الصورة (0ms Pre-caching)، تصفح سلس وخفيف جداً في قائمة الباقات بدون ثقل مع تثبيت وانتقال هادئ للتركيز يساراً بدون قفزات مباغتة، وملء الشاشة الكامل في الوضع الأفقي على الهاتف بدون إخفاء أي جزء من الصورة مع الحفاظ على الأبعاد الأصلية عمودياً.",
+    "fr": "Mise à jour 1.1.47 : Affichage de la barre temporelle et des contrôles de lecture des films sur Android TV (VOD Timeline), ouverture instantanée de la liste des chaînes sur OK sans aucun gel d'image (0ms Pre-caching), navigation ultra-fluide et légère dans les bouquets sans saccades ni sauts brusques, et plein écran optimal en mode paysage sur smartphone sans masquer aucune partie de l'image."
   }
 }
