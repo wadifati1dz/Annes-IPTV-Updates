@@ -1,11 +1,17 @@
 {
-  "versionCode": 50,
-  "versionName": "1.1.48",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.48.apk",
-  "sha256": "cab3da4e2f6be3052f6ea9346a4d890f5ab17d243a855494cd54c0ea73b84265",
+  "versionCode": 51,
+  "versionName": "1.1.49",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.49.apk",
+  "sha256": "e5780cb09d0728ad1654ae5618d992db3640c2a9ba76dfcd6704ec692bd0c567",
   "mandatory": false,
   "notes": {
     "ar": "تحديث 1.1.48: إضافة ميزة الترجمة التلقائية (OpenSubtitles) للأفلام والمسلسلات والأنمي مع زر CC في المشغل، إعادة تصميم شاشة تفاصيل العمل مع بوستر سينمائي كبير وزر مشاهدة أنيق، فتح فوري لقسم وتصنيفات الأفلام (VOD 0ms Cache) مع تحديث صامت في الخلفية، إثراء قوائم الأفلام وتصدر إصدارات 2026 و2025 في رأس القائمة، توافق كامل لمشغل الراديو على التلفاز مع ذبذبات صوتية متناغمة مع الإيقاع، وإزالة قنوات beIN القديمة من الباقة الجزائرية.",
     "fr": "Mise à jour 1.1.48 : Intégration des sous-titres automatiques (OpenSubtitles) pour films, séries et animes avec bouton CC, nouveau design de l'écran des détails avec grand poster immersif et bouton de lecture compact et élégant, chargement instantané de la section VOD (0ms Cache) avec rafraîchissement silencieux, abondance des films 2026/2025 en tête de liste, lecteur radio optimisé pour Android TV avec visualiseur audio synchronisé, et suppression des anciens flux beIN Sports."
+  },
+  "apkSize": 29343800,
+  "releaseDate": "2026-11-09",
+  "releaseNotes": {
+    "ar": "إصدار 1.1.49:\n• إضافة زر الترجمة (CC) وزر الإعدادات في شريط مشغل التلفاز TV والتحكم فيها بسلاسة.\n• دعم الترجمة التلقائية باللغتين العربية والفرنسية عبر OpenSubtitles وتفعيلها فورياً.\n• إعادة تصميم صفحة بطاقة الفيلم (Widescreen 2-Column) للتلفاز وإلغاء أي فراغ أسود.\n• عرض لغة الفيلم الأصلية، الترجمات المتوفرة، تاريخ الصدور، التقييم، والمدة بجانب البوستر.\n• إضافة زر المفضلة للمشاهدة لاحقاً بجانب زر مشاهدة الآن.\n• الحفاظ الكامل على أفلام بوليوود والهندية وإضافة باقة السينما الفرنسية.\n• تصحيح باقة دولة قطر بنقل قنوات beIN Sports إلى باقتها الرياضية المخصصة فقط.\n• تثبيت الشريط الأفقي للفئات في قسم الأفلام وإزالة الترددات المشوهة وتوسيط الراديو.",
+    "fr": "Version 1.1.49:\n• Bouton Sous-titres (CC) et Paramètres directement sur la barre du lecteur TV.\n• Téléchargement et intégration automatique des sous-titres Arabes et Français via OpenSubtitles.\n• Refonte grand écran cinéma de la fiche film TV (zéro espace vide).\n• Affichage complet de la langue audio, sous-titres disponibles, date, durée et note à côté de l'affiche.\n• Bouton Ajouter aux favoris / À regarder plus tard.\n• Conservation des films Bollywood et ajout de la catégorie Cinéma Français.\n• Correction du bouquet Qatar (beIN Sports exclusif au bouquet Sports).\n• Fixation de la barre des catégories VOD et recentrage de la radio."
   }
 }
