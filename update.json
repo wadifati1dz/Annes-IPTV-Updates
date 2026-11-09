@@ -1,11 +1,11 @@
 {
-  "versionCode": 44,
-  "versionName": "1.1.42",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.42.apk",
-  "sha256": "9ec38636116ca54add4e012632b977466e2fe4d800d8bab9f161ca16730e6667",
+  "versionCode": 45,
+  "versionName": "1.1.43",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.43.apk",
+  "sha256": "4a9056bb74e67720b42df1d25a90271a1a06f2b7e8e333891b062dea2d610272",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.42: إصلاح جذري ونهائي لانهيار التطبيق على أجهزة التلفاز في صفحة تفاصيل الأفلام عبر إزالة طلبات التركيز القسري وتأمين مفاتيح طاقم التمثيل والمواسم ضد التكرار، تفعيل جهاز رقابة صارم وشامل يحجب بشكل قاطع كافة أفلام Vivamax والمحتويات الإباحية والخليعة في قسمي الدراما والرومانسية ويوجه البحث للأعمال العالمية النظيفة، ومطابقة واجهة الهاتف في الوضع الأفقي مع التصميم الرسمي للتلفاز بدقة.",
-    "fr": "Mise à jour 1.1.42 : Correction définitive du crash sur TV lors de l'ouverture des détails de films (sécurisation des clés Compose et navigation télécommande native), renforcement absolu du contrôle parental et censure stricte éliminant tous les contenus érotiques/Vivamax dans Drame et Romance, et harmonisation complète de l'accueil paysage mobile avec le design TV."
+    "ar": "تحديث 1.1.43: تمكين الوصول الفوري والسلس إلى زر 'مشاهدة الآن' بالريموت كنترول على التلفاز مع التركيز التلقائي ورفع الزر ليظهر في الشاشة الأولى، الإخفاء التلقائي لقائمة الفئات وشريط البحث عند التصفح لتوفير مساحة عرض أكبر للأفلام، استعادة التصميم الكلاسيكي السابق في الوضع العمودي مع الاحتفاظ بتصميم السينما والتلفاز في الوضع الأفقي، وإغلاق ثغرة تسريب الأفلام الآسيوية والأجنبية المخلة بالحياء (مثل Up to You و Love و The Girl Next Door 4) نهائياً عبر فلترة الوسوم وقوائم العناوين العائلية المعتمدة.",
+    "fr": "Mise à jour 1.1.43 : Accès immédiat au bouton 'Regarder maintenant' avec la télécommande TV (focus automatique dès l'ouverture), masquage automatique de la barre des catégories lors du défilement pour agrandir l'espace d'affichage, restauration du design classique en mode portrait tout en conservant le design Cinéma TV en mode paysage, et blocage intégral des films érotiques asiatiques/internationaux dans Romance et Drame."
   }
 }
