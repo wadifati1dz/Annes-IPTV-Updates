@@ -1,11 +1,11 @@
 {
-  "versionCode": 42,
-  "versionName": "1.1.40",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.40.apk",
-  "sha256": "06699dcce40cd91c1bbcbdcf3ecfc13c82d5809fb6d9502ab993ec22119e6fad",
+  "versionCode": 43,
+  "versionName": "1.1.41",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.41.apk",
+  "sha256": "424051d242c294c0a6be0ceb1b54c13879adf1514686caf5ba6a0798cc1e566a",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.40: حل مشكلة تحديد وبؤرة التصفح بجهاز التحكم (الريموت كنترول) على التلفاز في بطاقات قسم السينما وبطاقات الأفلام وتبويبات الفئات، حل مشكلة تكرار العناوين في القوائم وإلغاء تكرار الأسماء المتطابقة، إثراء الصفحة الرئيسية لكل قسم بصفوف غنية ومتنوعة مع إمكانية النقر على اسم التصنيف أو «عرض الكل» لعرض المجموعة كاملة، إضافة شريط تصنيف وتصفية الأفلام حسب النوع (أكشن، كوميديا، دراما، رعب، مغامرات، خيال علمي...)، وتثبيت تخطيط 2x2 للبطاقات الأربعة في الوضع الأفقي على الهواتف والألواح والتلفاز مع الحفاظ على الواجهة الرسمية للهاتف.",
-    "fr": "Mise à jour 1.1.40 : Amélioration majeure de la navigation à la télécommande (focus TV lumineux et bordures dorées sur les cartes de films et onglets), suppression définitive des doublons dans les listes, enrichissement des pages d'accueil avec 'Voir tout' cliquable par catégorie, ajout du filtre par genres (Action, Comédie, Drame, Horreur, etc.), et disposition 2x2 des 4 cartes en mode paysage sur smartphone, tablette et TV."
+    "ar": "تحديث 1.1.41: مطابقة الواجهة الرئيسية على الهاتف بالوضع الأفقي لتطابق التصميم الرسمي للتلفاز بدقة، إبراز بؤرة التحديد والتنقل بجهاز التحكم بالريموت في شريط فئات الرياضة والدوريات بإطار ذهبي مضيء وتكبير فوري، تحويل أسماء الفرق في جدول الترتيب إلى الأبيض الناصع عالي التباين، وضع الشعارات الرسمية لكافة الأندية (الدوري الجزائري وكبرى الدوريات) والشعارات الرسمية لكل دوري وبطولة، حل مشكلة النقر على زر 'مشاهدة الآن' بالريموت كنترول في صفحة الفيلم، وتفعيل جهاز رقابة صارم يمنع تماماً أي محتوى مخل بالحياء أو غير لائق عبر جميع الأقسام.",
+    "fr": "Mise à jour 1.1.41 : Harmonisation complète de l'accueil paysage sur mobile avec le design officiel TV, mise en évidence lumineuse et dorée du focus télécommande sur les onglets sport et championnats, affichage des noms d'équipes en blanc éclatant, intégration des logos officiels des clubs et des championnats, accessibilité totale du bouton 'Regarder' à la télécommande dans les détails de films, et activation d'un filtre strict de contrôle parental et de censure contre tout contenu inapproprié."
   }
 }
