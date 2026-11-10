@@ -1,17 +1,17 @@
 {
-  "versionCode": 52,
-  "versionName": "1.1.50",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.50.apk",
-  "sha256": "30634c145647dbec583f7c79a346dc166184361bc695ba06fcd8a353b2c2464c",
+  "versionCode": 53,
+  "versionName": "1.1.51",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.51.apk",
+  "sha256": "cd701e4759d7835c93ad53f79217be0b6865c9fe566a65ca04b24df367f05a89",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.50: إزالة المساحة الفارغة في أعلى شاشة الهاتف، إظهار بطاقة التنبيه الذهبية للتحديثات في الشاشة الرئيسية تلقائياً، حل مشكلة التحكم بالريموت لتفعيل الترجمة (CC) في مشغل الأفلام، عزل قنوات beIN Sports عن باقة دولة قطر مع بقائها في باقة الرياضة، وعرض كامل تفاصيل الفيلم وزر المفضلة مع الحفاظ على أفلام بوليوود.",
-    "fr": "Mise à jour 1.1.50: Suppression de l'espace vide en haut sur mobile, carte de mise à jour automatique sur l'écran d'accueil, navigation télécommande fluide pour les sous-titres (CC) dans le lecteur, bouquet Qatar nettoyé des chaînes beIN Sports, et affichage complet des détails des films."
+    "ar": "تحديث 1.1.51: إزالة المساحة الفارغة العلوية بالكامل على الهاتف، تثبيت ظهور زر الترجمة (CC) دائماً في مشغل الأفلام، عزل تام لقنوات beIN عن باقة قطر، تصميم زجاجي سينمائي لنافذة الضغط المطول على القنوات، إصلاح قسم مباريات اليوم بجدول زمني احتياطي، إضافة شعارات رسمية وأيقونات مضيئة للباقات، وحذف باقات SSC و Sky و Canal+ Sports.",
+    "fr": "Mise à jour 1.1.51: Élimination définitive de l'espace vide en haut sur mobile, bouton sous-titres (CC) toujours visible dans le lecteur, bouquet Qatar 100% nettoyé de beIN, nouvelle boîte de dialogue actions chaîne ultra-moderne, correctif calendrier des matchs, logos et emblèmes lumineux des bouquets, et suppression des bouquets SSC, Sky et Canal+ Sports."
   },
-  "apkSize": 29360184,
+  "apkSize": 29360004,
   "releaseDate": "2026-11-10",
   "releaseNotes": {
-    "ar": "إصدار 1.1.50:\n• إزالة المساحة الفارغة العلوية تماماً على شاشات الهواتف.\n• بطاقة تنبيه صفراء تلقائية في الصفحة الرئيسية فور توفر تحديث هوائي للتثبيت الفوري بنقرة واحدة.\n• تمكين التحكم بالريموت في مشغل الأفلام لتفعيل الترجمة (CC) بدون تداخل أزرار التقديم.\n• إزالة قنوات beIN Sports من قائمة قنوات دولة قطر وحصرها في باقة الرياضة.\n• بطاقة تفاصيل الفيلم المتكاملة (لغة الصوت، الترجمات، تاريخ الصدور، المفضلة) وبقاء أفلام بوليوود.",
-    "fr": "Version 1.1.50:\n• Suppression de l'espace vide en haut sur mobile.\n• Bannière dorée de mise à jour sur l'accueil avec installation directe en 1 clic.\n• Contrôle télécommande fluide pour le bouton Sous-titres (CC) dans le lecteur vidéo.\n• Suppression des chaînes beIN Sports du bouquet Qatar (présentes uniquement dans le bouquet beIN Sports).\n• Fiche détails film complète (langue audio, sous-titres, date de sortie, favoris) et maintien des films Bollywood."
+    "ar": "إصدار 1.1.51:\n• إزالة الفراغ العلوي غير المبرر تماماً في الهاتف ورفع شعار Annes للأعلى بسلاسة.\n• زر الترجمة (CC) أصبح ظاهراً ودائماً في مشغل الأفلام والمسلسلات مع ضبط مزامنة التوقيت (±0.5s).\n• تنظيف كامل وحازم لباقة قطر من كافة قنوات beIN Sports وحصرها في باقة بي إن فقط.\n• تصميم جديد فاخر (Glassmorphism) لنافذة الخيارات عند الضغط المطول على القناة.\n• إصلاح قسم مباريات اليوم بآلية عرض احتياطية للمباريات القادمة حتى 6 أيام عند عدم وجود مباريات في اليوم نفسه.\n• شعارات رسمية للباقات الجديدة وأيقونات مميزة بدلاً من أيقونات المجلدات التقليدية.\n• حذف باقات SSC Sports و Sky Sports و Canal+ Sports نهائياً.",
+    "fr": "Version 1.1.51:\n• Suppression complète du vide supérieur sur téléphone.\n• Bouton CC toujours présent en VOD avec réglage de synchronisation (±0.5s).\n• Éradication des chaînes beIN Sports du bouquet Qatar.\n• Dialogue d'actions de chaîne repensé en verre teinté premium avec actions rapides.\n• Correction de la section Matchs avec affichage des rencontres à venir.\n• Nouveaux logos officiels et icônes thématiques lumineuses pour les bouquets.\n• Suppression définitive des bouquets SSC Sports, Sky Sports et Canal+ Sports."
   }
 }
