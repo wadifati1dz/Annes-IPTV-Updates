@@ -1,17 +1,17 @@
 {
-  "versionCode": 54,
-  "versionName": "1.1.52",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.52.apk",
-  "sha256": "1d1faaeef71315129d9674ea445d43f16b55f674bcd7f72cc0c419049ed85929",
+  "versionCode": 55,
+  "versionName": "1.1.53",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.53.apk",
+  "sha256": "b1c9d2a3553a9d9317d3b7e63f93f3dd3183d3203abcfcb32b9ace43c57a3a7d",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.52: إضافة قناة beIN SPORTS الإخبارية وتثبيتها كأول قناة في باقة بي إن سبورت، استعادة وتشغيل قنوات beIN SPORTS XTRA 1 و 2 و 3، تفعيل فك تشفير ClearKey DRM لباقة روتانا (سينما، خليجية، كلاسيك، دراما، كوميدي، أطفال) و MBC، إرجاع قناة AL24 News للباقة الجزائرية بجودة 1080p وحذف كافة القنوات المتكررة، وتحديث باقة القنوات الإماراتية (أبوظبي، الإمارات، ياس، الشارقة، عجمان).",
-    "fr": "Mise à jour 1.1.52: beIN SPORTS News fixée en 1ère position du bouquet beIN Sports, restauration des chaînes beIN SPORTS XTRA 1, 2 et 3, support du déchiffrement ClearKey DRM pour Rotana et MBC, réintégration officielle de AL24 News (1080p) et déduplication complète du bouquet algérien, mise à jour des chaînes des Émirats (Abu Dhabi, Al Emarat, Yas, Sharjah, Ajman)."
+    "ar": "تحديث 1.1.53: تخصيص شعار beIN البنفسجي لقنوات beIN فقط وتوفير شعارات رسمية مستقلة لباقي قنوات باقة beIN Entertainment، تصحيح شعار باقة فرنسا بأيقونة موحدة رسمية، حذف باقة RMC Sport، تحديث وتشغيل قناة MBC 1 في باقة MBC برابط مباشر وسريع، الدخول المباشر إلى مشغل القنوات عند النقر على بطاقة البث المباشر، وتثبيت روابط القنوات الجزائرية.",
+    "fr": "Mise à jour 1.1.53: Attribution du logo beIN violet aux chaînes beIN uniquement avec logos dédiés pour les autres chaînes du bouquet Entertainment, icône officielle unique pour le bouquet France, suppression du bouquet RMC Sport, correction du flux MBC 1, ouverture directe du lecteur depuis la carte Live TV, et stabilisation du bouquet Algérie."
   },
-  "apkSize": 32543140,
+  "apkSize": 32999352,
   "releaseDate": "2026-11-15",
   "releaseNotes": {
-    "ar": "إصدار 1.1.52:\n• تثبيت قناة beIN SPORTS News HD كأول قناة (#1) في باقة beIN Sports.\n• استعادة وإضافة قنوات beIN SPORTS XTRA 1 و XTRA 2 و XTRA 3 HD (en Español).\n• تشغيل قنوات روتانا وإم بي سي عبر تقنية فك التشفير ClearKey DRM بجودة عالية وسرعة فائقة.\n• إعادة قناة AL24 News - الجزائر الدولية للباقة الجزائرية ببث رسمي 1080p مستقر.\n• حذف ومنع أي تكرار للقنوات في الباقة الجزائرية.\n• تحديث قنوات أبوظبي، الإمارات، ياس، الشارقة، وعجمان.",
-    "fr": "Version 1.1.52:\n• beIN SPORTS News HD épinglée en chaîne #1 du bouquet beIN Sports.\n• Retour des canaux beIN SPORTS XTRA 1, XTRA 2 et XTRA 3 HD (en Español).\n• Intégration du déchiffrement ClearKey DRM pour les bouquets Rotana et MBC.\n• Réintégration de AL24 News dans le bouquet Algérie avec flux officiel 1080p stable.\n• Suppression définitive de tous les doublons du bouquet Algérie.\n• Mise à niveau des chaînes des Émirats arabes unis (Abu Dhabi, Emarat, Yas, Sharjah, Ajman)."
+    "ar": "إصدار 1.1.53:\n• تخصيص شعار beIN البنفسجي لقنوات beIN فقط وشعارات خاصة لكل قناة أخرى في باقة beIN Entertainment.\n• توحيد شعار باقة فرنسا بصورة رسمية واحدة وإزالة الصور الثلاث المتداخلة.\n• حذف باقة RMC Sport بالكامل.\n• تحديث قناة MBC 1 في باقة MBC بنفس رابط البث السريع الشغال.\n• الدخول المباشر لمشغل القنوات عند الضغط على بطاقة البث المباشر في الواجهة الرئيسية.\n• تبسيط أسماء الباقات وإزالة التكرار والعبارات الزائدة.",
+    "fr": "Version 1.1.53:\n• Logo violet beIN assigné exclusivement aux chaînes beIN avec logos individuels pour les autres.\n• Logo unifié officiel pour le bouquet France.\n• Suppression définitive de RMC Sport.\n• Flux direct optimisé pour MBC 1 dans le bouquet MBC.\n• Entrée directe dans le lecteur via la carte Live TV.\n• Nettoyage des libellés de bouquets."
   }
 }
