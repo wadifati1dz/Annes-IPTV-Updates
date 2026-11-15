@@ -1,17 +1,17 @@
 {
-  "versionCode": 53,
-  "versionName": "1.1.51",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.51.apk",
-  "sha256": "cd701e4759d7835c93ad53f79217be0b6865c9fe566a65ca04b24df367f05a89",
+  "versionCode": 54,
+  "versionName": "1.1.52",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.52.apk",
+  "sha256": "1d1faaeef71315129d9674ea445d43f16b55f674bcd7f72cc0c419049ed85929",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.51: إزالة المساحة الفارغة العلوية بالكامل على الهاتف، تثبيت ظهور زر الترجمة (CC) دائماً في مشغل الأفلام، عزل تام لقنوات beIN عن باقة قطر، تصميم زجاجي سينمائي لنافذة الضغط المطول على القنوات، إصلاح قسم مباريات اليوم بجدول زمني احتياطي، إضافة شعارات رسمية وأيقونات مضيئة للباقات، وحذف باقات SSC و Sky و Canal+ Sports.",
-    "fr": "Mise à jour 1.1.51: Élimination définitive de l'espace vide en haut sur mobile, bouton sous-titres (CC) toujours visible dans le lecteur, bouquet Qatar 100% nettoyé de beIN, nouvelle boîte de dialogue actions chaîne ultra-moderne, correctif calendrier des matchs, logos et emblèmes lumineux des bouquets, et suppression des bouquets SSC, Sky et Canal+ Sports."
+    "ar": "تحديث 1.1.52: إضافة قناة beIN SPORTS الإخبارية وتثبيتها كأول قناة في باقة بي إن سبورت، استعادة وتشغيل قنوات beIN SPORTS XTRA 1 و 2 و 3، تفعيل فك تشفير ClearKey DRM لباقة روتانا (سينما، خليجية، كلاسيك، دراما، كوميدي، أطفال) و MBC، إرجاع قناة AL24 News للباقة الجزائرية بجودة 1080p وحذف كافة القنوات المتكررة، وتحديث باقة القنوات الإماراتية (أبوظبي، الإمارات، ياس، الشارقة، عجمان).",
+    "fr": "Mise à jour 1.1.52: beIN SPORTS News fixée en 1ère position du bouquet beIN Sports, restauration des chaînes beIN SPORTS XTRA 1, 2 et 3, support du déchiffrement ClearKey DRM pour Rotana et MBC, réintégration officielle de AL24 News (1080p) et déduplication complète du bouquet algérien, mise à jour des chaînes des Émirats (Abu Dhabi, Al Emarat, Yas, Sharjah, Ajman)."
   },
-  "apkSize": 29360004,
-  "releaseDate": "2026-11-10",
+  "apkSize": 32543140,
+  "releaseDate": "2026-11-15",
   "releaseNotes": {
-    "ar": "إصدار 1.1.51:\n• إزالة الفراغ العلوي غير المبرر تماماً في الهاتف ورفع شعار Annes للأعلى بسلاسة.\n• زر الترجمة (CC) أصبح ظاهراً ودائماً في مشغل الأفلام والمسلسلات مع ضبط مزامنة التوقيت (±0.5s).\n• تنظيف كامل وحازم لباقة قطر من كافة قنوات beIN Sports وحصرها في باقة بي إن فقط.\n• تصميم جديد فاخر (Glassmorphism) لنافذة الخيارات عند الضغط المطول على القناة.\n• إصلاح قسم مباريات اليوم بآلية عرض احتياطية للمباريات القادمة حتى 6 أيام عند عدم وجود مباريات في اليوم نفسه.\n• شعارات رسمية للباقات الجديدة وأيقونات مميزة بدلاً من أيقونات المجلدات التقليدية.\n• حذف باقات SSC Sports و Sky Sports و Canal+ Sports نهائياً.",
-    "fr": "Version 1.1.51:\n• Suppression complète du vide supérieur sur téléphone.\n• Bouton CC toujours présent en VOD avec réglage de synchronisation (±0.5s).\n• Éradication des chaînes beIN Sports du bouquet Qatar.\n• Dialogue d'actions de chaîne repensé en verre teinté premium avec actions rapides.\n• Correction de la section Matchs avec affichage des rencontres à venir.\n• Nouveaux logos officiels et icônes thématiques lumineuses pour les bouquets.\n• Suppression définitive des bouquets SSC Sports, Sky Sports et Canal+ Sports."
+    "ar": "إصدار 1.1.52:\n• تثبيت قناة beIN SPORTS News HD كأول قناة (#1) في باقة beIN Sports.\n• استعادة وإضافة قنوات beIN SPORTS XTRA 1 و XTRA 2 و XTRA 3 HD (en Español).\n• تشغيل قنوات روتانا وإم بي سي عبر تقنية فك التشفير ClearKey DRM بجودة عالية وسرعة فائقة.\n• إعادة قناة AL24 News - الجزائر الدولية للباقة الجزائرية ببث رسمي 1080p مستقر.\n• حذف ومنع أي تكرار للقنوات في الباقة الجزائرية.\n• تحديث قنوات أبوظبي، الإمارات، ياس، الشارقة، وعجمان.",
+    "fr": "Version 1.1.52:\n• beIN SPORTS News HD épinglée en chaîne #1 du bouquet beIN Sports.\n• Retour des canaux beIN SPORTS XTRA 1, XTRA 2 et XTRA 3 HD (en Español).\n• Intégration du déchiffrement ClearKey DRM pour les bouquets Rotana et MBC.\n• Réintégration de AL24 News dans le bouquet Algérie avec flux officiel 1080p stable.\n• Suppression définitive de tous les doublons du bouquet Algérie.\n• Mise à niveau des chaînes des Émirats arabes unis (Abu Dhabi, Emarat, Yas, Sharjah, Ajman)."
   }
 }
