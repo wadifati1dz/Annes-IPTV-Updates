@@ -4,7 +4,7 @@
 # باقة قنوات beIN Sports
 # ==============================================================================
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-country="QA" tvg-language="ar" tvg-logo="bein_sports_news.png" group-title="beIN Sports",beIN SPORTS News HD - بي إن سبورتس الإخبارية
-http://yusftsoreforver.ddns.net/live/ar/qa/bein/bein_sports_news/tracks-v1a1/mono.ts.m3u8
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sports_news/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS1.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 1 HD
 https://alwanlive.stream/?channel=bein1
@@ -49,10 +49,10 @@ https://tvsen6.aynaott.com/beinsports/index.m3u8
 # باقة القنوات الجزائرية (Algerian Channels - 22)
 # ==============================================================================
 #EXTINF:-1 tvg-id="ENTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/entv_algerie.jpg" group-title="DZ",التلفزيون الجزائري - الأرضية (TV1)
-http://185.9.2.18/chid_347/index.m3u8
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=canalalgerie
 
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/canal_algerie.jpg" group-title="DZ",Canal Algérie - الجزائرية الثانية (TV2)
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=canalalgerie
+http://185.9.2.18/chid_347/index.m3u8
 
 #EXTINF:-1 tvg-id="Algerie3.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie3.jpg" group-title="DZ",الجزائرية الثالثة الإخبارية (TV3)
 https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
@@ -685,10 +685,10 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cnn
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarAction.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="beIN Entertainment",Star Action HD - ستار أكشن
-https://alwanlive.stream/?channel=star_action
+http://185.9.2.18/chid_378/index.m3u8
 
 #EXTINF:-1 tvg-id="StarWorld.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="beIN Entertainment",Star World HD - ستار وورلد
-https://alwanlive.stream/?channel=star_world
+http://185.9.2.18/chid_377/index.m3u8
 
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-country="US" tvg-language="en" tvg-logo="travel_channel.png" group-title="beIN Entertainment",Travel Channel Europe HD - ترافل تشانيل
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8

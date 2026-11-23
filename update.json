@@ -1,17 +1,19 @@
 {
-  "versionCode": 56,
-  "versionName": "1.1.54",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.54.apk",
-  "sha256": "c09f621aec468c0303cb789ac357e835da55e0ac11ee393fe136ed60022ca26f",
+  "versionCode": 57,
+  "versionName": "1.1.55",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.55.apk",
+  "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-latest.apk",
+  "downloaderCode": "9152939",
+  "sha256": "634e5604376a09b341eb4544e0f812bc9efb56ff5580bccfdf8a30befe7bcd31",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.54: إصلاح شامل لجميع القنوات الجزائرية وقنوات الأخبار العربية عبر ربطها بمصادر بث مباشر سريعة ورسمية (DZSecurity و TDA و EasyBroadcast) بدون حماية Cloudflare Turnstile.",
-    "fr": "Mise à jour 1.1.54: Correction complète de toutes les chaînes algériennes et chaînes d'information arabes via des flux directs officiels (DZSecurity, TDA, EasyBroadcast) sans blocage Cloudflare Turnstile."
+    "ar": "تحديث 1.1.55:\n📌 ملاحظة هامة لأجهزة التلفاز (Android TV): يمكنك حذف التطبيق وإعادة تحميله من جديد عبر تطبيق Downloader باستخدام كود التحميل: 9152939\n• تحديث سرفر البث الجديد لقنوات beIN Sports و Alwan Sports (dashclloudflare.ddns.net).\n• إصلاح شامل للتنقل بالريموت كنترول (D-Pad) في صفحة الإعدادات ونافذة التحديث على التلفاز.\n• ترتيب باقة القنوات الجزائرية رسمياً (من TV1 إلى TV8 ثم القنوات الخاصة) وتحديث روابط البث.",
+    "fr": "Mise à jour 1.1.55:\n📌 Note Android TV : Vous pouvez désinstaller et retélécharger l'application via Downloader avec le code : 9152939\n• Nouveau serveur de diffusion pour beIN Sports et Alwan Sports (dashclloudflare.ddns.net).\n• Correction complète de la navigation télécommande (D-Pad) dans les Paramètres et la boîte de mise à jour.\n• Tri officiel des chaînes algériennes (TV1 à TV8 puis chaînes privées) et mise à jour des flux."
   },
-  "apkSize": 32999720,
+  "apkSize": 33016112,
   "releaseDate": "2026-11-23",
   "releaseNotes": {
-    "ar": "إصدار 1.1.54:\n• إصلاح شامل لباقة القنوات الجزائرية (22 قناة) بعد تفعيل حماية Cloudflare Turnstile على الروابط القديمة.\n• إضافة دعم مباشر لمشغلات DZSecurity الرسمية (النهار، الشروق العامة، الشروق نيوز، الحياة) ومشغلات البث المباشر بدون Turnstile.\n• تحديث قنوات الأخبار العربية بروابط بث مباشر عالية الجودة (HLS 1080p).",
-    "fr": "Version 1.1.54:\n• Restauration complète du bouquet des chaînes algériennes (22 chaînes).\n• Intégration native des lecteurs officiels DZSecurity (Ennahar, Echorouk TV, Echorouk News, El Hayat) et des flux directs sans Turnstile.\n• Mise à jour des chaînes d'information arabes en flux HLS directs."
+    "ar": "تحديث 1.1.55:\n📌 ملاحظة هامة لأجهزة التلفاز (Android TV): يمكنك حذف التطبيق وإعادة تحميله من جديد عبر تطبيق Downloader باستخدام كود التحميل: 9152939\n• تحديث سرفر البث الجديد لقنوات beIN Sports و Alwan Sports (dashclloudflare.ddns.net).\n• إصلاح شامل للتنقل بالريموت كنترول (D-Pad) في صفحة الإعدادات ونافذة التحديث على التلفاز.\n• ترتيب باقة القنوات الجزائرية رسمياً (من TV1 إلى TV8 ثم القنوات الخاصة) وتحديث روابط البث.",
+    "fr": "Mise à jour 1.1.55:\n📌 Note Android TV : Vous pouvez désinstaller et retélécharger l'application via Downloader avec le code : 9152939\n• Nouveau serveur de diffusion pour beIN Sports et Alwan Sports (dashclloudflare.ddns.net).\n• Correction complète de la navigation télécommande (D-Pad) dans les Paramètres et la boîte de mise à jour.\n• Tri officiel des chaînes algériennes (TV1 à TV8 puis chaînes privées) et mise à jour des flux."
   }
 }
