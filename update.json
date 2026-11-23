@@ -1,17 +1,17 @@
 {
-  "versionCode": 55,
-  "versionName": "1.1.53",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.53.apk",
-  "sha256": "b1c9d2a3553a9d9317d3b7e63f93f3dd3183d3203abcfcb32b9ace43c57a3a7d",
+  "versionCode": 56,
+  "versionName": "1.1.54",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-1.1.54.apk",
+  "sha256": "c09f621aec468c0303cb789ac357e835da55e0ac11ee393fe136ed60022ca26f",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث 1.1.53: تخصيص شعار beIN البنفسجي لقنوات beIN فقط وتوفير شعارات رسمية مستقلة لباقي قنوات باقة beIN Entertainment، تصحيح شعار باقة فرنسا بأيقونة موحدة رسمية، حذف باقة RMC Sport، تحديث وتشغيل قناة MBC 1 في باقة MBC برابط مباشر وسريع، الدخول المباشر إلى مشغل القنوات عند النقر على بطاقة البث المباشر، وتثبيت روابط القنوات الجزائرية.",
-    "fr": "Mise à jour 1.1.53: Attribution du logo beIN violet aux chaînes beIN uniquement avec logos dédiés pour les autres chaînes du bouquet Entertainment, icône officielle unique pour le bouquet France, suppression du bouquet RMC Sport, correction du flux MBC 1, ouverture directe du lecteur depuis la carte Live TV, et stabilisation du bouquet Algérie."
+    "ar": "تحديث 1.1.54: إصلاح شامل لجميع القنوات الجزائرية وقنوات الأخبار العربية عبر ربطها بمصادر بث مباشر سريعة ورسمية (DZSecurity و TDA و EasyBroadcast) بدون حماية Cloudflare Turnstile.",
+    "fr": "Mise à jour 1.1.54: Correction complète de toutes les chaînes algériennes et chaînes d'information arabes via des flux directs officiels (DZSecurity, TDA, EasyBroadcast) sans blocage Cloudflare Turnstile."
   },
-  "apkSize": 32999352,
-  "releaseDate": "2026-11-15",
+  "apkSize": 32999720,
+  "releaseDate": "2026-11-23",
   "releaseNotes": {
-    "ar": "إصدار 1.1.53:\n• تخصيص شعار beIN البنفسجي لقنوات beIN فقط وشعارات خاصة لكل قناة أخرى في باقة beIN Entertainment.\n• توحيد شعار باقة فرنسا بصورة رسمية واحدة وإزالة الصور الثلاث المتداخلة.\n• حذف باقة RMC Sport بالكامل.\n• تحديث قناة MBC 1 في باقة MBC بنفس رابط البث السريع الشغال.\n• الدخول المباشر لمشغل القنوات عند الضغط على بطاقة البث المباشر في الواجهة الرئيسية.\n• تبسيط أسماء الباقات وإزالة التكرار والعبارات الزائدة.",
-    "fr": "Version 1.1.53:\n• Logo violet beIN assigné exclusivement aux chaînes beIN avec logos individuels pour les autres.\n• Logo unifié officiel pour le bouquet France.\n• Suppression définitive de RMC Sport.\n• Flux direct optimisé pour MBC 1 dans le bouquet MBC.\n• Entrée directe dans le lecteur via la carte Live TV.\n• Nettoyage des libellés de bouquets."
+    "ar": "إصدار 1.1.54:\n• إصلاح شامل لباقة القنوات الجزائرية (22 قناة) بعد تفعيل حماية Cloudflare Turnstile على الروابط القديمة.\n• إضافة دعم مباشر لمشغلات DZSecurity الرسمية (النهار، الشروق العامة، الشروق نيوز، الحياة) ومشغلات البث المباشر بدون Turnstile.\n• تحديث قنوات الأخبار العربية بروابط بث مباشر عالية الجودة (HLS 1080p).",
+    "fr": "Version 1.1.54:\n• Restauration complète du bouquet des chaînes algériennes (22 chaînes).\n• Intégration native des lecteurs officiels DZSecurity (Ennahar, Echorouk TV, Echorouk News, El Hayat) et des flux directs sans Turnstile.\n• Mise à jour des chaînes d'information arabes en flux HLS directs."
   }
 }

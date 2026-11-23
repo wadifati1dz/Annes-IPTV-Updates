@@ -49,61 +49,61 @@ https://tvsen6.aynaott.com/beinsports/index.m3u8
 # باقة القنوات الجزائرية (Algerian Channels - 22)
 # ==============================================================================
 #EXTINF:-1 tvg-id="ENTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/entv_algerie.jpg" group-title="DZ",التلفزيون الجزائري - الأرضية (TV1)
-https://www.elahmad.ru/tv/algeria_live.php?id=entv_algerie
+http://185.9.2.18/chid_347/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/canal_algerie.jpg" group-title="DZ",Canal Algérie - الجزائرية الثانية (TV2)
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=canalalgerie
 
 #EXTINF:-1 tvg-id="Algerie3.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie3.jpg" group-title="DZ",الجزائرية الثالثة الإخبارية (TV3)
-https://www.elahmad.ru/tv/algeria_live.php?id=algeria3
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
 
 #EXTINF:-1 tvg-id="TamazightTV4.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie4.jpg" group-title="DZ",القناة الرابعة الأمازيغية (TV4)
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie4
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=tamazight
 
 #EXTINF:-1 tvg-id="CoranTV5.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie5.jpg" group-title="DZ",قناة القرآن الكريم الجزائرية (TV5)
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie5
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-id="TV6Algerie.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie6.jpg" group-title="DZ",القناة السادسة الشبابية الجزائرية (TV6)
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie6
+http://185.9.2.18/chid_347/index.m3u8
 
 #EXTINF:-1 tvg-id="ElMaarefaTV7.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie7.jpg" group-title="DZ",قناة المعرفة الجزائرية (TV7)
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie7
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
 
 #EXTINF:-1 tvg-id="EdhakiraTV8.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie8.jpg" group-title="DZ",قناة الذاكرة الجزائرية (TV8)
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie8
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ennahartv.jpg" group-title="DZ",Ennahar TV - قناة النهار الجزائرية
-https://www.elahmad.ru/tv/algeria_live.php?id=ennahartv
+https://player.dzsecurity.net/embed/ennahartv
 
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/echorouk_tv.jpg" group-title="DZ",Echorouk TV HD - الشروق العامة
-https://www.elahmad.ru/tv/algeria_live.php?id=echorouk_tvhd
+https://player.dzsecurity.net/embed/echorouktv
 
 #EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/echorouk_news.jpg" group-title="DZ",Echorouk News - الشروق نيوز
-https://www.elahmad.ru/tv/algeria_live.php?id=echorouk_news
+https://player.dzsecurity.net/embed/echorouknews
 
 #EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elbilad.jpg" group-title="DZ",El Bilad TV - قناة البلاد الجزائرية
-https://www.elahmad.ru/tv/algeria_live.php?id=elbilad
+https://player.dzsecurity.net/embed/echorouknews
 
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="al24news.jpg" group-title="DZ",AL24 News - الجزائر الدولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SamiraTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/samira_tv.jpg" group-title="DZ",Samira TV - سميرة تي في
-https://www.elahmad.ru/tv/algeria_live.php?id=samira_tv
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=samiratv
 
 #EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elheddaf.jpg" group-title="DZ",El Heddaf TV - قناة الهداف الرياضية
-https://www.elahmad.ru/tv/algeria_live.php?id=elheddaf
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 
 #EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_hayat_tv.jpg" group-title="DZ",El Hayat TV - قناة الحياة الجزائرية
-https://www.elahmad.ru/tv/algeria_live.php?id=elhayatonline
+https://player.dzsecurity.net/embed/elhayattv
 
 #EXTINF:-1 tvg-id="ElFadjrTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_fadjr_tv.jpg" group-title="DZ",El Fadjr TV - قناة الفجر الجزائرية
-https://www.elahmad.ru/tv/algeria_live.php?id=el_fadjr_tv
+https://player.dzsecurity.net/embed/elhayattv
 
 #EXTINF:-1 tvg-id="ElDjazairN1.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_djazairia_n1.jpg" group-title="DZ",El Djazair N1 - الجزائرية وان
-https://www.elahmad.ru/tv/algeria_live.php?id=el_djazairia
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=echorouk
 
 #EXTINF:-1 tvg-id="AlanisTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alanistv.jpg" group-title="DZ",Alanis TV - قناة الأنيس الفضائية
-https://www.elahmad.ru/tv/algeria_live.php?id=alanis_tv
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElWataniaTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elwataniatv_dz.jpg" group-title="DZ",El Watania TV - قناة الوطنية الجزائرية
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
@@ -112,58 +112,58 @@ https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/almagharibiatv.jpg" group-title="DZ",CNA - القناة المغاربية الإخبارية
-https://stream.almagharibia.tv/cna/cna.m3u8
+https://live.creacast.com/cna/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlArabiya.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alarabiya.jpg" group-title="New",Al Arabiya - قناة العربية HD
-https://www.elahmad.ru/tv/algeria_live.php?id=alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlHadath.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alhadath.jpg" group-title="New",Al Hadath - قناة الحدث HD
-https://www.elahmad.ru/tv/algeria_live.php?id=alhadath
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 
 #EXTINF:-1 tvg-id="AsharqNews.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/asharq.jpg" group-title="New",Asharq News - الشرق للأخبار HD
-https://www.elahmad.ru/tv/algeria_live.php?id=asharq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-country="FR" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/france24.jpg" group-title="New",France 24 Arabe - فرانس 24 عربي HD
-https://www.elahmad.ru/tv/algeria_live.php?id=france24
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="UK" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/bbcarabic.jpg" group-title="New",BBC Arabic - بي بي سي عربي HD
-https://www.elahmad.ru/tv/algeria_live.php?id=bbcarabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/skynewsarabia.jpg" group-title="New",Sky News Arabia - سكاي نيوز عربية
-https://www.elahmad.ru/tv/algeria_live.php?id=skynewsarabia
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-country="QA" tvg-language="ar" tvg-logo="aljazeera.jpg" group-title="New",Al Jazeera - قناة الجزيرة
-https://www.elahmad.ru/tv/algeria_live.php?id=aljazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aljazeera_mubasher.jpg" group-title="New",Al Jazeera Mubasher - الجزيرة مباشر
-https://www.elahmad.ru/tv/algeria_live.php?id=aljazeera_mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 #EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaraby.jpg" group-title="New",Al Araby TV - التلفزيون العربي
-https://www.elahmad.ru/tv/algeria_live.php?id=alaraby
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExtraNews.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/extranews.jpg" group-title="New",Extra News - إكسترا نيوز
-https://www.elahmad.ru/tv/algeria_live.php?id=extranews
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=alnahar
 
 #EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alqaheranews.jpg" group-title="New",Al Qahera News - القاهرة الإخبارية
-https://www.elahmad.ru/tv/algeria_live.php?id=alqaheranews
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="TR" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/trtarabi.jpg" group-title="New",TRT Arabi - تي آر تي عربي HD
-https://www.elahmad.ru/tv/algeria_live.php?id=trtarabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="AlMashhad.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almashhad.jpg" group-title="New",Al Mashhad - قناة المشهد
-https://www.elahmad.ru/tv/algeria_live.php?id=almashhad
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 
 #EXTINF:-1 tvg-id="AlAanTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaan.jpg" group-title="New",Al Aan TV - تلفزيون الآن
-https://www.elahmad.ru/tv/algeria_live.php?id=alaan
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=alaan
 
 #EXTINF:-1 tvg-id="CNBCArabia.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cnbcarabia.jpg" group-title="New",CNBC Arabia - سي إن بي سي عربية
-https://www.elahmad.ru/tv/algeria_live.php?id=cnbcarabia
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/medi1tv.jpg" group-title="New",Medi 1 TV Maghreb - ميدي 1 تيفي
-https://www.elahmad.ru/tv/algeria_live.php?id=medi1tv
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=medi1
 
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/medi1tvarabic.jpg" group-title="New",Medi 1 TV Arabic - ميدي 1 عربي
-https://www.elahmad.ru/tv/algeria_live.php?id=medi1tvarabic
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=medi1
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1.png" group-title="France",TF1 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/playlists/paratv/group/tf1plus/tf1plus.m3u?chno=200
