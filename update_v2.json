@@ -1,19 +1,19 @@
 {
-  "versionCode": 62,
-  "versionName": "2.0.4",
+  "versionCode": 63,
+  "versionName": "2.0.5",
   "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "downloaderCode": "3578493",
-  "sha256": "98ad09b11e35cf9acf949663e0221f39dc98be1b390dc3c0252280d98511f143",
+  "sha256": "b29980f89e56ecf74d32b162b53c4e8a97913b818b90a0549644e5257bee893c",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.4):\n📌 كود Downloader للنسخة V2: 3578493\n• إضافة ويدجت مواقيت الصلاة في وسط الشاشة الرئيسية مع عداد تنازلي للصلاة القادمة حسب مدينتك.\n• تنبيهات الأذان التلقائية: بطاقة علوية سلسة تنزل أثناء المشاهدة تذكّر بموعد الصلاة والآية الكريمة.\n• ترتيب الشريط العلوي: الاسم على اليسار والعداد على اليمين مع تصغير الخطوط على الهاتف.\n• التوهج الذهبي يأخذ الآن نفس الشكل الهندسي المحدد للبطاقة المختارة بدقة.",
-    "fr": "Mise à jour Annes V2 (v2.0.4):\n📌 Code Downloader V2 : 3578493\n• Widget des heures de prière au centre de l'écran d'accueil avec compte à rebours.\n• Notification d'adhan élégante en haut de l'écran pendant la lecture.\n• Ajustement du bandeau supérieur et lueur dorée adaptée à la forme des cartes."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.5):\n📌 كود Downloader للنسخة V2: 3578493\n• نظام التحديث التلقائي الصامت: تنزيل التحديث في الخلفية بدون إزعاج أو نوافذ انتظار.\n• إعادة هندسة شاشة الهاتف العمودية: ملء الفراغات وتكبير البطاقات بشكل فخم ومتناسق.\n• عرض اسم الولاية بدقة (مثل وهران Oran، الجزائر Alger) بدلاً من أسماء البلديات.\n• تصميم جديد لبطاقة الأفلام بنمط سينمائي ملكي موحد مع بقية البطاقات.\n• تحسين موضع بطاقة مواقيت الصلاة (يسار في العربي، يمين في الفرنسي) وفاصل الشعار الذهبي.",
+    "fr": "Mise à jour Annes V2 (v2.0.5):\n📌 Code Downloader V2 : 3578493\n• Téléchargement silencieux des mises à jour en arrière-plan sans interruption.\n• Optimisation de l'écran portrait mobile : cartes agrandies et espaces équilibrés.\n• Affichage du nom de la wilaya/province (Oran, Alger...) au lieu de la commune.\n• Nouvelle carte Films cinématique et ajustements de l'interface."
   },
-  "apkSize": 34916353,
+  "apkSize": 35902849,
   "releaseDate": "2026-11-24",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.4):\n📌 كود Downloader للنسخة V2: 3578493\n• إضافة ويدجت مواقيت الصلاة في وسط الشاشة الرئيسية مع عداد تنازلي للصلاة القادمة حسب مدينتك.\n• تنبيهات الأذان التلقائية: بطاقة علوية سلسة تنزل أثناء المشاهدة تذكّر بموعد الصلاة والآية الكريمة.\n• ترتيب الشريط العلوي: الاسم على اليسار والعداد على اليمين مع تصغير الخطوط على الهاتف.\n• التوهج الذهبي يأخذ الآن نفس الشكل الهندسي المحدد للبطاقة المختارة بدقة.",
-    "fr": "Mise à jour Annes V2 (v2.0.4):\n📌 Code Downloader V2 : 3578493\n• Widget des heures de prière au centre de l'écran d'accueil avec compte à rebours.\n• Notification d'adhan élégante en haut de l'écran pendant la lecture.\n• Ajustement du bandeau supérieur et lueur dorée adaptée à la forme des cartes."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.5):\n📌 كود Downloader للنسخة V2: 3578493\n• نظام التحديث التلقائي الصامت: تنزيل التحديث في الخلفية بدون إزعاج أو نوافذ انتظار.\n• إعادة هندسة شاشة الهاتف العمودية: ملء الفراغات وتكبير البطاقات بشكل فخم ومتناسق.\n• عرض اسم الولاية بدقة (مثل وهران Oran، الجزائر Alger) بدلاً من أسماء البلديات.\n• تصميم جديد لبطاقة الأفلام بنمط سينمائي ملكي موحد مع بقية البطاقات.\n• تحسين موضع بطاقة مواقيت الصلاة (يسار في العربي، يمين في الفرنسي) وفاصل الشعار الذهبي.",
+    "fr": "Mise à jour Annes V2 (v2.0.5):\n📌 Code Downloader V2 : 3578493\n• Téléchargement silencieux des mises à jour en arrière-plan sans interruption.\n• Optimisation de l'écran portrait mobile : cartes agrandies et espaces équilibrés.\n• Affichage du nom de la wilaya/province (Oran, Alger...) au lieu de la commune.\n• Nouvelle carte Films cinématique et ajustements de l'interface."
   }
 }
