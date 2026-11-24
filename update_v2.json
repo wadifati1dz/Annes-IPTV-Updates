@@ -1,0 +1,19 @@
+{
+  "versionCode": 59,
+  "versionName": "2.0.1",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
+  "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
+  "downloaderCode": "3578493",
+  "sha256": "7f5f5dfc7fb029b0e6b6161c1ce4e30d26af37a47a33f859e483d951701a1b84",
+  "mandatory": false,
+  "notes": {
+    "ar": "تحديث Annes V2 (الإصدار 2.0.1):\n📌 كود Downloader الخاص بالنسخة V2 فقط: 3578493\n• تثبيت التحديد في شريط الباقات أثناء التصفح على التلفاز والراديو (لا ينتقل للقنوات إلا عند الضغط على OK أو السهم الأيمن).\n• الدخول المباشر إلى شاشة البث المباشر عند الضغط على Live TV / البث المباشر.\n• إخفاء القائمة الجانبية في شاشة الراديو عند الضغط مرة ثانية على المحطة الشغالة، وإظهارها مجدداً بضغطة OK.\n• بطاقات مركزية جديدة وذكية (متابعة آخر قناة مباشرة + مباريات اليوم + الأفلام والمسلسلات + الراديو والقرآن + المفضلة).\n• تحديد تلقائي للمدينة ودرجة الحرارة الحقيقية + تصميم جديد لشارة المتصلين الآن + تثبيت شريط التبويب السفلي وتوضيح شريط حالة الهاتف.",
+    "fr": "Mise à jour Annes V2 (v2.0.1):\n📌 Code Downloader dédié à la version V2 : 3578493\n• Navigation fluide dans les bouquets TV et Radio sans saut automatique du focus.\n• Accès direct au lecteur Live TV.\n• Masquage/Affichage du panneau latéral Radio en appuyant sur OK.\n• Nouvelles cartes centrales intelligentes (Live TV, Matchs du jour, Films & Séries, Radio & Coran, Favoris).\n• Météo et localisation en temps réel, nouveau badge en ligne et barre inférieure ajustée."
+  },
+  "apkSize": 33295300,
+  "releaseDate": "2026-11-24",
+  "releaseNotes": {
+    "ar": "تحديث Annes V2 (الإصدار 2.0.1):\n📌 كود Downloader الخاص بالنسخة V2 فقط: 3578493\n• تثبيت التحديد في شريط الباقات أثناء التصفح على التلفاز والراديو (لا ينتقل للقنوات إلا عند الضغط على OK أو السهم الأيمن).\n• الدخول المباشر إلى شاشة البث المباشر عند الضغط على Live TV / البث المباشر.\n• إخفاء القائمة الجانبية في شاشة الراديو عند الضغط مرة ثانية على المحطة الشغالة، وإظهارها مجدداً بضغطة OK.\n• بطاقات مركزية جديدة وذكية (متابعة آخر قناة مباشرة + مباريات اليوم + الأفلام والمسلسلات + الراديو والقرآن + المفضلة).\n• تحديد تلقائي للمدينة ودرجة الحرارة الحقيقية + تصميم جديد لشارة المتصلين الآن + تثبيت شريط التبويب السفلي وتوضيح شريط حالة الهاتف.",
+    "fr": "Mise à jour Annes V2 (v2.0.1):\n📌 Code Downloader dédié à la version V2 : 3578493\n• Navigation fluide dans les bouquets TV et Radio sans saut automatique du focus.\n• Accès direct au lecteur Live TV.\n• Masquage/Affichage du panneau latéral Radio en appuyant sur OK.\n• Nouvelles cartes centrales intelligentes (Live TV, Matchs du jour, Films & Séries, Radio & Coran, Favoris).\n• Météo et localisation en temps réel, nouveau badge en ligne et barre inférieure ajustée."
+  }
+}
