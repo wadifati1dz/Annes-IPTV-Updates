@@ -1,0 +1,62 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة beIN الترفيهية (beIN Entertainment) (19 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="Fatafeat.ae" tvg-country="" tvg-language="ar" tvg-logo="fatafeat.jpg" group-title="beIN Entertainment",Fatafeat HD - فتافيت
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=fatafeat
+
+#EXTINF:-1 tvg-id="BeJunior.qa" tvg-country="" tvg-language="ar" tvg-logo="bein_entertainment.png" group-title="beIN Entertainment",Be Junior HD - بي جونيور
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=be_junior
+
+#EXTINF:-1 tvg-id="JeemTV.qa" tvg-country="" tvg-language="ar" tvg-logo="jeem_tv.png" group-title="beIN Entertainment",Jeem HD - تلفزيون ج
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=jscc1
+
+#EXTINF:-1 tvg-id="Baraem.qa" tvg-country="" tvg-language="ar" tvg-logo="baraem.jpg" group-title="beIN Entertainment",Baraem HD - براعم للأطفال
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=baraem
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-country="UK" tvg-language="en" tvg-logo="bbc_earth.png" group-title="beIN Entertainment",BBC Earth ME HD - بي بي سي إيرث
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=bbcearth
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-country="" tvg-language="ar" tvg-logo="aljazeera.jpg" group-title="beIN Entertainment",Al Jazeera Channel HD - الجزيرة الإخبارية
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDoc.qa" tvg-country="" tvg-language="ar" tvg-logo="aljazeera_doc.png" group-title="beIN Entertainment",Al Jazeera Documentary HD - الجزيرة الوثائقية
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEng.qa" tvg-country="" tvg-language="en" tvg-logo="aljazeera_eng.png" group-title="beIN Entertainment",Al Jazeera English HD - الجزيرة الإنجليزية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aljazeera_en
+
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-country="US" tvg-language="en" tvg-logo="bloomberg.png" group-title="beIN Entertainment",Bloomberg TV HD - بلومبيرغ
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.us" tvg-country="US" tvg-language="ar" tvg-logo="cartoonito.png" group-title="beIN Entertainment",Cartoonito HD - كارتونيتو
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cartoonito
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-country="US" tvg-language="en" tvg-logo="food_network.png" group-title="beIN Entertainment",Food Network HD - فود نيتورك
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAr.ae" tvg-country="AE" tvg-language="ar" tvg-logo="cartoon_network.png" group-title="beIN Entertainment",Cartoon Network Arabic HD - كرتون نتورك بالعربية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cartoon_network
+
+#EXTINF:-1 tvg-id="CartoonNetworkEn.uk" tvg-country="UK" tvg-language="en" tvg-logo="cartoon_network.png" group-title="beIN Entertainment",Cartoon Network English HD - كرتون نتورك الإنجليزية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cartoon_network_en
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-country="US" tvg-language="en" tvg-logo="hgtv.png" group-title="beIN Entertainment",HGTV HD - إتش جي تي في
+http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-country="US" tvg-language="en" tvg-logo="cnn.jpg" group-title="beIN Entertainment",CNN International HD - سي إن إن الدولية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cnn
+
+#EXTINF:-1 tvg-id="DiscoveryME.us" tvg-country="US" tvg-language="en" tvg-logo="discovery.png" group-title="beIN Entertainment",Discovery Channel Middle East HD - ديسكفري
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarAction.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="beIN Entertainment",Star Action HD - ستار أكشن
+http://185.9.2.18/chid_378/index.m3u8
+
+#EXTINF:-1 tvg-id="StarWorld.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="beIN Entertainment",Star World HD - ستار وورلد
+http://185.9.2.18/chid_377/index.m3u8
+
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-country="US" tvg-language="en" tvg-logo="travel_channel.png" group-title="beIN Entertainment",Travel Channel Europe HD - ترافل تشانيل
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+

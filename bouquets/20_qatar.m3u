@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة القنوات القطرية (Qatar) (6 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="QA" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_jazeera_english.jpg" group-title="General",Al Jazeera English - الجزيرة الإنجليزية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_jazeera_english1
+
+#EXTINF:-1 tvg-id="QatarTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv.jpg" group-title="General",Qatar TV - تلفزيون قطر
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=qatartv1
+
+#EXTINF:-1 tvg-id="QatarTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv-two.jpg" group-title="General",Qatar TV 2 - تلفزيون قطر 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=qatartv2
+
+#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_tv.jpg" group-title="General",Al Rayyan TV - قناة الريان
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alrayyan1
+
+#EXTINF:-1 tvg-id="AlRayyanAlQadeem.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_alqadeem.jpg" group-title="General",Al Rayyan Al Qadeem - الريان القديم
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_rayyan2_1
+
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaraby_2.jpg" group-title="Entertainment",Al Araby 2 - العربي 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alaraby_2
+

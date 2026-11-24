@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات StarzPlay (3 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="StarzPlayAction.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Action HD
+https://webtvstream.bhtelecom.ba/filmbox_action.m3u8
+
+#EXTINF:-1 tvg-id="StarzPlaySeries.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Series HD
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarzPlayCinema.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Cinema HD
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+

@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات ART (6 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="ARTCinema.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/art_cinema.jpg" group-title="ART",ART Cinema HD - إيه آر تي سينما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=art_cinema
+
+#EXTINF:-1 tvg-id="ARTAflam1.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/art_aflam_1.jpg" group-title="ART",ART Aflam 1 HD - إيه آر تي أفلام 1
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=art_aflam_1
+
+#EXTINF:-1 tvg-id="ARTAflam2.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/art_aflam_2.jpg" group-title="ART",ART Aflam 2 HD - إيه آر تي أفلام 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=art_aflam_2
+
+#EXTINF:-1 tvg-id="ARTHekayat.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/art_hekayat.jpg" group-title="ART",ART Hekayat HD - إيه آر تي حكايات
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=hekayat
+
+#EXTINF:-1 tvg-id="ARTHekayat2.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/art_hekayat2.jpg" group-title="ART",ART Hekayat 2 HD - إيه آر تي حكايات 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=hekayat_2
+
+#EXTINF:-1 tvg-id="ARTCima.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/art_cinema.jpg" group-title="ART",Cima TV - قناة سيما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=art_cima
+

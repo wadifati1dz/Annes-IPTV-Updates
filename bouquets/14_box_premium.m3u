@@ -1,0 +1,56 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات Box Premium & FilmBox (17 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" group-title="Box Premium",FilmBox Premium HD
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Box Premium",FilmBox Extra HD
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="Box Premium",FilmBox Stars HD
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="Box Premium",FilmBox Action HD
+http://92.114.85.87:8008/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Box Premium",FilmBox Family / Comedy HD
+http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" group-title="Box Premium",FilmBox Arthouse HD
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Box Premium",FilmBox Basic HD
+http://88.212.15.50/live/test_filmbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Box Premium",DocuBox HD
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Box Premium",FightBox HD
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+
+#EXTINF:-1 tvg-id="FastFunBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Box Premium",Fast&FunBox HD
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Box Premium",FashionBox HD
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FunBoxUHD.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/9FJct9o.png" group-title="Box Premium",FunBox UHD
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+
+#EXTINF:-1 tvg-id="360TuneBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Box Premium",360TuneBox HD
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gametoon.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Box Premium",Gametoon Box HD
+https://webtvstream.bhtelecom.ba/gametoon.m3u8
+
+#EXTINF:-1 tvg-id="BoxOfficeAction.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20261006T034039SQUARE.png" group-title="Box Premium",Box Office Action FR HD
+https://jmp2.uk/stvp-FR370000288
+
+#EXTINF:-1 tvg-id="BoxOfficeThriller.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260324T034928SQUARE.png" group-title="Box Premium",Box Office Thriller FR HD
+https://jmp2.uk/stvp-FR3700001AG
+
+#EXTINF:-1 tvg-id="BoxOfficeDrama.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" group-title="Box Premium",Box Office Drama FR HD
+https://jmp2.uk/stvp-FR3700003N4
+

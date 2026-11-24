@@ -1,0 +1,32 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة القنوات المغربية (Morocco) (9 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaoula.jpg" group-title="General",Al Aoula Maroc - الأولى المغربية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aloula1
+
+#EXTINF:-1 tvg-id="2M.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/2m_ma_tv.jpg" group-title="General",2M Maroc - القناة الثانية دوزيم
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=2MMaroc
+
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almaghribia.jpg" group-title="General",Al Maghribia - القناة المغربية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_maghribia
+
+#EXTINF:-1 tvg-id="Athaqafia.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/attakafiya.jpg" group-title="Education",Arrabiaa Athaqafia - الرابعة الثقافية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=arrabia
+
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/assadissa.jpg" group-title="Religious",Assadissa - السادسة للقرآن الكريم
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=assadissatv
+
+#EXTINF:-1 tvg-id="AflamTV.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aflam_maroc.jpg" group-title="Movies",Aflam TV 7 - السابعة أفلام
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aflam_maroc
+
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/tamazight.jpg" group-title="General",Tamazight 8 - الثامنة الأمازيغية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=tamazight
+
+#EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/laayoune.jpg" group-title="General",Laayoune TV - قناة العيون
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=laayoune
+
+#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/telemaroc.jpg" group-title="General",Télé Maroc - تيلي ماروك
+https://www.elahmad.ru/tv/hlsjs-jwplayer.php?id=telemaroc
+

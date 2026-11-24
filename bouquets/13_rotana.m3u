@@ -1,0 +1,26 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات روتانا (Rotana) (7 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="RotanaCinema.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_cinema.jpg" group-title="Rotana",Rotana Cinema HD - روتانا سينما
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd
+
+#EXTINF:-1 tvg-id="RotanaAflam.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_aflam.jpg" group-title="Rotana",Rotana Aflam+ HD - روتانا أفلام
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?&token=demo
+
+#EXTINF:-1 tvg-id="RotanaKhalijiah.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_khlijia.jpg" group-title="Rotana",Rotana Khalijiah HD - روتانا خليجية
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Khaleejiah_HD/DASH/Rotana_Khaleejiah_HD.mpd
+
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_classic.jpg" group-title="Rotana",Rotana Classic HD - روتانا كلاسيك
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Classic_HD/DASH/Rotana_Classic_HD.mpd
+
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_drama.jpg" group-title="Rotana",Rotana Drama HD - روتانا دراما
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd
+
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_clip.jpg" group-title="Rotana",Rotana Clip HD - روتانا كليب
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=rotana_clip
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_music.jpg" group-title="Rotana",Rotana Music HD - روتانا موسيقى
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=rotana_music
+

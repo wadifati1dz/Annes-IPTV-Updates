@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات الأطفال (Kids) (4 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="Spacetoon.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/spacetoon.jpg" group-title="Kids",SpaceToon HD - قناة سبيس تون
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=spacetoon_live
+
+#EXTINF:-1 tvg-id="MoonbugKids.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/moonbug_kids.jpg" group-title="Kids",Moonbug Kids - قناة مون باج للأطفال
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=moonbug_kids
+
+#EXTINF:-1 tvg-id="ToyorAlJanah.jo" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/toyoraljanah.jpg" group-title="Kids",Toyor Al Janah - قناة طيور الجنة
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=toyoraljanah
+
+#EXTINF:-1 tvg-id="Karameesh.jo" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/karameesh.jpg" group-title="Kids",Karameesh - قناة كراميش
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=karameesh
+

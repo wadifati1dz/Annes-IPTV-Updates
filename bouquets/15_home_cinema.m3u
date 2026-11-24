@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات سينما المنزل (Home Cinema) (6 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="HomeCinema1.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema 1 HD - سينما المنزل 1
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeCinema2.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema 2 HD - سينما المنزل 2
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeCinemaAction.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Action HD - سينما الأكشن
+https://jmp2.uk/stvp-FR370000288
+
+#EXTINF:-1 tvg-id="HomeCinemaComedy.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Comedy HD - سينما كوميدي
+https://jmp2.uk/stvp-FR3700003N4
+
+#EXTINF:-1 tvg-id="HomeCinemaFamily.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Family HD - سينما العائلة
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+
+#EXTINF:-1 tvg-id="HomeCinemaClassics.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Classics HD - كلاسيكيات السينما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=rotana_classic
+

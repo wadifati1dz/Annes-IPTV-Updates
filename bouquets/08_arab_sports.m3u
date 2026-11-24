@@ -1,0 +1,74 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة القنوات الرياضية العربية (Arab Sports) (23 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_1.jpg" group-title="Sports",KSA Sports 1 - السعودية الرياضية 1
+https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport
+
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_2.jpg" group-title="Sports",KSA Sports 2 - السعودية الرياضية 2
+https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport2
+
+#EXTINF:-1 tvg-id="KSASports3.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_3.jpg" group-title="Sports",KSA Sports 3 - السعودية الرياضية 3
+https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport3
+
+#EXTINF:-1 tvg-id="KSASports4.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_4.jpg" group-title="Sports",KSA Sports 4 - السعودية الرياضية 4
+https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport4
+
+#EXTINF:-1 tvg-id="OnTimeSports1.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ontime_sports1.jpg" group-title="Sports",ON Time Sports 1 - أون تايم سبورت 1
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=on_time_sports1
+
+#EXTINF:-1 tvg-id="OnTimeSports2.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ontime_sports2.jpg" group-title="Sports",ON Time Sports 2 - أون تايم سبورت 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=on_time_sports2
+
+#EXTINF:-1 tvg-id="AlAhlyTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alahly_tv.jpg" group-title="Sports",Al Ahly TV - قناة النادي الأهلي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alahly_tv
+
+#EXTINF:-1 tvg-id="ZamalekTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/zamalek_tv.jpg" group-title="Sports",Zamalek TV - قناة نادي الزمالك
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=zamalek
+
+#EXTINF:-1 tvg-id="NileSport.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/nile_sport.jpg" group-title="Sports",Nile Sport - نايل سبورت
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nilesport
+
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/arryadia.jpg" group-title="Sports",Arryadia Maroc - الرياضية المغربية
+https://www.elahmad.ru/tv/radiant.php?id=arryadia1
+
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/sharjah_sport.jpg" group-title="Sports",Sharjah Sports - الشارقة الرياضية
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/iraqia_sport.jpg" group-title="Sports",Al Iraqia Sports - العراقية الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aliraqya_sport
+
+#EXTINF:-1 tvg-id="KuwaitSportPlus.kw" tvg-country="KW" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/kuwait_sport_plus.jpg" group-title="Sports",Kuwait Sport Plus - الكويت الرياضية بلس
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=kw_sport_plus1
+
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bahrain_sport_1.jpg" group-title="Sports",Bahrain Sports 1 - البحرين الرياضية 1
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=bahrain_sport
+
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-country="BH" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bahrain_sport_2.jpg" group-title="Sports",Bahrain Sports 2 - البحرين الرياضية 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=bahrain_sport_2
+
+#EXTINF:-1 tvg-id="JordanSport.jo" tvg-country="JO" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/jordan_sport.jpg" group-title="Sports",Jordan Sport - الأردن الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=jordan_sport1
+
+#EXTINF:-1 tvg-id="PalestineSport.ps" tvg-country="PS" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/palestine_sport.jpg" group-title="Sports",Palestine Sport - فلسطين الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=palestine_sport
+
+#EXTINF:-1 tvg-id="LibyaSports.ly" tvg-country="LY" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/libya_sport.jpg" group-title="Sports",Libya Sports - ليبيا الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=libya_sport
+
+#EXTINF:-1 tvg-id="MauritaniaSport.mr" tvg-country="MR" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/mauritania_sport.jpg" group-title="Sports",Mauritania Sport - الموريتانية الرياضية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=mauritanie_sport
+
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_sports.jpg" group-title="Sports",Dubai Sports 1 - دبي الرياضية 1
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaisport1
+
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_sports.jpg" group-title="Sports",Dubai Sports 2 - دبي الرياضية 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaisport2
+
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_racing.jpg" group-title="Sports",Dubai Racing - دبي ريسينغ
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubairacing1
+
+#EXTINF:-1 tvg-id="YasSports.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/yas_sport.jpg" group-title="Sports",Yas Sports HD - قناة ياس الرياضية
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc/index.mpd
+

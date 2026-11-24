@@ -1,0 +1,80 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة القنوات المصرية (Egypt) (25 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="AlMasriyah.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/esc_egypt.jpg" group-title="General",Al Masriyah - الفضائية المصرية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=almasriyah
+
+#EXTINF:-1 tvg-id="ERTU1.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almasriya_aloula.jpg" group-title="General",Channel 1 Egypt - القناة الأولى المصرية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=egypt_channel1
+
+#EXTINF:-1 tvg-id="DMC.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dmc_live.jpg" group-title="General",dmc HD - دي إم سي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dmc_live_tv
+
+#EXTINF:-1 tvg-id="DMCDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dmc_drama.jpg" group-title="Entertainment",dmc Drama - دي إم سي دراما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dmc_drama_tv
+
+#EXTINF:-1 tvg-id="ONTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/ontveg.jpg" group-title="General",ON E - قناة أون
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=ontv1
+
+#EXTINF:-1 tvg-id="ONDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/on_drama.jpg" group-title="Entertainment",ON Drama - أون دراما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=on_drama
+
+#EXTINF:-1 tvg-id="CBC.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cbc.jpg" group-title="General",CBC Egypt - سي بي سي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cbc_tv
+
+#EXTINF:-1 tvg-id="CBCDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/CBCDrama.jpg" group-title="Entertainment",CBC Drama - سي بي سي دراما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cbc_drama
+
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cbc_sofra.jpg" group-title="Lifestyle",CBC Sofra - سي بي سي سفرة
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cbc_sofra
+
+#EXTINF:-1 tvg-id="AlHayatTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alhayat_tv.jpg" group-title="General",Al Hayat TV Egypt - الحياة المصرية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alhayat_1
+
+#EXTINF:-1 tvg-id="AlHayatDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alhayat_drama.jpg" group-title="Entertainment",Al Hayat المسلسلات - الحياة مسلسلات
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alhayat_drama
+
+#EXTINF:-1 tvg-id="AlNahar.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alnaharlive.jpg" group-title="General",Al Nahar Egypt - النهار المصرية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nahar_tv1
+
+#EXTINF:-1 tvg-id="AlNaharDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alnaharlive_drama.jpg" group-title="Entertainment",Al Nahar Drama - النهار دراما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nahar_drama1
+
+#EXTINF:-1 tvg-id="SadaElBalad.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sada_el_balad_tv.jpg" group-title="General",Sada El Balad - صدى البلد
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=sadaelbalad
+
+#EXTINF:-1 tvg-id="SadaElBaladDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sada_el_balad_drama.jpg" group-title="Entertainment",Sada El Balad Drama - صدى البلد دراما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=sadadrama
+
+#EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkaherawalnas.jpg" group-title="General",Al Kahera Wal Nas - القاهرة والناس
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alkaherawalnas1
+
+#EXTINF:-1 tvg-id="TeNTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/tentv.jpg" group-title="General",TeN TV - قناة تن
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=tentv
+
+#EXTINF:-1 tvg-id="ElMehwar.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/elmehwartv.jpg" group-title="General",El Mehwar TV - قناة المحور
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=elmehwar
+
+#EXTINF:-1 tvg-id="MasperoZaman.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/maspero-zaman-eg.jpg" group-title="General",Maspero Zaman - ماسبيرو زمان
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=MasperoZaman
+
+#EXTINF:-1 tvg-id="NileCinema.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/nilecinema.jpg" group-title="Movies",Nile Cinema - نايل سينما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nile_cinema
+
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/niledrama.jpg" group-title="Entertainment",Nile Drama - نايل دراما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nile_drama
+
+#EXTINF:-1 tvg-id="NileComedy.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/nilecomedy.jpg" group-title="Entertainment",Nile Comedy - نايل كوميدي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nile_comedy
+
+#EXTINF:-1 tvg-id="PanoramaDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/panorama_drama.jpg" group-title="Entertainment",Panorama Drama - بانوراما دراما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=panorama_drama
+
+#EXTINF:-1 tvg-id="PanoramaFilm.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/panorama_film.jpg" group-title="Movies",Panorama Film - بانوراما فيلم
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=panorama_film
+
+#EXTINF:-1 tvg-id="MixBelAraby.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/mixbelaraby.jpg" group-title="Movies",Mix Bel Araby - ميكس بالعربي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=mixbelaraby
+

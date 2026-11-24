@@ -1,0 +1,101 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة الأخبار العربية والعالمية (News) (32 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="AlArabiya.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alarabiya.jpg" group-title="New",Al Arabiya - قناة العربية HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHadath.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alhadath.jpg" group-title="New",Al Hadath - قناة الحدث HD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/asharq.jpg" group-title="New",Asharq News - الشرق للأخبار HD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
+
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-country="FR" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/france24.jpg" group-title="New",France 24 Arabe - فرانس 24 عربي HD
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="UK" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/bbcarabic.jpg" group-title="New",BBC Arabic - بي بي سي عربي HD
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/skynewsarabia.jpg" group-title="New",Sky News Arabia - سكاي نيوز عربية
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-country="QA" tvg-language="ar" tvg-logo="aljazeera.jpg" group-title="New",Al Jazeera - قناة الجزيرة
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aljazeera_mubasher.jpg" group-title="New",Al Jazeera Mubasher - الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaraby.jpg" group-title="New",Al Araby TV - التلفزيون العربي
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExtraNews.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/extranews.jpg" group-title="New",Extra News - إكسترا نيوز
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=alnahar
+
+#EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alqaheranews.jpg" group-title="New",Al Qahera News - القاهرة الإخبارية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="TR" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/trtarabi.jpg" group-title="New",TRT Arabi - تي آر تي عربي HD
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="AlMashhad.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almashhad.jpg" group-title="New",Al Mashhad - قناة المشهد
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+
+#EXTINF:-1 tvg-id="AlAanTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaan.jpg" group-title="New",Al Aan TV - تلفزيون الآن
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=alaan
+
+#EXTINF:-1 tvg-id="CNBCArabia.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cnbcarabia.jpg" group-title="New",CNBC Arabia - سي إن بي سي عربية
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/medi1tv.jpg" group-title="New",Medi 1 TV Maghreb - ميدي 1 تيفي
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=medi1
+
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/medi1tvarabic.jpg" group-title="New",Medi 1 TV Arabic - ميدي 1 عربي
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=medi1
+
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="New",BFM 2 HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/2.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_business.png" group-title="New",BFM Business HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/business.m3u8
+
+#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="New",BFM Tech & Co HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/techandco.m3u8
+
+#EXTINF:-1 tvg-id="CNewsPrime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cnews.png" group-title="New",CNews Prime HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnewsprime-clair-hd.m3u8
+
+#EXTINF:-1 tvg-id="France24French.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france24_fr.png" group-title="New",France 24 Français HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france24-fr.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tv5monde.png" group-title="New",TV5Monde Info HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/tv5monde-info.m3u8
+
+#EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfo100x100couleur.png?h=100" group-title="New",RMC Talk Info HD
+https://jmp2.uk/stvp-FR300005WY
+
+#EXTINF:-1 tvg-id="Europe1TV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/europe-1-fr.png" group-title="New",Europe 1 TV HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/europe1tv-clair-hd.m3u8
+
+#EXTINF:-1 tvg-id="LeFigaroTV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/le-figaro-tv-fr.png" group-title="New",Le Figaro TV HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/lefigaro-tv.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="New",BBC News HD
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="New",CNN News HD
+https://tvsen6.aynaott.com/cnn/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-tv-us.png" group-title="New",Bloomberg TV HD
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="New",Fox News HD
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png" group-title="New",MSNBC News HD
+https://tvsen6.aynaott.com/msnbc/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-network-us.png" group-title="New",Fox Business HD
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+

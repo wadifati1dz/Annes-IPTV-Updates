@@ -1,0 +1,47 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات beIN Sports (14 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-country="QA" tvg-language="ar" tvg-logo="bein_sports_news.png" group-title="beIN Sports",beIN SPORTS News HD - بي إن سبورتس الإخبارية
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sports_news/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTS1.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 1 HD
+https://alwanlive.stream/?channel=bein1
+
+#EXTINF:-1 tvg-id="beINSPORTS2.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 2 HD
+https://alwanlive.stream/?channel=bein2
+
+#EXTINF:-1 tvg-id="beINSPORTS3.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 3 HD
+https://alwanlive.stream/?channel=bein3
+
+#EXTINF:-1 tvg-id="beINSPORTS4.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 4 HD
+https://alwanlive.stream/?channel=bein4
+
+#EXTINF:-1 tvg-id="beINSPORTS5.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 5 HD
+https://alwanlive.stream/?channel=bein5
+
+#EXTINF:-1 tvg-id="beINSPORTS6.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 6 HD
+https://alwanlive.stream/?channel=bein6
+
+#EXTINF:-1 tvg-id="beINSPORTS7.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 7 HD
+https://alwanlive.stream/?channel=bein7
+
+#EXTINF:-1 tvg-id="beINSPORTS8.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 8 HD
+https://alwanlive.stream/?channel=bein8
+
+#EXTINF:-1 tvg-id="beINSPORTS9.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 9 HD
+https://alwanlive.stream/?channel=bein9
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-country="QA" tvg-language="en" tvg-logo="bein_sports_xtra.png" group-title="beIN Sports",beIN SPORTS XTRA 1 HD
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA2.us" tvg-country="QA" tvg-language="en" tvg-logo="bein_sports_xtra_2.png" group-title="beIN Sports",beIN SPORTS XTRA 2 HD
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAes.us" tvg-country="QA" tvg-language="es" tvg-logo="bein_sports_xtra_es.png" group-title="beIN Sports",beIN SPORTS XTRA 3 HD (en Español)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-country="US" tvg-language="en" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS USA HD (English)
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+

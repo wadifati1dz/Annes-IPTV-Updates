@@ -1,0 +1,119 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة القنوات الوثائقية (Documentary) (38 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/chasse_peche.png" group-title="Documentary",Chasse & Pêche FR HD (وثائقية الطبيعة والصيد)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/planete-plus-fr.png" group-title="Documentary",Planète+ HD (Destination Nature)
+https://jmp2.uk/stvp-FRBC4000001IO
+
+#EXTINF:-1 tvg-id="PlanetePlusCrime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/planete-plus-crime-fr.png" group-title="Documentary",Planète+ Crime Investigation HD
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlanetePlusAventure.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/planete-plus-aventure-fr.png" group-title="Documentary",Planète+ Aventure HD (FranceTV Doc)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+
+#EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20260721T035912SQUARE.png" group-title="Documentary",RMC Alerte Secours HD
+https://jmp2.uk/stvp-FR30000271
+
+#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="Documentary",RMC Mystère HD
+https://jmp2.uk/stvp-FR300006GF
+
+#EXTINF:-1 tvg-id="RMCJDCV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentary",RMC J'irai dormir chez vous HD
+https://jmp2.uk/stvp-FRBD4800001P4
+
+#EXTINF:-1 tvg-id="BFMGrandsReportages.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" group-title="Documentary",BFM Grands Reportages HD
+https://jmp2.uk/stvp-FR300004J5
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_prelude_to_war" group-title="Documentary;Movies",Why We Fight: Prelude to War (1942)
+https://archive.org/download/wwf_prelude_to_war/prelude_to_war_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_nazis_strike" group-title="Documentary;Movies",Why We Fight: The Nazis Strike (1943)
+https://archive.org/download/wwf_the_nazis_strike/the_nazis_strike_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_battle_of_britain" group-title="Documentary;Movies",Why We Fight: The Battle of Britain (1943)
+https://archive.org/download/wwf_the_battle_of_britain/the_battle_of_britain_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_battle_of_russia_pt1" group-title="Documentary;Movies",Why We Fight: The Battle of Russia - Part 1 (1943)
+https://archive.org/download/wwf_the_battle_of_russia_pt1/the_battle_of_russia_pt1_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/war_comes_to_america" group-title="Documentary;Movies",Why We Fight: War Comes to America (1945)
+https://archive.org/download/war_comes_to_america/war_comes_to_america_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/TheNewSpirit" group-title="Documentary;Movies",The New Spirit (1942)
+https://archive.org/download/TheNewSpirit/TheNewSpirit.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/battle_of_san_pietro" group-title="Documentary;Movies",The Battle of San Pietro (1945)
+https://archive.org/download/battle_of_san_pietro/battle_of_san_pietro_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/the_battle_of_midway" group-title="Documentary;Movies",The Battle of Midway (1942)
+https://archive.org/download/the_battle_of_midway/the_battle_of_midway_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/TheMemphisBelleAStoryofaFlyingFortress" group-title="Documentary;Movies",The Memphis Belle: A Story of a Flying Fortress (1944)
+https://archive.org/download/TheMemphisBelleAStoryofaFlyingFortress/Memphis.BelleTheA.Story.Of.A.Flying.Fortress.1944_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/DeathMills" group-title="Documentary;Movies",Death Mills (1945)
+https://archive.org/download/DeathMills/DeathMills.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/the_quiet_one" group-title="Documentary;Movies",The Quiet One (1948)
+https://archive.org/download/the_quiet_one/the_quiet_one.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/bacteria_friend_and_foe" group-title="Documentary;Movies",Bacteria: Friend and Foe
+https://archive.org/download/bacteria_friend_and_foe/bacteria_friend_and_foe_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/ParkCons1938" group-title="Documentary;Movies",Park Conscious (1938)
+https://archive.org/download/ParkCons1938/ParkCons1938_512kb.mp4
+
+#EXTINF:-1 tvg-id="AlJazeeraDoc.qa" tvg-country="QA" tvg-language="ar" tvg-logo="aljazeera_doc.png" group-title="Documentary",Al Jazeera Documentary - الجزيرة الوثائقية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aljazeeradoc1
+
+#EXTINF:-1 tvg-id="AlWathaeqya.eg" tvg-country="EG" tvg-language="ar" tvg-logo="alwathaeqya.png" group-title="Documentary",Al Wathaeqya - قناة الوثائقية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alwathaeqya
+
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-country="US" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD
+http://88.212.15.50/live/test_ngc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-country="US" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild HD
+http://88.212.15.50/live/test_ngw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Documentary",Animaux FR HD (Pluto Animaux)
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.cz" tvg-country="US" tvg-language="en" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Animal_Planet_2018_%28Vertical%29.svg/revision/latest?cb=20190715124953" group-title="Documentary",Animal Planet HD
+http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery FR HD
+http://192.99.186.30/stream/81/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Discovery_Channel_2019_symbol.svg/revision/latest?cb=20210804150956" group-title="Documentary",Discovery Channel France HD
+http://192.99.186.30/stream/68/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery HD - الشرق ديسكفري
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="FrancetvDocumentaire.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france5.png" group-title="Documentary",Planète Aventure / FranceTV Documentaire HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+
+#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary",Crime & Investigation (Into Crime FR HD)
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="en" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",Crime 360 HD (A&E / Crime)
+https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-country="US" tvg-language="en" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Documentary",Science & Vie / Pluto TV Science HD
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="Documentary",RMC Mystère HD
+https://jmp2.uk/stvp-FR300006GF
+
+#EXTINF:-1 tvg-id="RMCJDCV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentary",RMC J'irai dormir chez vous HD
+https://jmp2.uk/stvp-FRBD4800001P4
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="en" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Documentary",Love Nature HD
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-country="ZA" tvg-language="en" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary",WildEarth Safari HD
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+

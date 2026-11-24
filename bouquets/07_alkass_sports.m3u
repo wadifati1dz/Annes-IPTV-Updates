@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات الكأس الرياضية (Al Kass Sports) (8 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="AlKassOne.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_1.jpg" group-title="Al Kass Sports",Al Kass Sports 1
+https://www.elahmad.ru/tv/live/alkass-net.php?id=one
+
+#EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_2.jpg" group-title="Al Kass Sports",Al Kass Sports 2
+https://www.elahmad.ru/tv/live/alkass-net.php?id=two
+
+#EXTINF:-1 tvg-id="AlKassThree.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_3.jpg" group-title="Al Kass Sports",Al Kass Sports 3
+https://www.elahmad.ru/tv/live/alkass-net.php?id=three
+
+#EXTINF:-1 tvg-id="AlKassFour.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_4.jpg" group-title="Al Kass Sports",Al Kass Sports 4
+https://www.elahmad.ru/tv/live/alkass-net.php?id=four
+
+#EXTINF:-1 tvg-id="AlKassFive.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_5.jpg" group-title="Al Kass Sports",Al Kass Sports 5
+https://www.elahmad.ru/tv/live/alkass-net.php?id=five
+
+#EXTINF:-1 tvg-id="AlKassSix.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_6.jpg" group-title="Al Kass Sports",Al Kass Sports 6
+https://www.elahmad.ru/tv/live/alkass-net.php?id=six
+
+#EXTINF:-1 tvg-id="AlKassSeven.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_7.jpg" group-title="Al Kass Sports",Al Kass Sports 7
+https://www.elahmad.ru/tv/live/alkass-net.php?id=seven
+
+#EXTINF:-1 tvg-id="AlKassEight.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_8.jpg" group-title="Al Kass Sports",Al Kass Sports 8
+https://www.elahmad.ru/tv/live/alkass-net.php?id=eight
+

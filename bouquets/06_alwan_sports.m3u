@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
+
+# ==============================================================================
+# باقة قنوات ألوان الرياضية (Alwan Sports) (8 قناة)
+# ==============================================================================
+#EXTINF:-1 tvg-id="AlwanSport1.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_1.png" group-title="Alwan Sports",Alwan Sport 1 - ألوان الرياضية 1
+https://alwanlive.stream/?channel=1
+
+#EXTINF:-1 tvg-id="AlwanSport2.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_2.png" group-title="Alwan Sports",Alwan Sport 2 - ألوان الرياضية 2
+https://alwanlive.stream/?channel=2
+
+#EXTINF:-1 tvg-id="AlwanSport3.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_3.png" group-title="Alwan Sports",Alwan Sport 3 - ألوان الرياضية 3
+https://alwanlive.stream/?channel=3
+
+#EXTINF:-1 tvg-id="AlwanSport4.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_4.png" group-title="Alwan Sports",Alwan Sport 4 - ألوان الرياضية 4
+https://alwanlive.stream/?channel=4
+
+#EXTINF:-1 tvg-id="AlwanSport5.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_5.png" group-title="Alwan Sports",Alwan Sport 5 - ألوان الرياضية 5
+https://alwanlive.stream/?channel=5
+
+#EXTINF:-1 tvg-id="AlwanSport6.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_6.png" group-title="Alwan Sports",Alwan Sport 6 - ألوان الرياضية 6
+https://alwanlive.stream/?channel=6
+
+#EXTINF:-1 tvg-id="AlwanSport7.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_7.png" group-title="Alwan Sports",Alwan Sport 7 - ألوان الرياضية 7
+https://alwanlive.stream/?channel=7
+
+#EXTINF:-1 tvg-id="AlwanSport8.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_8.png" group-title="Alwan Sports",Alwan Sport 8 - ألوان الرياضية 8
+https://alwanlive.stream/?channel=8
+
