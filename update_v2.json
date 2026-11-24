@@ -1,19 +1,19 @@
 {
-  "versionCode": 63,
-  "versionName": "2.0.5",
+  "versionCode": 64,
+  "versionName": "2.0.6",
   "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "downloaderCode": "3578493",
-  "sha256": "b29980f89e56ecf74d32b162b53c4e8a97913b818b90a0549644e5257bee893c",
+  "sha256": "f3c395cde1aef106de6c2e96b56067ae5888d642604b9e58d1090490b0e36245",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.5):\n📌 كود Downloader للنسخة V2: 3578493\n• نظام التحديث التلقائي الصامت: تنزيل التحديث في الخلفية بدون إزعاج أو نوافذ انتظار.\n• إعادة هندسة شاشة الهاتف العمودية: ملء الفراغات وتكبير البطاقات بشكل فخم ومتناسق.\n• عرض اسم الولاية بدقة (مثل وهران Oran، الجزائر Alger) بدلاً من أسماء البلديات.\n• تصميم جديد لبطاقة الأفلام بنمط سينمائي ملكي موحد مع بقية البطاقات.\n• تحسين موضع بطاقة مواقيت الصلاة (يسار في العربي، يمين في الفرنسي) وفاصل الشعار الذهبي.",
-    "fr": "Mise à jour Annes V2 (v2.0.5):\n📌 Code Downloader V2 : 3578493\n• Téléchargement silencieux des mises à jour en arrière-plan sans interruption.\n• Optimisation de l'écran portrait mobile : cartes agrandies et espaces équilibrés.\n• Affichage du nom de la wilaya/province (Oran, Alger...) au lieu de la commune.\n• Nouvelle carte Films cinématique et ajustements de l'interface."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.6):\n📌 كود Downloader للنسخة V2: 3578493\n• التشغيل المباشر للقنوات الرياضية: عند الضغط على فئة القنوات الرياضية يفتح المشغل مباشرة، وتظهر في القائمة الباقات الرياضية فقط وقنواتها بدون الباقات الأخرى.\n• ضبط مسافات البطاقات الستة في الشاشة الرئيسية لتظهر كلها معاً في شاشة واحدة بأناقة دون تلاصق.\n• نافذة إحصائيات تفاعلية جديدة: عند الضغط مطولاً على عداد المتصلين يظهر إجمالي المستخدمين، المتصلين الآن، والتوزيع حسب البلد والمدن.",
+    "fr": "Mise à jour Annes V2 (v2.0.6):\n📌 Code Downloader V2 : 3578493\n• Lancement direct du lecteur TV pour les chaînes sportives avec bouquets sportifs exclusifs.\n• Réduction élégante de l'espacement des 6 cartes d'accueil pour affichage complet sur l'écran.\n• Fenêtre d'audiométrie et statistiques interactives sur appui long sur le compteur (pays et villes)."
   },
-  "apkSize": 35902849,
-  "releaseDate": "2026-11-24",
+  "apkSize": 37166546,
+  "releaseDate": "2026-11-25",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.5):\n📌 كود Downloader للنسخة V2: 3578493\n• نظام التحديث التلقائي الصامت: تنزيل التحديث في الخلفية بدون إزعاج أو نوافذ انتظار.\n• إعادة هندسة شاشة الهاتف العمودية: ملء الفراغات وتكبير البطاقات بشكل فخم ومتناسق.\n• عرض اسم الولاية بدقة (مثل وهران Oran، الجزائر Alger) بدلاً من أسماء البلديات.\n• تصميم جديد لبطاقة الأفلام بنمط سينمائي ملكي موحد مع بقية البطاقات.\n• تحسين موضع بطاقة مواقيت الصلاة (يسار في العربي، يمين في الفرنسي) وفاصل الشعار الذهبي.",
-    "fr": "Mise à jour Annes V2 (v2.0.5):\n📌 Code Downloader V2 : 3578493\n• Téléchargement silencieux des mises à jour en arrière-plan sans interruption.\n• Optimisation de l'écran portrait mobile : cartes agrandies et espaces équilibrés.\n• Affichage du nom de la wilaya/province (Oran, Alger...) au lieu de la commune.\n• Nouvelle carte Films cinématique et ajustements de l'interface."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.6):\n📌 كود Downloader للنسخة V2: 3578493\n• التشغيل المباشر للقنوات الرياضية: عند الضغط على فئة القنوات الرياضية يفتح المشغل مباشرة، وتظهر في القائمة الباقات الرياضية فقط وقنواتها بدون الباقات الأخرى.\n• ضبط مسافات البطاقات الستة في الشاشة الرئيسية لتظهر كلها معاً في شاشة واحدة بأناقة دون تلاصق.\n• نافذة إحصائيات تفاعلية جديدة: عند الضغط مطولاً على عداد المتصلين يظهر إجمالي المستخدمين، المتصلين الآن، والتوزيع حسب البلد والمدن.",
+    "fr": "Mise à jour Annes V2 (v2.0.6):\n📌 Code Downloader V2 : 3578493\n• Lancement direct du lecteur TV pour les chaînes sportives avec bouquets sportifs exclusifs.\n• Réduction élégante de l'espacement des 6 cartes d'accueil pour affichage complet sur l'écran.\n• Fenêtre d'audiométrie et statistiques interactives sur appui long sur le compteur (pays et villes)."
   }
 }
