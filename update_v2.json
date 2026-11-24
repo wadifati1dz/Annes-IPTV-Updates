@@ -1,19 +1,19 @@
 {
-  "versionCode": 60,
-  "versionName": "2.0.2",
+  "versionCode": 61,
+  "versionName": "2.0.3",
   "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "downloaderCode": "3578493",
-  "sha256": "41454409f68f4e9d77596925353eda702ae4a650cdcd2b517aeee45c97db340e",
+  "sha256": "a06f8eaa80879937f470686204cb5b30dca0454a9cdb815c8a0c987cdc81aa5e",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.2):\n📌 كود Downloader الخاص بالنسخة V2 فقط: 3578493\n• تصميم جديد للقائمة الجانبية المقوسة مع الشعار الذهبي المفرغ بجوار Annes IPTV والخلفية السينمائية الجديدة.\n• إضافة البطاقات الـ 6 ثلاثية الأبعاد الجديدة (TV en direct, Films, Séries, Sport, Radio, Favoris) بحجم موحد (60%) مع انتقال التوهج الذهبي للبطاقة المختارة.\n• عرض صورة البث المباشر بكامل مقاس شاشة الهاتف (Full Screen) تلقائياً في الوضع الأفقي فقط وبقائها صغيرة في الوضع العمودي.",
-    "fr": "Mise à jour Annes V2 (v2.0.2):\n📌 Code Downloader dédié à la version V2 : 3578493\n• Nouveau menu latéral incurvé avec emblème doré Annes IPTV et nouveau fond cinématique.\n• Nouvelles cartes 3D uniformes (TV en direct, Films, Séries, Sport, Radio, Favoris) à 60% avec halo doré dynamique.\n• Plein écran automatique (Full Screen) pour le lecteur Live TV en mode paysage sur téléphone."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.3):\n📌 كود Downloader الخاص بالنسخة V2 فقط: 3578493\n• تكبير شعار التطبيق ووضعه في وسط أعلى القائمة الجانبية.\n• نقل اسم Annes IPTV بجانب عدد المستخدمين المتصلين.",
+    "fr": "Mise à jour Annes V2 (v2.0.3):\n📌 Code Downloader V2 : 3578493\n• Emblème agrandi et centré au-dessus du menu latéral.\n• Nom Annes IPTV déplacé à côté du compteur d'utilisateurs en ligne."
   },
   "apkSize": 34883585,
   "releaseDate": "2026-11-24",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.2):\n📌 كود Downloader الخاص بالنسخة V2 فقط: 3578493\n• تصميم جديد للقائمة الجانبية المقوسة مع الشعار الذهبي المفرغ بجوار Annes IPTV والخلفية السينمائية الجديدة.\n• إضافة البطاقات الـ 6 ثلاثية الأبعاد الجديدة (TV en direct, Films, Séries, Sport, Radio, Favoris) بحجم موحد (60%) مع انتقال التوهج الذهبي للبطاقة المختارة.\n• عرض صورة البث المباشر بكامل مقاس شاشة الهاتف (Full Screen) تلقائياً في الوضع الأفقي فقط وبقائها صغيرة في الوضع العمودي.",
-    "fr": "Mise à jour Annes V2 (v2.0.2):\n📌 Code Downloader dédié à la version V2 : 3578493\n• Nouveau menu latéral incurvé avec emblème doré Annes IPTV et nouveau fond cinématique.\n• Nouvelles cartes 3D uniformes (TV en direct, Films, Séries, Sport, Radio, Favoris) à 60% avec halo doré dynamique.\n• Plein écran automatique (Full Screen) pour le lecteur Live TV en mode paysage sur téléphone."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.3):\n📌 كود Downloader الخاص بالنسخة V2 فقط: 3578493\n• تكبير شعار التطبيق ووضعه في وسط أعلى القائمة الجانبية.\n• نقل اسم Annes IPTV بجانب عدد المستخدمين المتصلين.",
+    "fr": "Mise à jour Annes V2 (v2.0.3):\n📌 Code Downloader V2 : 3578493\n• Emblème agrandi et centré au-dessus du menu latéral.\n• Nom Annes IPTV déplacé à côté du compteur d'utilisateurs en ligne."
   }
 }
