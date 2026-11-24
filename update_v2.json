@@ -1,19 +1,19 @@
 {
-  "versionCode": 61,
-  "versionName": "2.0.3",
+  "versionCode": 62,
+  "versionName": "2.0.4",
   "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "downloaderCode": "3578493",
-  "sha256": "a06f8eaa80879937f470686204cb5b30dca0454a9cdb815c8a0c987cdc81aa5e",
+  "sha256": "98ad09b11e35cf9acf949663e0221f39dc98be1b390dc3c0252280d98511f143",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.3):\n📌 كود Downloader الخاص بالنسخة V2 فقط: 3578493\n• تكبير شعار التطبيق ووضعه في وسط أعلى القائمة الجانبية.\n• نقل اسم Annes IPTV بجانب عدد المستخدمين المتصلين.",
-    "fr": "Mise à jour Annes V2 (v2.0.3):\n📌 Code Downloader V2 : 3578493\n• Emblème agrandi et centré au-dessus du menu latéral.\n• Nom Annes IPTV déplacé à côté du compteur d'utilisateurs en ligne."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.4):\n📌 كود Downloader للنسخة V2: 3578493\n• إضافة ويدجت مواقيت الصلاة في وسط الشاشة الرئيسية مع عداد تنازلي للصلاة القادمة حسب مدينتك.\n• تنبيهات الأذان التلقائية: بطاقة علوية سلسة تنزل أثناء المشاهدة تذكّر بموعد الصلاة والآية الكريمة.\n• ترتيب الشريط العلوي: الاسم على اليسار والعداد على اليمين مع تصغير الخطوط على الهاتف.\n• التوهج الذهبي يأخذ الآن نفس الشكل الهندسي المحدد للبطاقة المختارة بدقة.",
+    "fr": "Mise à jour Annes V2 (v2.0.4):\n📌 Code Downloader V2 : 3578493\n• Widget des heures de prière au centre de l'écran d'accueil avec compte à rebours.\n• Notification d'adhan élégante en haut de l'écran pendant la lecture.\n• Ajustement du bandeau supérieur et lueur dorée adaptée à la forme des cartes."
   },
-  "apkSize": 34883585,
+  "apkSize": 34916353,
   "releaseDate": "2026-11-24",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.3):\n📌 كود Downloader الخاص بالنسخة V2 فقط: 3578493\n• تكبير شعار التطبيق ووضعه في وسط أعلى القائمة الجانبية.\n• نقل اسم Annes IPTV بجانب عدد المستخدمين المتصلين.",
-    "fr": "Mise à jour Annes V2 (v2.0.3):\n📌 Code Downloader V2 : 3578493\n• Emblème agrandi et centré au-dessus du menu latéral.\n• Nom Annes IPTV déplacé à côté du compteur d'utilisateurs en ligne."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.4):\n📌 كود Downloader للنسخة V2: 3578493\n• إضافة ويدجت مواقيت الصلاة في وسط الشاشة الرئيسية مع عداد تنازلي للصلاة القادمة حسب مدينتك.\n• تنبيهات الأذان التلقائية: بطاقة علوية سلسة تنزل أثناء المشاهدة تذكّر بموعد الصلاة والآية الكريمة.\n• ترتيب الشريط العلوي: الاسم على اليسار والعداد على اليمين مع تصغير الخطوط على الهاتف.\n• التوهج الذهبي يأخذ الآن نفس الشكل الهندسي المحدد للبطاقة المختارة بدقة.",
+    "fr": "Mise à jour Annes V2 (v2.0.4):\n📌 Code Downloader V2 : 3578493\n• Widget des heures de prière au centre de l'écran d'accueil avec compte à rebours.\n• Notification d'adhan élégante en haut de l'écran pendant la lecture.\n• Ajustement du bandeau supérieur et lueur dorée adaptée à la forme des cartes."
   }
 }
