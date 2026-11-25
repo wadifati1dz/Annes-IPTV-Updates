@@ -4,7 +4,7 @@
 # باقة قنوات beIN Sports (14 قناة)
 # ==============================================================================
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-country="QA" tvg-language="ar" tvg-logo="bein_sports_news.png" group-title="beIN Sports",beIN SPORTS News HD - بي إن سبورتس الإخبارية
-http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sports_news/tracks-v1a1/mono.ts.m3u8
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sports_news/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS1.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 1 HD
 https://alwanlive.stream/?channel=bein1

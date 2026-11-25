@@ -1,11 +1,10 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
 
 # ==============================================================================
-# باقة القنوات الجزائرية (Algerian Channels - DZ) (22 قناة)
+# باقة القنوات الجزائرية (Algerian Channels - DZ) (11 قناة)
 # ==============================================================================
-#EXTINF:-1 tvg-id="ENTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/entv_algerie.jpg" group-title="DZ",التلفزيون الجزائري - الأرضية (TV1)
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=canalalgerie
-
+# 1. القنوات الرسمية العمومية (بالترتيب الرقمي الرسمي)
+# ------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/canal_algerie.jpg" group-title="DZ",Canal Algérie - الجزائرية الثانية (TV2)
 http://185.9.2.18/chid_347/index.m3u8
 
@@ -15,18 +14,12 @@ https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
 #EXTINF:-1 tvg-id="TamazightTV4.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie4.jpg" group-title="DZ",القناة الرابعة الأمازيغية (TV4)
 https://www.elahmad.ru/tv/arabic-tv-online.php?id=tamazight
 
-#EXTINF:-1 tvg-id="CoranTV5.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie5.jpg" group-title="DZ",قناة القرآن الكريم الجزائرية (TV5)
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-id="TV6Algerie.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie6.jpg" group-title="DZ",القناة السادسة الشبابية الجزائرية (TV6)
-http://185.9.2.18/chid_347/index.m3u8
-
-#EXTINF:-1 tvg-id="ElMaarefaTV7.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie7.jpg" group-title="DZ",قناة المعرفة الجزائرية (TV7)
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
-
-#EXTINF:-1 tvg-id="EdhakiraTV8.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie8.jpg" group-title="DZ",قناة الذاكرة الجزائرية (TV8)
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="al24news.jpg" group-title="DZ",AL24 News - الجزائر الدولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 
+# ------------------------------------------------------------------------------
+# 2. القنوات الجزائرية الخاصة (بأعلى جودة وروابط رسمية أصلية)
+# ------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ennahartv.jpg" group-title="DZ",Ennahar TV - قناة النهار الجزائرية
 https://player.dzsecurity.net/embed/ennahartv
 
@@ -36,36 +29,14 @@ https://player.dzsecurity.net/embed/echorouktv
 #EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/echorouk_news.jpg" group-title="DZ",Echorouk News - الشروق نيوز
 https://player.dzsecurity.net/embed/echorouknews
 
-#EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elbilad.jpg" group-title="DZ",El Bilad TV - قناة البلاد الجزائرية
-https://player.dzsecurity.net/embed/echorouknews
-
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="al24news.jpg" group-title="DZ",AL24 News - الجزائر الدولية
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/samira_tv.jpg" group-title="DZ",Samira TV - سميرة تي في
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=samiratv
-
-#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elheddaf.jpg" group-title="DZ",El Heddaf TV - قناة الهداف الرياضية
-https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
-
 #EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_hayat_tv.jpg" group-title="DZ",El Hayat TV - قناة الحياة الجزائرية
 https://player.dzsecurity.net/embed/elhayattv
 
-#EXTINF:-1 tvg-id="ElFadjrTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_fadjr_tv.jpg" group-title="DZ",El Fadjr TV - قناة الفجر الجزائرية
-https://player.dzsecurity.net/embed/elhayattv
-
-#EXTINF:-1 tvg-id="ElDjazairN1.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_djazairia_n1.jpg" group-title="DZ",El Djazair N1 - الجزائرية وان
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=echorouk
-
-#EXTINF:-1 tvg-id="AlanisTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alanistv.jpg" group-title="DZ",Alanis TV - قناة الأنيس الفضائية
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElWataniaTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elwataniatv_dz.jpg" group-title="DZ",El Watania TV - قناة الوطنية الجزائرية
-https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/samira_tv.jpg" group-title="DZ",Samira TV - سميرة تي في
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=samiratv
 
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/amouyazid.jpg" group-title="DZ",Amou Yazid TV - قناة عمو يزيد للأطفال
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/almagharibiatv.jpg" group-title="DZ",CNA - القناة المغاربية الإخبارية
 https://live.creacast.com/cna/stream/playlist.m3u8
-

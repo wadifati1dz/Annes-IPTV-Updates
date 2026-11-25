@@ -1,19 +1,19 @@
 {
-  "versionCode": 70,
-  "versionName": "2.1.2",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.1.2.apk",
+  "versionCode": 71,
+  "versionName": "2.1.3",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.1.3.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-latest.apk",
   "downloaderCode": "3578493",
-  "sha256": "d7dfe99b1f0491130fc31946282acaa92ac5c4c6d1df6b5ad23ddfb95ae50d71",
+  "sha256": "c0888c7e33ad3ab7d7231b8fa5a8236366898e3d5df484f8fdefb8d744efa603",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.1.2):\n📌 كود Downloader للنسخة V2: 3578493\n• تحديث سرفرات قنوات beIN Sports بالكامل (من 1 إلى 9) إلى السيرفرات الجديدة فائقة السرعة والثبات وبدون تقطيع.\n• إحصائيات حية ومباشرة 100% للمتصلين حول العالم عبر سحابة Firebase Realtime Database.\n• استقرار تام في جلب البث المباشر وتسريع فتح القنوات الرياضية.",
-    "fr": "Mise à jour Annes V2 (v2.1.2):\n📌 Code Downloader V2 : 3578493\n• Mise à jour complète des serveurs beIN Sports (1 à 9) vers les nouveaux serveurs ultra-rapides et stables.\n• Statistiques réelles en direct via Firebase Realtime Database.\n• Zapping ultra-rapide et stabilité renforcée des flux sportifs."
+    "ar": "تحديث Annes V2 (الإصدار 2.1.3):\n📌 كود Downloader للنسخة V2: 3578493\n• تنظيف باقة القنوات الجزائرية واعتماد القنوات الأصلية الرسمية 100% وحذف جميع الروابط الوهمية والبديلة.\n• تحسينات إضافية في ثبات المشغل والاتصال المباشر.",
+    "fr": "Mise à jour Annes V2 (v2.1.3):\n📌 Code Downloader V2 : 3578493\n• Nettoyage du bouquet DZ : maintien des chaînes 100% officielles et suppression des liens factices.\n• Améliorations de la stabilité du lecteur et de la connexion directe."
   },
-  "apkSize": 37310674,
+  "apkSize": 37309910,
   "releaseDate": "2026-11-25",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.1.2):\n📌 كود Downloader للنسخة V2: 3578493\n• تحديث سرفرات قنوات beIN Sports بالكامل (من 1 إلى 9) إلى السيرفرات الجديدة فائقة السرعة والثبات وبدون تقطيع.\n• إحصائيات حية ومباشرة 100% للمتصلين حول العالم عبر سحابة Firebase Realtime Database.\n• استقرار تام في جلب البث المباشر وتسريع فتح القنوات الرياضية.",
-    "fr": "Mise à jour Annes V2 (v2.1.2):\n📌 Code Downloader V2 : 3578493\n• Mise à jour complète des serveurs beIN Sports (1 à 9) vers les nouveaux serveurs ultra-rapides et stables.\n• Statistiques réelles en direct via Firebase Realtime Database.\n• Zapping ultra-rapide et stabilité renforcée des flux sportifs."
+    "ar": "تحديث Annes V2 (الإصدار 2.1.3):\n📌 كود Downloader للنسخة V2: 3578493\n• تنظيف باقة القنوات الجزائرية واعتماد القنوات الأصلية الرسمية 100% وحذف جميع الروابط الوهمية والبديلة.\n• تحسينات إضافية في ثبات المشغل والاتصال المباشر.",
+    "fr": "Mise à jour Annes V2 (v2.1.3):\n📌 Code Downloader V2 : 3578493\n• Nettoyage du bouquet DZ : maintien des chaînes 100% officielles et suppression des liens factices.\n• Améliorations de la stabilité du lecteur et de la connexion directe."
   }
 }

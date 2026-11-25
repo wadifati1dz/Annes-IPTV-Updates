@@ -48,11 +48,10 @@ https://tvsen6.aynaott.com/beinsports/index.m3u8
 
 
 # ==============================================================================
-# باقة القنوات الجزائرية (Algerian Channels - DZ) (22 قناة)
+# باقة القنوات الجزائرية (Algerian Channels - DZ) (11 قناة)
 # ==============================================================================
-#EXTINF:-1 tvg-id="ENTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/entv_algerie.jpg" group-title="DZ",التلفزيون الجزائري - الأرضية (TV1)
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=canalalgerie
-
+# 1. القنوات الرسمية العمومية (بالترتيب الرقمي الرسمي)
+# ------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/canal_algerie.jpg" group-title="DZ",Canal Algérie - الجزائرية الثانية (TV2)
 http://185.9.2.18/chid_347/index.m3u8
 
@@ -62,18 +61,12 @@ https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
 #EXTINF:-1 tvg-id="TamazightTV4.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie4.jpg" group-title="DZ",القناة الرابعة الأمازيغية (TV4)
 https://www.elahmad.ru/tv/arabic-tv-online.php?id=tamazight
 
-#EXTINF:-1 tvg-id="CoranTV5.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie5.jpg" group-title="DZ",قناة القرآن الكريم الجزائرية (TV5)
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-id="TV6Algerie.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie6.jpg" group-title="DZ",القناة السادسة الشبابية الجزائرية (TV6)
-http://185.9.2.18/chid_347/index.m3u8
-
-#EXTINF:-1 tvg-id="ElMaarefaTV7.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie7.jpg" group-title="DZ",قناة المعرفة الجزائرية (TV7)
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
-
-#EXTINF:-1 tvg-id="EdhakiraTV8.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie8.jpg" group-title="DZ",قناة الذاكرة الجزائرية (TV8)
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="al24news.jpg" group-title="DZ",AL24 News - الجزائر الدولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 
+# ------------------------------------------------------------------------------
+# 2. القنوات الجزائرية الخاصة (بأعلى جودة وروابط رسمية أصلية)
+# ------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ennahartv.jpg" group-title="DZ",Ennahar TV - قناة النهار الجزائرية
 https://player.dzsecurity.net/embed/ennahartv
 
@@ -83,39 +76,17 @@ https://player.dzsecurity.net/embed/echorouktv
 #EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/echorouk_news.jpg" group-title="DZ",Echorouk News - الشروق نيوز
 https://player.dzsecurity.net/embed/echorouknews
 
-#EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elbilad.jpg" group-title="DZ",El Bilad TV - قناة البلاد الجزائرية
-https://player.dzsecurity.net/embed/echorouknews
-
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="al24news.jpg" group-title="DZ",AL24 News - الجزائر الدولية
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/samira_tv.jpg" group-title="DZ",Samira TV - سميرة تي في
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=samiratv
-
-#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elheddaf.jpg" group-title="DZ",El Heddaf TV - قناة الهداف الرياضية
-https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
-
 #EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_hayat_tv.jpg" group-title="DZ",El Hayat TV - قناة الحياة الجزائرية
 https://player.dzsecurity.net/embed/elhayattv
 
-#EXTINF:-1 tvg-id="ElFadjrTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_fadjr_tv.jpg" group-title="DZ",El Fadjr TV - قناة الفجر الجزائرية
-https://player.dzsecurity.net/embed/elhayattv
-
-#EXTINF:-1 tvg-id="ElDjazairN1.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_djazairia_n1.jpg" group-title="DZ",El Djazair N1 - الجزائرية وان
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=echorouk
-
-#EXTINF:-1 tvg-id="AlanisTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alanistv.jpg" group-title="DZ",Alanis TV - قناة الأنيس الفضائية
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElWataniaTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elwataniatv_dz.jpg" group-title="DZ",El Watania TV - قناة الوطنية الجزائرية
-https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/samira_tv.jpg" group-title="DZ",Samira TV - سميرة تي في
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=samiratv
 
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/amouyazid.jpg" group-title="DZ",Amou Yazid TV - قناة عمو يزيد للأطفال
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/almagharibiatv.jpg" group-title="DZ",CNA - القناة المغاربية الإخبارية
 https://live.creacast.com/cna/stream/playlist.m3u8
-
 
 # ==============================================================================
 # باقة الأخبار العربية والعالمية (News) (32 قناة)
@@ -893,25 +864,25 @@ https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 # ==============================================================================
 # باقة القنوات المصرية (Egypt) (25 قناة)
 # ==============================================================================
-#EXTINF:-1 tvg-id="AlMasriyah.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/esc_egypt.jpg" group-title="General",Al Masriyah - الفضائية المصرية
+#EXTINF:-1 tvg-id="AlMasriyah.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/esc_egypt.jpg" group-title="Egypt",Al Masriyah - الفضائية المصرية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=almasriyah
 
-#EXTINF:-1 tvg-id="ERTU1.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almasriya_aloula.jpg" group-title="General",Channel 1 Egypt - القناة الأولى المصرية
+#EXTINF:-1 tvg-id="ERTU1.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almasriya_aloula.jpg" group-title="Egypt",Channel 1 Egypt - القناة الأولى المصرية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=egypt_channel1
 
-#EXTINF:-1 tvg-id="DMC.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dmc_live.jpg" group-title="General",dmc HD - دي إم سي
+#EXTINF:-1 tvg-id="DMC.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dmc_live.jpg" group-title="Egypt",dmc HD - دي إم سي
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dmc_live_tv
 
 #EXTINF:-1 tvg-id="DMCDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dmc_drama.jpg" group-title="Entertainment",dmc Drama - دي إم سي دراما
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dmc_drama_tv
 
-#EXTINF:-1 tvg-id="ONTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/ontveg.jpg" group-title="General",ON E - قناة أون
+#EXTINF:-1 tvg-id="ONTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/ontveg.jpg" group-title="Egypt",ON E - قناة أون
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=ontv1
 
 #EXTINF:-1 tvg-id="ONDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/on_drama.jpg" group-title="Entertainment",ON Drama - أون دراما
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=on_drama
 
-#EXTINF:-1 tvg-id="CBC.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cbc.jpg" group-title="General",CBC Egypt - سي بي سي
+#EXTINF:-1 tvg-id="CBC.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cbc.jpg" group-title="Egypt",CBC Egypt - سي بي سي
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cbc_tv
 
 #EXTINF:-1 tvg-id="CBCDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/CBCDrama.jpg" group-title="Entertainment",CBC Drama - سي بي سي دراما
@@ -920,34 +891,34 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cbc_drama
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/cbc_sofra.jpg" group-title="Lifestyle",CBC Sofra - سي بي سي سفرة
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=cbc_sofra
 
-#EXTINF:-1 tvg-id="AlHayatTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alhayat_tv.jpg" group-title="General",Al Hayat TV Egypt - الحياة المصرية
+#EXTINF:-1 tvg-id="AlHayatTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alhayat_tv.jpg" group-title="Egypt",Al Hayat TV Egypt - الحياة المصرية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alhayat_1
 
 #EXTINF:-1 tvg-id="AlHayatDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alhayat_drama.jpg" group-title="Entertainment",Al Hayat المسلسلات - الحياة مسلسلات
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alhayat_drama
 
-#EXTINF:-1 tvg-id="AlNahar.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alnaharlive.jpg" group-title="General",Al Nahar Egypt - النهار المصرية
+#EXTINF:-1 tvg-id="AlNahar.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alnaharlive.jpg" group-title="Egypt",Al Nahar Egypt - النهار المصرية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nahar_tv1
 
 #EXTINF:-1 tvg-id="AlNaharDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alnaharlive_drama.jpg" group-title="Entertainment",Al Nahar Drama - النهار دراما
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=nahar_drama1
 
-#EXTINF:-1 tvg-id="SadaElBalad.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sada_el_balad_tv.jpg" group-title="General",Sada El Balad - صدى البلد
+#EXTINF:-1 tvg-id="SadaElBalad.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sada_el_balad_tv.jpg" group-title="Egypt",Sada El Balad - صدى البلد
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=sadaelbalad
 
 #EXTINF:-1 tvg-id="SadaElBaladDrama.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sada_el_balad_drama.jpg" group-title="Entertainment",Sada El Balad Drama - صدى البلد دراما
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=sadadrama
 
-#EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkaherawalnas.jpg" group-title="General",Al Kahera Wal Nas - القاهرة والناس
+#EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkaherawalnas.jpg" group-title="Egypt",Al Kahera Wal Nas - القاهرة والناس
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alkaherawalnas1
 
-#EXTINF:-1 tvg-id="TeNTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/tentv.jpg" group-title="General",TeN TV - قناة تن
+#EXTINF:-1 tvg-id="TeNTV.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/tentv.jpg" group-title="Egypt",TeN TV - قناة تن
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=tentv
 
-#EXTINF:-1 tvg-id="ElMehwar.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/elmehwartv.jpg" group-title="General",El Mehwar TV - قناة المحور
+#EXTINF:-1 tvg-id="ElMehwar.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/elmehwartv.jpg" group-title="Egypt",El Mehwar TV - قناة المحور
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=elmehwar
 
-#EXTINF:-1 tvg-id="MasperoZaman.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/maspero-zaman-eg.jpg" group-title="General",Maspero Zaman - ماسبيرو زمان
+#EXTINF:-1 tvg-id="MasperoZaman.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/maspero-zaman-eg.jpg" group-title="Egypt",Maspero Zaman - ماسبيرو زمان
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=MasperoZaman
 
 #EXTINF:-1 tvg-id="NileCinema.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/nilecinema.jpg" group-title="Movies",Nile Cinema - نايل سينما
@@ -972,13 +943,13 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=mixbelaraby
 # ==============================================================================
 # باقة القنوات المغربية (Morocco) (9 قناة)
 # ==============================================================================
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaoula.jpg" group-title="General",Al Aoula Maroc - الأولى المغربية
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaoula.jpg" group-title="Morocco",Al Aoula Maroc - الأولى المغربية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aloula1
 
-#EXTINF:-1 tvg-id="2M.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/2m_ma_tv.jpg" group-title="General",2M Maroc - القناة الثانية دوزيم
+#EXTINF:-1 tvg-id="2M.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/2m_ma_tv.jpg" group-title="Morocco",2M Maroc - القناة الثانية دوزيم
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=2MMaroc
 
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almaghribia.jpg" group-title="General",Al Maghribia - القناة المغربية
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/almaghribia.jpg" group-title="Morocco",Al Maghribia - القناة المغربية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_maghribia
 
 #EXTINF:-1 tvg-id="Athaqafia.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/attakafiya.jpg" group-title="Education",Arrabiaa Athaqafia - الرابعة الثقافية
@@ -990,20 +961,20 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=assadissatv
 #EXTINF:-1 tvg-id="AflamTV.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aflam_maroc.jpg" group-title="Movies",Aflam TV 7 - السابعة أفلام
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aflam_maroc
 
-#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/tamazight.jpg" group-title="General",Tamazight 8 - الثامنة الأمازيغية
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/tamazight.jpg" group-title="Morocco",Tamazight 8 - الثامنة الأمازيغية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=tamazight
 
-#EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/laayoune.jpg" group-title="General",Laayoune TV - قناة العيون
+#EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/laayoune.jpg" group-title="Morocco",Laayoune TV - قناة العيون
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=laayoune
 
-#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/telemaroc.jpg" group-title="General",Télé Maroc - تيلي ماروك
+#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/telemaroc.jpg" group-title="Morocco",Télé Maroc - تيلي ماروك
 https://www.elahmad.ru/tv/hlsjs-jwplayer.php?id=telemaroc
 
 
 # ==============================================================================
 # باقة القنوات الإماراتية (UAE) (11 قناة)
 # ==============================================================================
-#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_tv.jpg" group-title="General",Dubai TV - قناة دبي
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_tv.jpg" group-title="UAE",Dubai TV - قناة دبي
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaitv
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_one.jpg" group-title="Movies",Dubai One - دبي ون
@@ -1012,19 +983,19 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaione
 #EXTINF:-1 tvg-id="NoorDubai.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/noor_dubai.jpg" group-title="Religious",Noor Dubai - نور دبي
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=noordubai
 
-#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sama_dubai.jpg" group-title="General",Sama Dubai - سما دبي
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sama_dubai.jpg" group-title="UAE",Sama Dubai - سما دبي
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=samadubai
 
-#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubaizaman.jpg" group-title="General",Dubai Zaman - دبي زمان
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubaizaman.jpg" group-title="UAE",Dubai Zaman - دبي زمان
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaizaman
 
-#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_shariqah.jpg" group-title="General",Sharjah TV - قناة الشارقة
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_shariqah.jpg" group-title="UAE",Sharjah TV - قناة الشارقة
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aldafrah_tv.jpg" group-title="General",Al Dafrah TV - قناة الظفرة
+#EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aldafrah_tv.jpg" group-title="UAE",Al Dafrah TV - قناة الظفرة
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aldafrah_tv
 
-#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/fujtv.jpg" group-title="General",Fujairah TV - قناة الفجيرة
+#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/fujtv.jpg" group-title="UAE",Fujairah TV - قناة الفجيرة
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=fujtv
 
 #EXTINF:-1 tvg-id="AbuDhabiTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/abudhabi_tv.jpg" group-title="AE",Abu Dhabi TV HD - قناة أبوظبي
@@ -1040,19 +1011,19 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 # ==============================================================================
 # باقة القنوات القطرية (Qatar) (6 قناة)
 # ==============================================================================
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="QA" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_jazeera_english.jpg" group-title="General",Al Jazeera English - الجزيرة الإنجليزية
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="QA" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_jazeera_english.jpg" group-title="Qatar",Al Jazeera English - الجزيرة الإنجليزية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_jazeera_english1
 
-#EXTINF:-1 tvg-id="QatarTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv.jpg" group-title="General",Qatar TV - تلفزيون قطر
+#EXTINF:-1 tvg-id="QatarTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv.jpg" group-title="Qatar",Qatar TV - تلفزيون قطر
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=qatartv1
 
-#EXTINF:-1 tvg-id="QatarTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv-two.jpg" group-title="General",Qatar TV 2 - تلفزيون قطر 2
+#EXTINF:-1 tvg-id="QatarTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv-two.jpg" group-title="Qatar",Qatar TV 2 - تلفزيون قطر 2
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=qatartv2
 
-#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_tv.jpg" group-title="General",Al Rayyan TV - قناة الريان
+#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_tv.jpg" group-title="Qatar",Al Rayyan TV - قناة الريان
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alrayyan1
 
-#EXTINF:-1 tvg-id="AlRayyanAlQadeem.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_alqadeem.jpg" group-title="General",Al Rayyan Al Qadeem - الريان القديم
+#EXTINF:-1 tvg-id="AlRayyanAlQadeem.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_alqadeem.jpg" group-title="Qatar",Al Rayyan Al Qadeem - الريان القديم
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_rayyan2_1
 
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaraby_2.jpg" group-title="Entertainment",Al Araby 2 - العربي 2
