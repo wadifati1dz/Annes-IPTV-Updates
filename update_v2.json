@@ -1,19 +1,19 @@
 {
   "versionCode": 67,
-  "versionName": "2.0.9",
+  "versionName": "2.0.9-TEST",
   "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "downloaderCode": "3578493",
-  "sha256": "834168798bf10320561cd7f5b236723994548d8a5929d64a32346eb329399753",
+  "sha256": "192c5d052404e0784d50ba0434b1b42cc2e349947ab4fa51e861d5fce4d804be",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.9):\n📌 كود Downloader للنسخة V2: 3578493\n• تقليل المسافة بين البطاقات الستة في الشاشة الرئيسية بنسبة 50% لتظهر متقاربة ومتناسقة وتتسع معاً في الشاشة.\n• إضافة التاريخ الميلادي والتاريخ الهجري في بطاقة مواقيت الصلاة بتنسيق عربي فاخر.\n• ميزة الشاشة المزدوجة (Dual Screen PIP): متابعة قناتين في نفس الوقت (واحدة رئيسية والأخرى مصغرة 30%) مع تبديل الصوت بنقرة واحدة والتبديل بين القناتين.",
-    "fr": "Mise à jour Annes V2 (v2.0.9):\n📌 Code Downloader V2 : 3578493\n• Réduction de 50% de l'espacement entre les 6 cartes de l'écran d'accueil pour un affichage optimal.\n• Ajout de la date grégorienne et hégirienne dans la carte des horaires de prière.\n• Fonction Double Écran (Dual Screen PIP) : regardez 2 chaînes simultanément avec bascule audio et permutation instantanée."
+    "ar": "إصدار تجريبي للمطور (v2.0.9-TEST):\n📌 كود Downloader للنسخة V2: 3578493\n• دعم كامل لأجهزة ريموت التلفاز بدون أزرار ملونة: التنقل السلس عبر الأسهم (D-Pad) والضغط على OK لجميع أزرار الشاشة المزدوجة.\n• أزرار تحكم كاملة في الشريط السفلي وفي الشريط العلوي العائم (تبديل الصوت، تبديل القناتين، تغيير الزاوية، إغلاق) مع إطار تركيز ذهبي واضح.\n• اختصارات سريعة بالريموت أثناء المشاهدة: سهم يسار لتبديل الصوت فوراً، وسهم يمين لتبديل القناتين.\n• تقليل المسافة بين بطاقات الشاشة الرئيسية بنسبة 50% وإضافة التاريخين الميلادي والهجري لمواقيت الصلاة.",
+    "fr": "Version TEST Développeur (v2.0.9-TEST):\n📌 Code Downloader V2 : 3578493\n• Navigation complète par télécommande TV (D-Pad) pour les utilisateurs sans touches de couleur.\n• Boutons dédiés dans la barre inférieure et la barre flottante supérieure (Son, Permutation, Angle, Fermer).\n• Raccourcis directs : Flèche gauche (Audio), Flèche droite (Permutation).\n• Réduction de 50% de l'espacement des cartes d'accueil et dates grégorienne/hégirienne pour la prière."
   },
-  "apkSize": 37261366,
+  "apkSize": 37261374,
   "releaseDate": "2026-11-25",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.9):\n📌 كود Downloader للنسخة V2: 3578493\n• تقليل المسافة بين البطاقات الستة في الشاشة الرئيسية بنسبة 50% لتظهر متقاربة ومتناسقة وتتسع معاً في الشاشة.\n• إضافة التاريخ الميلادي والتاريخ الهجري في بطاقة مواقيت الصلاة بتنسيق عربي فاخر.\n• ميزة الشاشة المزدوجة (Dual Screen PIP): متابعة قناتين في نفس الوقت (واحدة رئيسية والأخرى مصغرة 30%) مع تبديل الصوت بنقرة واحدة والتبديل بين القناتين.",
-    "fr": "Mise à jour Annes V2 (v2.0.9):\n📌 Code Downloader V2 : 3578493\n• Réduction de 50% de l'espacement entre les 6 cartes de l'écran d'accueil pour un affichage optimal.\n• Ajout de la date grégorienne et hégirienne dans la carte des horaires de prière.\n• Fonction Double Écran (Dual Screen PIP) : regardez 2 chaînes simultanément avec bascule audio et permutation instantanée."
+    "ar": "إصدار تجريبي للمطور (v2.0.9-TEST):\n📌 كود Downloader للنسخة V2: 3578493\n• دعم كامل لأجهزة ريموت التلفاز بدون أزرار ملونة: التنقل السلس عبر الأسهم (D-Pad) والضغط على OK لجميع أزرار الشاشة المزدوجة.\n• أزرار تحكم كاملة في الشريط السفلي وفي الشريط العلوي العائم (تبديل الصوت، تبديل القناتين، تغيير الزاوية، إغلاق) مع إطار تركيز ذهبي واضح.\n• اختصارات سريعة بالريموت أثناء المشاهدة: سهم يسار لتبديل الصوت فوراً، وسهم يمين لتبديل القناتين.\n• تقليل المسافة بين بطاقات الشاشة الرئيسية بنسبة 50% وإضافة التاريخين الميلادي والهجري لمواقيت الصلاة.",
+    "fr": "Version TEST Développeur (v2.0.9-TEST):\n📌 Code Downloader V2 : 3578493\n• Navigation complète par télécommande TV (D-Pad) pour les utilisateurs sans touches de couleur.\n• Boutons dédiés dans la barre inférieure et la barre flottante supérieure (Son, Permutation, Angle, Fermer).\n• Raccourcis directs : Flèche gauche (Audio), Flèche droite (Permutation).\n• Réduction de 50% de l'espacement des cartes d'accueil et dates grégorienne/hégirienne pour la prière."
   }
 }
