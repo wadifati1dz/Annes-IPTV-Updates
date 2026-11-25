@@ -1,19 +1,19 @@
 {
-  "versionCode": 65,
-  "versionName": "2.0.7",
+  "versionCode": 67,
+  "versionName": "2.0.9",
   "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "downloaderCode": "3578493",
-  "sha256": "88dd80e70663158f568100999387e780e2a2c4fb241c6e28dfb1a1c616405db0",
+  "sha256": "834168798bf10320561cd7f5b236723994548d8a5929d64a32346eb329399753",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.7):\n📌 كود Downloader للنسخة V2: 3578493\n• تفاصيل المباراة الكاملة في نفس البطاقة: عرض صاحب الهدف والدقيقة، الإنذارات والبطاقات الصفراء والحمراء باللاعب والدقيقة، واسم الملعب.\n• تمكين التنقل السلس بالريموت كنترول بين الأيام في شاشة المباريات مع حلقة تركيز ذهبية واضحة.\n• توحيد وتصحيح بطاقة الأفلام لتشابه باقي البطاقات حجماً وشكلاً بدون إطار رمادي.\n• زيادة حجم بطاقة مواقيت الصلاة بنسبة 30% على التلفاز وإظهار الخط الفاصل الذهبي في الهاتف.\n• تكبير البطاقات الستة بنسبة 10% مع الحفاظ على مسافة متناسقة تمنع الالتصاق.",
-    "fr": "Mise à jour Annes V2 (v2.0.7):\n📌 Code Downloader V2 : 3578493\n• Détails complets du match dans la même carte : buteurs et minute, cartons et joueurs, et stade du match.\n• Navigation télécommande TV activée pour le sélecteur de dates avec focus doré.\n• Uniformisation de la carte Films sans bordure grise.\n• Agrandissement de 30% du widget de prière sur TV et séparateur doré visible sur mobile.\n• Agrandissement de 10% des 6 cartes d'accueil."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.9):\n📌 كود Downloader للنسخة V2: 3578493\n• تقليل المسافة بين البطاقات الستة في الشاشة الرئيسية بنسبة 50% لتظهر متقاربة ومتناسقة وتتسع معاً في الشاشة.\n• إضافة التاريخ الميلادي والتاريخ الهجري في بطاقة مواقيت الصلاة بتنسيق عربي فاخر.\n• ميزة الشاشة المزدوجة (Dual Screen PIP): متابعة قناتين في نفس الوقت (واحدة رئيسية والأخرى مصغرة 30%) مع تبديل الصوت بنقرة واحدة والتبديل بين القناتين.",
+    "fr": "Mise à jour Annes V2 (v2.0.9):\n📌 Code Downloader V2 : 3578493\n• Réduction de 50% de l'espacement entre les 6 cartes de l'écran d'accueil pour un affichage optimal.\n• Ajout de la date grégorienne et hégirienne dans la carte des horaires de prière.\n• Fonction Double Écran (Dual Screen PIP) : regardez 2 chaînes simultanément avec bascule audio et permutation instantanée."
   },
-  "apkSize": 37228598,
+  "apkSize": 37261366,
   "releaseDate": "2026-11-25",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.7):\n📌 كود Downloader للنسخة V2: 3578493\n• تفاصيل المباراة الكاملة في نفس البطاقة: عرض صاحب الهدف والدقيقة، الإنذارات والبطاقات الصفراء والحمراء باللاعب والدقيقة، واسم الملعب.\n• تمكين التنقل السلس بالريموت كنترول بين الأيام في شاشة المباريات مع حلقة تركيز ذهبية واضحة.\n• توحيد وتصحيح بطاقة الأفلام لتشابه باقي البطاقات حجماً وشكلاً بدون إطار رمادي.\n• زيادة حجم بطاقة مواقيت الصلاة بنسبة 30% على التلفاز وإظهار الخط الفاصل الذهبي في الهاتف.\n• تكبير البطاقات الستة بنسبة 10% مع الحفاظ على مسافة متناسقة تمنع الالتصاق.",
-    "fr": "Mise à jour Annes V2 (v2.0.7):\n📌 Code Downloader V2 : 3578493\n• Détails complets du match dans la même carte : buteurs et minute, cartons et joueurs, et stade du match.\n• Navigation télécommande TV activée pour le sélecteur de dates avec focus doré.\n• Uniformisation de la carte Films sans bordure grise.\n• Agrandissement de 30% du widget de prière sur TV et séparateur doré visible sur mobile.\n• Agrandissement de 10% des 6 cartes d'accueil."
+    "ar": "تحديث Annes V2 (الإصدار 2.0.9):\n📌 كود Downloader للنسخة V2: 3578493\n• تقليل المسافة بين البطاقات الستة في الشاشة الرئيسية بنسبة 50% لتظهر متقاربة ومتناسقة وتتسع معاً في الشاشة.\n• إضافة التاريخ الميلادي والتاريخ الهجري في بطاقة مواقيت الصلاة بتنسيق عربي فاخر.\n• ميزة الشاشة المزدوجة (Dual Screen PIP): متابعة قناتين في نفس الوقت (واحدة رئيسية والأخرى مصغرة 30%) مع تبديل الصوت بنقرة واحدة والتبديل بين القناتين.",
+    "fr": "Mise à jour Annes V2 (v2.0.9):\n📌 Code Downloader V2 : 3578493\n• Réduction de 50% de l'espacement entre les 6 cartes de l'écran d'accueil pour un affichage optimal.\n• Ajout de la date grégorienne et hégirienne dans la carte des horaires de prière.\n• Fonction Double Écran (Dual Screen PIP) : regardez 2 chaînes simultanément avec bascule audio et permutation instantanée."
   }
 }
