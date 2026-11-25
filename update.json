@@ -1,19 +1,19 @@
 {
-  "versionCode": 67,
-  "versionName": "2.0.9",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.0.9.apk",
+  "versionCode": 68,
+  "versionName": "2.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.1.0.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-latest.apk",
   "downloaderCode": "3578493",
-  "sha256": "f4633cf077421e2e28d407936d8f2a8c35e463811869cea79fca28ae8d1c2bb1",
+  "sha256": "d2b49806887fe91de9a5ce901fdeb3750b923db2c797b858255d5417ec0d6478",
   "mandatory": false,
   "notes": {
-    "ar": "الترقية الكبرى للإصدار الجديد Annes V2 (الإصدار 2.0.9):\n📌 كود Downloader الجديد للنسخة V2: 3578493\n• الانتقال الرسمي إلى الجيل الثاني من التطبيق (Annes V2) مع واجهة سينمائية جديدة بالكامل وسرعة فائقة.\n• خاصية الشاشة المزدوجة (Dual Screen PIP / Multi-View): مشاهدة قناتين في نفس الوقت مع التحكم بالصوت والتبديل الكامل بريموت التلفاز.\n• عرض تفاصيل المباريات والهدافين والإنذارات والملاعب وتصفح المباريات بالريموت.\n• عرض مواقيت الصلاة مع التاريخين الميلادي والهجري وعد تنازلي مباشر.\n• استقرار تام في البث وتحسينات شاملة للأداء.",
-    "fr": "Mise à niveau majeure vers Annes V2 (v2.0.9):\n📌 Nouveau Code Downloader : 3578493\n• Passage officiel vers la nouvelle génération Annes V2 avec interface cinématique moderne et ultra-rapide.\n• Fonction Double Écran (Dual Screen PIP) : regardez 2 chaînes simultanément avec contrôle télécommande complet.\n• Détails des matchs en direct, buteurs, cartons et stades.\n• Horaires de prière avec dates grégorienne et hégirienne et compte à rebours.\n• Stabilité maximale et performances optimisées."
+    "ar": "تحديث Annes V2 (الإصدار 2.1.0):\n📌 كود Downloader للنسخة V2: 3578493\n• إحصائيات حية ومباشرة 100% للمتصلين حول العالم عبر سحابة Firebase Realtime Database.\n• عرض المتصلين الفعليين حسب الدولة والمدينة تلقائياً مع تمييز بلدك ومدينتك.\n• فتح نافذة إحصائيات المستخدمين الفاخرة مباشرة بمجرد الضغط على عداد المتصلين.\n• استقرار تام في الاتصال وتحسينات عامة في الأداء.",
+    "fr": "Mise à jour Annes V2 (v2.1.0):\n📌 Code Downloader V2 : 3578493\n• Statistiques en direct et réelles à 100% des utilisateurs connectés via Firebase Realtime Database.\n• Affichage automatique des connectés réels par pays et par ville avec détection de votre localisation.\n• Ouverture directe de la fenêtre des statistiques par simple clic sur le badge des connectés.\n• Stabilité de connexion renforcée et optimisations générales."
   },
-  "apkSize": 37261366,
+  "apkSize": 37310678,
   "releaseDate": "2026-11-25",
   "releaseNotes": {
-    "ar": "الترقية الكبرى للإصدار الجديد Annes V2 (الإصدار 2.0.9):\n📌 كود Downloader الجديد للنسخة V2: 3578493\n• الانتقال الرسمي إلى الجيل الثاني من التطبيق (Annes V2) مع واجهة سينمائية جديدة بالكامل وسرعة فائقة.\n• خاصية الشاشة المزدوجة (Dual Screen PIP / Multi-View): مشاهدة قناتين في نفس الوقت مع التحكم بالصوت والتبديل الكامل بريموت التلفاز.\n• عرض تفاصيل المباريات والهدافين والإنذارات والملاعب وتصفح المباريات بالريموت.\n• عرض مواقيت الصلاة مع التاريخين الميلادي والهجري وعد تنازلي مباشر.\n• استقرار تام في البث وتحسينات شاملة للأداء.",
-    "fr": "Mise à niveau majeure vers Annes V2 (v2.0.9):\n📌 Nouveau Code Downloader : 3578493\n• Passage officiel vers la nouvelle génération Annes V2 avec interface cinématique moderne et ultra-rapide.\n• Fonction Double Écran (Dual Screen PIP) : regardez 2 chaînes simultanément avec contrôle télécommande complet.\n• Détails des matchs en direct, buteurs, cartons et stades.\n• Horaires de prière avec dates grégorienne et hégirienne et compte à rebours.\n• Stabilité maximale et performances optimisées."
+    "ar": "تحديث Annes V2 (الإصدار 2.1.0):\n📌 كود Downloader للنسخة V2: 3578493\n• إحصائيات حية ومباشرة 100% للمتصلين حول العالم عبر سحابة Firebase Realtime Database.\n• عرض المتصلين الفعليين حسب الدولة والمدينة تلقائياً مع تمييز بلدك ومدينتك.\n• فتح نافذة إحصائيات المستخدمين الفاخرة مباشرة بمجرد الضغط على عداد المتصلين.\n• استقرار تام في الاتصال وتحسينات عامة في الأداء.",
+    "fr": "Mise à jour Annes V2 (v2.1.0):\n📌 Code Downloader V2 : 3578493\n• Statistiques en direct et réelles à 100% des utilisateurs connectés via Firebase Realtime Database.\n• Affichage automatique des connectés réels par pays et par ville avec détection de votre localisation.\n• Ouverture directe de la fenêtre des statistiques par simple clic sur le badge des connectés.\n• Stabilité de connexion renforcée et optimisations générales."
   }
 }

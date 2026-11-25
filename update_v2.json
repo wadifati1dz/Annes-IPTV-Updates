@@ -1,19 +1,19 @@
 {
-  "versionCode": 67,
-  "versionName": "2.0.9",
+  "versionCode": 68,
+  "versionName": "2.1.0",
   "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-v2.apk",
   "downloaderCode": "3578493",
-  "sha256": "f4633cf077421e2e28d407936d8f2a8c35e463811869cea79fca28ae8d1c2bb1",
+  "sha256": "d2b49806887fe91de9a5ce901fdeb3750b923db2c797b858255d5417ec0d6478",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.9):\n📌 كود Downloader للنسخة V2: 3578493\n• ميزة الشاشة المزدوجة (Dual Screen PIP / Multi-View): مشاهدة قناتين في آن واحد (رئيسية 100% ومصغرة 30%).\n• دعم كامل لأجهزة ريموت التلفاز العادي (D-Pad): التنقل والتحكم الكامل بجميع الأزرار (تبديل الصوت، تبديل القناتين، تغيير زاوية الشاشة، إغلاق).\n• اختصارات ريموت التلفاز المباشرة: سهم يسار لتبديل الصوت، وسهم يمين لتبديل القناتين فوراً أثناء المشاهدة.\n• تقليل المسافة بين البطاقات الستة في الشاشة الرئيسية بنسبة 50% لظهور أكثر تناسقاً وتطابقاً.\n• إضافة التاريخين الميلادي والهجري داخل بطاقة مواقيت الصلاة.",
-    "fr": "Mise à jour Annes V2 (v2.0.9):\n📌 Code Downloader V2 : 3578493\n• Fonction Double Écran (Dual Screen PIP) : regardez 2 chaînes simultanément avec bascule audio et permutation.\n• Contrôle télécommande TV (D-Pad) complet pour tous les boutons du double écran.\n• Raccourcis télécommande directe : Flèche gauche (Son), Flèche droite (Permutation).\n• Réduction de 50% de l'espacement des 6 cartes d'accueil.\n• Ajout des dates grégorienne et hégirienne dans la carte des horaires de prière."
+    "ar": "تحديث Annes V2 (الإصدار 2.1.0):\n📌 كود Downloader للنسخة V2: 3578493\n• إحصائيات حية ومباشرة 100% للمتصلين حول العالم عبر سحابة Firebase Realtime Database.\n• عرض المتصلين الفعليين حسب الدولة والمدينة تلقائياً مع تمييز بلدك ومدينتك.\n• فتح نافذة إحصائيات المستخدمين الفاخرة مباشرة بمجرد الضغط على عداد المتصلين.\n• استقرار تام في الاتصال وتحسينات عامة في الأداء.",
+    "fr": "Mise à jour Annes V2 (v2.1.0):\n📌 Code Downloader V2 : 3578493\n• Statistiques en direct et réelles à 100% des utilisateurs connectés via Firebase Realtime Database.\n• Affichage automatique des connectés réels par pays et par ville avec détection de votre localisation.\n• Ouverture directe de la fenêtre des statistiques par simple clic sur le badge des connectés.\n• Stabilité de connexion renforcée et optimisations générales."
   },
-  "apkSize": 37261366,
+  "apkSize": 37310678,
   "releaseDate": "2026-11-25",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.0.9):\n📌 كود Downloader للنسخة V2: 3578493\n• ميزة الشاشة المزدوجة (Dual Screen PIP / Multi-View): مشاهدة قناتين في آن واحد (رئيسية 100% ومصغرة 30%).\n• دعم كامل لأجهزة ريموت التلفاز العادي (D-Pad): التنقل والتحكم الكامل بجميع الأزرار (تبديل الصوت، تبديل القناتين، تغيير زاوية الشاشة، إغلاق).\n• اختصارات ريموت التلفاز المباشرة: سهم يسار لتبديل الصوت، وسهم يمين لتبديل القناتين فوراً أثناء المشاهدة.\n• تقليل المسافة بين البطاقات الستة في الشاشة الرئيسية بنسبة 50% لظهور أكثر تناسقاً وتطابقاً.\n• إضافة التاريخين الميلادي والهجري داخل بطاقة مواقيت الصلاة.",
-    "fr": "Mise à jour Annes V2 (v2.0.9):\n📌 Code Downloader V2 : 3578493\n• Fonction Double Écran (Dual Screen PIP) : regardez 2 chaînes simultanément avec bascule audio et permutation.\n• Contrôle télécommande TV (D-Pad) complet pour tous les boutons du double écran.\n• Raccourcis télécommande directe : Flèche gauche (Son), Flèche droite (Permutation).\n• Réduction de 50% de l'espacement des 6 cartes d'accueil.\n• Ajout des dates grégorienne et hégirienne dans la carte des horaires de prière."
+    "ar": "تحديث Annes V2 (الإصدار 2.1.0):\n📌 كود Downloader للنسخة V2: 3578493\n• إحصائيات حية ومباشرة 100% للمتصلين حول العالم عبر سحابة Firebase Realtime Database.\n• عرض المتصلين الفعليين حسب الدولة والمدينة تلقائياً مع تمييز بلدك ومدينتك.\n• فتح نافذة إحصائيات المستخدمين الفاخرة مباشرة بمجرد الضغط على عداد المتصلين.\n• استقرار تام في الاتصال وتحسينات عامة في الأداء.",
+    "fr": "Mise à jour Annes V2 (v2.1.0):\n📌 Code Downloader V2 : 3578493\n• Statistiques en direct et réelles à 100% des utilisateurs connectés via Firebase Realtime Database.\n• Affichage automatique des connectés réels par pays et par ville avec détection de votre localisation.\n• Ouverture directe de la fenêtre des statistiques par simple clic sur le badge des connectés.\n• Stabilité de connexion renforcée et optimisations générales."
   }
 }
