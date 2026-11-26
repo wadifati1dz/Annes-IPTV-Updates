@@ -4,16 +4,16 @@
   "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.1.5.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-latest.apk",
   "downloaderCode": "3578493",
-  "sha256": "f82f0c6f1c94d73355f2ee816bf000a92f94b0bb0a5230a2189a6871a4c924f1",
+  "sha256": "35c44ee5b20ece51830dcf8936d37ac3d7abc2a4cd0bda59a35245c334c5de3c",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.1.5):\n📌 كود Downloader للنسخة V2: 3578493\n• اعتماد الحل الاحترافي الصادق: 13 قناة حقيقية ونظيفة لباقة beIN Sports بدون أي تكرار أو قنوات وهمية.\n• استعادة وتثبيت قناة beIN SPORTS 1 HD الأصلية الشغالة وحذف القناة المكسورة.\n• حذف القنوات المكررة والمزيفة والقناة التركية نهائياً من باقة beIN.\n• تنظيف تلقائي للكاش القديم في باقتي الجزائر و beIN Sports لتظهر القنوات بالترتيب الرسمي فوراً.",
-    "fr": "Mise à jour Annes V2 (v2.1.5):\n📌 Code Downloader V2 : 3578493\n• Solution professionnelle : 13 chaînes beIN Sports 100% réelles sans doublons ni liens factices.\n• Restauration et priorité absolue pour beIN SPORTS 1 HD officielle et active.\n• Suppression définitive des doublons, flux cassés et chaînes turques.\n• Nettoyage automatique du cache pour les bouquets DZ et beIN Sports."
+    "ar": "تحديث Annes V2 (الإصدار 2.1.5):\n📌 كود Downloader للنسخة V2: 3578493\n• اعتماد الحل الاحترافي الصادق: 14 قناة حقيقية ونظيفة لباقة beIN Sports بدون أي تكرار أو قنوات وهمية.\n• استعادة وتثبيت قناة beIN SPORTS 1 HD الأصلية الشغالة وإضافة قناة beIN SPORTS المفتوحة.\n• حذف القنوات المكررة والمزيفة والقناة التركية نهائياً من باقة beIN.\n• تنظيف تلقائي للكاش القديم في باقتي الجزائر و beIN Sports لتظهر القنوات بالترتيب الرسمي فوراً.",
+    "fr": "Mise à jour Annes V2 (v2.1.5):\n📌 Code Downloader V2 : 3578493\n• Solution professionnelle : 14 chaînes beIN Sports 100% réelles sans doublons ni liens factices.\n• Restauration et priorité absolue pour beIN SPORTS 1 HD officielle et ajout de beIN SPORTS Open HD.\n• Suppression définitive des doublons, flux cassés et chaînes turques.\n• Nettoyage automatique du cache pour les bouquets DZ et beIN Sports."
   },
-  "apkSize": 37309826,
-  "releaseDate": "2026-11-25",
+  "apkSize": 37309870,
+  "releaseDate": "2026-11-26",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.1.5):\n📌 كود Downloader للنسخة V2: 3578493\n• اعتماد الحل الاحترافي الصادق: 13 قناة حقيقية ونظيفة لباقة beIN Sports بدون أي تكرار أو قنوات وهمية.\n• استعادة وتثبيت قناة beIN SPORTS 1 HD الأصلية الشغالة وحذف القناة المكسورة.\n• حذف القنوات المكررة والمزيفة والقناة التركية نهائياً من باقة beIN.\n• تنظيف تلقائي للكاش القديم في باقتي الجزائر و beIN Sports لتظهر القنوات بالترتيب الرسمي فوراً.",
-    "fr": "Mise à jour Annes V2 (v2.1.5):\n📌 Code Downloader V2 : 3578493\n• Solution professionnelle : 13 chaînes beIN Sports 100% réelles sans doublons ni liens factices.\n• Restauration et priorité absolue pour beIN SPORTS 1 HD officielle et active.\n• Suppression définitive des doublons, flux cassés et chaînes turques.\n• Nettoyage automatique du cache pour les bouquets DZ et beIN Sports."
+    "ar": "تحديث Annes V2 (الإصدار 2.1.5):\n📌 كود Downloader للنسخة V2: 3578493\n• اعتماد الحل الاحترافي الصادق: 14 قناة حقيقية ونظيفة لباقة beIN Sports بدون أي تكرار أو قنوات وهمية.\n• استعادة وتثبيت قناة beIN SPORTS 1 HD الأصلية الشغالة وإضافة قناة beIN SPORTS المفتوحة.\n• حذف القنوات المكررة والمزيفة والقناة التركية نهائياً من باقة beIN.\n• تنظيف تلقائي للكاش القديم في باقتي الجزائر و beIN Sports لتظهر القنوات بالترتيب الرسمي فوراً.",
+    "fr": "Mise à jour Annes V2 (v2.1.5):\n📌 Code Downloader V2 : 3578493\n• Solution professionnelle : 14 chaînes beIN Sports 100% réelles sans doublons ni liens factices.\n• Restauration et priorité absolue pour beIN SPORTS 1 HD officielle et ajout de beIN SPORTS Open HD.\n• Suppression définitive des doublons, flux cassés et chaînes turques.\n• Nettoyage automatique du cache pour les bouquets DZ et beIN Sports."
   }
 }
