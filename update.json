@@ -7,9 +7,9 @@
   "sha256": "e002fe8a283499883eea80cfe61900b34fb0442a9187f8cdcf88742a94cca674",
   "mandatory": false,
   "announcement": {
-    "id": "notice-v232-welcome",
-    "enabled": false,
-    "text": "",
+    "id": "notice-v232-dot",
+    "enabled": true,
+    "text": ".",
     "type": "info"
   },
   "notes": {
