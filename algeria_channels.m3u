@@ -1,11 +1,10 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
 
-
 # ==============================================================================
-# باقة قنوات beIN Sports (13 قناة)
+# باقة قنوات beIN Sports
 # ==============================================================================
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-country="QA" tvg-language="ar" tvg-logo="bein_sports_news.png" group-title="beIN Sports",beIN SPORTS News HD - بي إن سبورتس الإخبارية
-http://viptvptv.ddns.net/live/ar/qa/bein/bein_sports_news/tracks-v1a1/mono.ts.m3u8
+http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sports_news/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTS1.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 1 HD
 https://alwanlive.stream/?channel=bein1
@@ -34,22 +33,26 @@ https://alwanlive.stream/?channel=bein8
 #EXTINF:-1 tvg-id="beINSPORTS9.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 9 HD
 https://alwanlive.stream/?channel=bein9
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-country="QA" tvg-language="en" tvg-logo="bein_sports_xtra.png" group-title="beIN Sports",beIN SPORTS XTRA HD
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-country="QA" tvg-language="en" tvg-logo="bein_sports_xtra.png" group-title="beIN Sports",beIN SPORTS XTRA 1 HD
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAes.us" tvg-country="QA" tvg-language="es" tvg-logo="bein_sports_xtra_es.png" group-title="beIN Sports",beIN SPORTS XTRA en Español HD
+#EXTINF:-1 tvg-id="beINSPORTSXTRA2.us" tvg-country="QA" tvg-language="en" tvg-logo="bein_sports_xtra_2.png" group-title="beIN Sports",beIN SPORTS XTRA 2 HD
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAes.us" tvg-country="QA" tvg-language="es" tvg-logo="bein_sports_xtra_es.png" group-title="beIN Sports",beIN SPORTS XTRA 3 HD (en Español)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-country="US" tvg-language="en" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS USA HD (English)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 
 # ==============================================================================
-# باقة القنوات الجزائرية (Algerian Channels - DZ) (11 قناة)
+# باقة القنوات الجزائرية (Algerian Channels - 22)
 # ==============================================================================
-# 1. القنوات الرسمية العمومية (بالترتيب الرقمي الرسمي)
-# ------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="ENTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/entv_algerie.jpg" group-title="DZ",التلفزيون الجزائري - الأرضية (TV1)
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=canalalgerie
+
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/canal_algerie.jpg" group-title="DZ",Canal Algérie - الجزائرية الثانية (TV2)
-http://185.9.2.18/chid_347/index.m3u8
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=canalalgerie
 
 #EXTINF:-1 tvg-id="Algerie3.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie3.jpg" group-title="DZ",الجزائرية الثالثة الإخبارية (TV3)
 https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
@@ -57,12 +60,18 @@ https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
 #EXTINF:-1 tvg-id="TamazightTV4.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie4.jpg" group-title="DZ",القناة الرابعة الأمازيغية (TV4)
 https://www.elahmad.ru/tv/arabic-tv-online.php?id=tamazight
 
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="al24news.jpg" group-title="DZ",AL24 News - الجزائر الدولية
+#EXTINF:-1 tvg-id="CoranTV5.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie5.jpg" group-title="DZ",قناة القرآن الكريم الجزائرية (TV5)
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="TV6Algerie.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie6.jpg" group-title="DZ",القناة السادسة الشبابية الجزائرية (TV6)
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
+
+#EXTINF:-1 tvg-id="ElMaarefaTV7.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie7.jpg" group-title="DZ",قناة المعرفة الجزائرية (TV7)
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=thalitha
+
+#EXTINF:-1 tvg-id="EdhakiraTV8.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie8.jpg" group-title="DZ",قناة الذاكرة الجزائرية (TV8)
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 
-# ------------------------------------------------------------------------------
-# 2. القنوات الجزائرية الخاصة (بأعلى جودة وروابط رسمية أصلية)
-# ------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ennahartv.jpg" group-title="DZ",Ennahar TV - قناة النهار الجزائرية
 https://player.dzsecurity.net/embed/ennahartv
 
@@ -72,11 +81,32 @@ https://player.dzsecurity.net/embed/echorouktv
 #EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/echorouk_news.jpg" group-title="DZ",Echorouk News - الشروق نيوز
 https://player.dzsecurity.net/embed/echorouknews
 
-#EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_hayat_tv.jpg" group-title="DZ",El Hayat TV - قناة الحياة الجزائرية
-https://player.dzsecurity.net/embed/elhayattv
+#EXTINF:-1 tvg-id="ElBiladTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elbilad.jpg" group-title="DZ",El Bilad TV - قناة البلاد الجزائرية
+https://player.dzsecurity.net/embed/echorouknews
+
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="al24news.jpg" group-title="DZ",AL24 News - الجزائر الدولية
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SamiraTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/samira_tv.jpg" group-title="DZ",Samira TV - سميرة تي في
 https://www.elahmad.ru/tv/arabic-tv-online.php?id=samiratv
+
+#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elheddaf.jpg" group-title="DZ",El Heddaf TV - قناة الهداف الرياضية
+https://live.elheddaftv.com:8081/elheddaftvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_hayat_tv.jpg" group-title="DZ",El Hayat TV - قناة الحياة الجزائرية
+https://player.dzsecurity.net/embed/elhayattv
+
+#EXTINF:-1 tvg-id="ElFadjrTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_fadjr_tv.jpg" group-title="DZ",El Fadjr TV - قناة الفجر الجزائرية
+https://player.dzsecurity.net/embed/elhayattv
+
+#EXTINF:-1 tvg-id="ElDjazairN1.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/el_djazairia_n1.jpg" group-title="DZ",El Djazair N1 - الجزائرية وان
+https://www.elahmad.ru/tv/arabic-tv-online.php?id=echorouk
+
+#EXTINF:-1 tvg-id="AlanisTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alanistv.jpg" group-title="DZ",Alanis TV - قناة الأنيس الفضائية
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElWataniaTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elwataniatv_dz.jpg" group-title="DZ",El Watania TV - قناة الوطنية الجزائرية
+https://itserverlab.2bd.net:5443/WebRTCApp/streams/stream.m3u8
 
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/amouyazid.jpg" group-title="DZ",Amou Yazid TV - قناة عمو يزيد للأطفال
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
@@ -84,9 +114,6 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/almagharibiatv.jpg" group-title="DZ",CNA - القناة المغاربية الإخبارية
 https://live.creacast.com/cna/stream/playlist.m3u8
 
-# ==============================================================================
-# باقة الأخبار العربية والعالمية (News) (32 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="AlArabiya.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alarabiya.jpg" group-title="New",Al Arabiya - قناة العربية HD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
@@ -138,55 +165,6 @@ https://www.elahmad.ru/tv/arabic-tv-online.php?id=medi1
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/medi1tvarabic.jpg" group-title="New",Medi 1 TV Arabic - ميدي 1 عربي
 https://www.elahmad.ru/tv/arabic-tv-online.php?id=medi1
 
-#EXTINF:-1 tvg-id="BFM2.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="New",BFM 2 HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/2.m3u8
-
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_business.png" group-title="New",BFM Business HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/business.m3u8
-
-#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="New",BFM Tech & Co HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/techandco.m3u8
-
-#EXTINF:-1 tvg-id="CNewsPrime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cnews.png" group-title="New",CNews Prime HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnewsprime-clair-hd.m3u8
-
-#EXTINF:-1 tvg-id="France24French.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france24_fr.png" group-title="New",France 24 Français HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france24-fr.m3u8
-
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tv5monde.png" group-title="New",TV5Monde Info HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/tv5monde-info.m3u8
-
-#EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfo100x100couleur.png?h=100" group-title="New",RMC Talk Info HD
-https://jmp2.uk/stvp-FR300005WY
-
-#EXTINF:-1 tvg-id="Europe1TV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/europe-1-fr.png" group-title="New",Europe 1 TV HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/europe1tv-clair-hd.m3u8
-
-#EXTINF:-1 tvg-id="LeFigaroTV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/le-figaro-tv-fr.png" group-title="New",Le Figaro TV HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/lefigaro-tv.m3u8
-
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="New",BBC News HD
-https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="New",CNN News HD
-https://tvsen6.aynaott.com/cnn/index.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-tv-us.png" group-title="New",Bloomberg TV HD
-https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="New",Fox News HD
-https://tvsen6.aynaott.com/foxnews/index.m3u8
-
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png" group-title="New",MSNBC News HD
-https://tvsen6.aynaott.com/msnbc/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-network-us.png" group-title="New",Fox Business HD
-https://tvsen6.aynaott.com/foxbusiness/index.m3u8
-
-
-# ==============================================================================
-# باقة القنوات الفرنسية (France & Canal+ & Ciné+ & RMC) (52 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1.png" group-title="France",TF1 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/playlists/paratv/group/tf1plus/tf1plus.m3u?chno=200
 
@@ -319,34 +297,51 @@ https://jmp2.uk/stvp-FR900003DP
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tv5monde.png" group-title="France",TV5Monde France HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/tv5monde-info.m3u8
 
-#EXTINF:-1 tvg-id="RMCLife.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_life.png" group-title="Lifestyle",RMC Life HD
-https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="New",BFM 2 HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/2.m3u8
 
-#EXTINF:-1 tvg-id="RMCTalkSport.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20260622T063925SQUARE.png" group-title="Sports",RMC Sport Talk - After Foot TV HD
-https://jmp2.uk/stvp-FR1100002RF
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_business.png" group-title="New",BFM Business HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/business.m3u8
 
-#EXTINF:-1 tvg-id="RMCMecanic.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" group-title="Sports;Auto",RMC Mecanic HD
-https://jmp2.uk/stvp-FR300003ZB
+#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="New",BFM Tech & Co HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/bfm/techandco.m3u8
 
-#EXTINF:-1 tvg-id="RMCWow.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png" group-title="Entertainment",RMC WOW HD
-https://jmp2.uk/stvp-FR300001M1
+#EXTINF:-1 tvg-id="CNewsPrime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cnews.png" group-title="New",CNews Prime HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnewsprime-clair-hd.m3u8
 
-#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://s1.dmcdn.net/u/8Dz9c1exwxFnyVPBm/60x60" group-title="Sports",Sport en France HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/sport-en-france-dm.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france24_fr.png" group-title="New",France 24 Français HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france24-fr.m3u8
 
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Sports",Equidia Courses HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tv5monde.png" group-title="New",TV5Monde Info HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/tv5monde-info.m3u8
 
-#EXTINF:-1 tvg-id="PlutoCineFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_cinema.png" group-title="Movies",Pluto TV Cinéma Français
-https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+#EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfo100x100couleur.png?h=100" group-title="New",RMC Talk Info HD
+https://jmp2.uk/stvp-FR300005WY
 
-#EXTINF:-1 tvg-id="PlutoSeriesFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_series.png" group-title="Entertainment",Pluto TV Séries FR
-https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+#EXTINF:-1 tvg-id="Europe1TV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/europe-1-fr.png" group-title="New",Europe 1 TV HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/europe1tv-clair-hd.m3u8
 
+#EXTINF:-1 tvg-id="LeFigaroTV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/le-figaro-tv-fr.png" group-title="New",Le Figaro TV HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/lefigaro-tv.m3u8
 
-# ==============================================================================
-# باقة القنوات الوثائقية (Documentary) (38 قناة)
-# ==============================================================================
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="New",BBC News HD
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="New",CNN News HD
+https://tvsen6.aynaott.com/cnn/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-tv-us.png" group-title="New",Bloomberg TV HD
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="New",Fox News HD
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png" group-title="New",MSNBC News HD
+https://tvsen6.aynaott.com/msnbc/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-network-us.png" group-title="New",Fox Business HD
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+
 #EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/chasse_peche.png" group-title="Documentary",Chasse & Pêche FR HD (وثائقية الطبيعة والصيد)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
 
@@ -359,112 +354,6 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="PlanetePlusAventure.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/planete-plus-aventure-fr.png" group-title="Documentary",Planète+ Aventure HD (FranceTV Doc)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
 
-#EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20260721T035912SQUARE.png" group-title="Documentary",RMC Alerte Secours HD
-https://jmp2.uk/stvp-FR30000271
-
-#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="Documentary",RMC Mystère HD
-https://jmp2.uk/stvp-FR300006GF
-
-#EXTINF:-1 tvg-id="RMCJDCV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentary",RMC J'irai dormir chez vous HD
-https://jmp2.uk/stvp-FRBD4800001P4
-
-#EXTINF:-1 tvg-id="BFMGrandsReportages.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" group-title="Documentary",BFM Grands Reportages HD
-https://jmp2.uk/stvp-FR300004J5
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_prelude_to_war" group-title="Documentary;Movies",Why We Fight: Prelude to War (1942)
-https://archive.org/download/wwf_prelude_to_war/prelude_to_war_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_nazis_strike" group-title="Documentary;Movies",Why We Fight: The Nazis Strike (1943)
-https://archive.org/download/wwf_the_nazis_strike/the_nazis_strike_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_battle_of_britain" group-title="Documentary;Movies",Why We Fight: The Battle of Britain (1943)
-https://archive.org/download/wwf_the_battle_of_britain/the_battle_of_britain_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_battle_of_russia_pt1" group-title="Documentary;Movies",Why We Fight: The Battle of Russia - Part 1 (1943)
-https://archive.org/download/wwf_the_battle_of_russia_pt1/the_battle_of_russia_pt1_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/war_comes_to_america" group-title="Documentary;Movies",Why We Fight: War Comes to America (1945)
-https://archive.org/download/war_comes_to_america/war_comes_to_america_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/TheNewSpirit" group-title="Documentary;Movies",The New Spirit (1942)
-https://archive.org/download/TheNewSpirit/TheNewSpirit.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/battle_of_san_pietro" group-title="Documentary;Movies",The Battle of San Pietro (1945)
-https://archive.org/download/battle_of_san_pietro/battle_of_san_pietro_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/the_battle_of_midway" group-title="Documentary;Movies",The Battle of Midway (1942)
-https://archive.org/download/the_battle_of_midway/the_battle_of_midway_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/TheMemphisBelleAStoryofaFlyingFortress" group-title="Documentary;Movies",The Memphis Belle: A Story of a Flying Fortress (1944)
-https://archive.org/download/TheMemphisBelleAStoryofaFlyingFortress/Memphis.BelleTheA.Story.Of.A.Flying.Fortress.1944_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/DeathMills" group-title="Documentary;Movies",Death Mills (1945)
-https://archive.org/download/DeathMills/DeathMills.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/the_quiet_one" group-title="Documentary;Movies",The Quiet One (1948)
-https://archive.org/download/the_quiet_one/the_quiet_one.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/bacteria_friend_and_foe" group-title="Documentary;Movies",Bacteria: Friend and Foe
-https://archive.org/download/bacteria_friend_and_foe/bacteria_friend_and_foe_512kb.mp4
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/ParkCons1938" group-title="Documentary;Movies",Park Conscious (1938)
-https://archive.org/download/ParkCons1938/ParkCons1938_512kb.mp4
-
-#EXTINF:-1 tvg-id="AlJazeeraDoc.qa" tvg-country="QA" tvg-language="ar" tvg-logo="aljazeera_doc.png" group-title="Documentary",Al Jazeera Documentary - الجزيرة الوثائقية
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aljazeeradoc1
-
-#EXTINF:-1 tvg-id="AlWathaeqya.eg" tvg-country="EG" tvg-language="ar" tvg-logo="alwathaeqya.png" group-title="Documentary",Al Wathaeqya - قناة الوثائقية
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alwathaeqya
-
-#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-country="US" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD
-http://88.212.15.50/live/test_ngc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-country="US" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild HD
-http://88.212.15.50/live/test_ngw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Documentary",Animaux FR HD (Pluto Animaux)
-https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet.cz" tvg-country="US" tvg-language="en" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Animal_Planet_2018_%28Vertical%29.svg/revision/latest?cb=20190715124953" group-title="Documentary",Animal Planet HD
-http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery FR HD
-http://192.99.186.30/stream/81/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Discovery_Channel_2019_symbol.svg/revision/latest?cb=20210804150956" group-title="Documentary",Discovery Channel France HD
-http://192.99.186.30/stream/68/index.m3u8
-
-#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery HD - الشرق ديسكفري
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="FrancetvDocumentaire.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france5.png" group-title="Documentary",Planète Aventure / FranceTV Documentaire HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
-
-#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary",Crime & Investigation (Into Crime FR HD)
-https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="en" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",Crime 360 HD (A&E / Crime)
-https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-country="US" tvg-language="en" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Documentary",Science & Vie / Pluto TV Science HD
-https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
-
-#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="Documentary",RMC Mystère HD
-https://jmp2.uk/stvp-FR300006GF
-
-#EXTINF:-1 tvg-id="RMCJDCV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentary",RMC J'irai dormir chez vous HD
-https://jmp2.uk/stvp-FRBD4800001P4
-
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="en" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Documentary",Love Nature HD
-http://88.212.15.50/live/test_lovenature/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WildEarth.za" tvg-country="ZA" tvg-language="en" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary",WildEarth Safari HD
-https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-
-
-# ==============================================================================
-# باقة قنوات ألوان الرياضية (Alwan Sports) (8 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="AlwanSport1.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_1.png" group-title="Alwan Sports",Alwan Sport 1 - ألوان الرياضية 1
 https://alwanlive.stream/?channel=1
 
@@ -489,38 +378,6 @@ https://alwanlive.stream/?channel=7
 #EXTINF:-1 tvg-id="AlwanSport8.iq" tvg-country="IQ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alwan_sport_8.png" group-title="Alwan Sports",Alwan Sport 8 - ألوان الرياضية 8
 https://alwanlive.stream/?channel=8
 
-
-# ==============================================================================
-# باقة قنوات الكأس الرياضية (Al Kass Sports) (8 قناة)
-# ==============================================================================
-#EXTINF:-1 tvg-id="AlKassOne.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_1.jpg" group-title="Al Kass Sports",Al Kass Sports 1
-https://www.elahmad.ru/tv/live/alkass-net.php?id=one
-
-#EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_2.jpg" group-title="Al Kass Sports",Al Kass Sports 2
-https://www.elahmad.ru/tv/live/alkass-net.php?id=two
-
-#EXTINF:-1 tvg-id="AlKassThree.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_3.jpg" group-title="Al Kass Sports",Al Kass Sports 3
-https://www.elahmad.ru/tv/live/alkass-net.php?id=three
-
-#EXTINF:-1 tvg-id="AlKassFour.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_4.jpg" group-title="Al Kass Sports",Al Kass Sports 4
-https://www.elahmad.ru/tv/live/alkass-net.php?id=four
-
-#EXTINF:-1 tvg-id="AlKassFive.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_5.jpg" group-title="Al Kass Sports",Al Kass Sports 5
-https://www.elahmad.ru/tv/live/alkass-net.php?id=five
-
-#EXTINF:-1 tvg-id="AlKassSix.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_6.jpg" group-title="Al Kass Sports",Al Kass Sports 6
-https://www.elahmad.ru/tv/live/alkass-net.php?id=six
-
-#EXTINF:-1 tvg-id="AlKassSeven.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_7.jpg" group-title="Al Kass Sports",Al Kass Sports 7
-https://www.elahmad.ru/tv/live/alkass-net.php?id=seven
-
-#EXTINF:-1 tvg-id="AlKassEight.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_8.jpg" group-title="Al Kass Sports",Al Kass Sports 8
-https://www.elahmad.ru/tv/live/alkass-net.php?id=eight
-
-
-# ==============================================================================
-# باقة القنوات الرياضية العربية (Arab Sports) (23 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="KSASports1.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ksa_sport_1.jpg" group-title="Sports",KSA Sports 1 - السعودية الرياضية 1
 https://www.elahmad.ru/tv/watchtv.php?id=saudi_sport
 
@@ -578,6 +435,54 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=libya_sport
 #EXTINF:-1 tvg-id="MauritaniaSport.mr" tvg-country="MR" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/mauritania_sport.jpg" group-title="Sports",Mauritania Sport - الموريتانية الرياضية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=mauritanie_sport
 
+#EXTINF:-1 tvg-id="RMCLife.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_life.png" group-title="Lifestyle",RMC Life HD
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+#EXTINF:-1 tvg-id="RMCTalkSport.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20260622T063925SQUARE.png" group-title="Sports",RMC Sport Talk - After Foot TV HD
+https://jmp2.uk/stvp-FR1100002RF
+
+#EXTINF:-1 tvg-id="RMCMecanic.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" group-title="Sports;Auto",RMC Mecanic HD
+https://jmp2.uk/stvp-FR300003ZB
+
+#EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20260721T035912SQUARE.png" group-title="Documentary",RMC Alerte Secours HD
+https://jmp2.uk/stvp-FR30000271
+
+#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="Documentary",RMC Mystère HD
+https://jmp2.uk/stvp-FR300006GF
+
+#EXTINF:-1 tvg-id="RMCWow.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png" group-title="Entertainment",RMC WOW HD
+https://jmp2.uk/stvp-FR300001M1
+
+#EXTINF:-1 tvg-id="RMCJDCV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentary",RMC J'irai dormir chez vous HD
+https://jmp2.uk/stvp-FRBD4800001P4
+
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://s1.dmcdn.net/u/8Dz9c1exwxFnyVPBm/60x60" group-title="Sports",Sport en France HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/sport-en-france-dm.m3u8
+
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Sports",Equidia Courses HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+
+#EXTINF:-1 tvg-id="BFMGrandsReportages.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" group-title="Documentary",BFM Grands Reportages HD
+https://jmp2.uk/stvp-FR300004J5
+
+#EXTINF:-1 tvg-id="PlutoCineFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_cinema.png" group-title="Movies",Pluto TV Cinéma Français
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoSeriesFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_series.png" group-title="Entertainment",Pluto TV Séries FR
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_tv.jpg" group-title="General",Dubai TV - قناة دبي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaitv
+
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_one.jpg" group-title="Movies",Dubai One - دبي ون
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaione
+
+#EXTINF:-1 tvg-id="NoorDubai.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/noor_dubai.jpg" group-title="Religious",Noor Dubai - نور دبي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=noordubai
+
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sama_dubai.jpg" group-title="General",Sama Dubai - سما دبي
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=samadubai
+
 #EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_sports.jpg" group-title="Sports",Dubai Sports 1 - دبي الرياضية 1
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaisport1
 
@@ -587,13 +492,81 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaisport2
 #EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_racing.jpg" group-title="Sports",Dubai Racing - دبي ريسينغ
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubairacing1
 
-#EXTINF:-1 tvg-id="YasSports.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/yas_sport.jpg" group-title="Sports",Yas Sports HD - قناة ياس الرياضية
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc/index.mpd
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubaizaman.jpg" group-title="General",Dubai Zaman - دبي زمان
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaizaman
 
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_shariqah.jpg" group-title="General",Sharjah TV - قناة الشارقة
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 
-# ==============================================================================
-# باقة قنوات MBC (16 قناة)
-# ==============================================================================
+#EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aldafrah_tv.jpg" group-title="General",Al Dafrah TV - قناة الظفرة
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aldafrah_tv
+
+#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/fujtv.jpg" group-title="General",Fujairah TV - قناة الفجيرة
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=fujtv
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_prelude_to_war" group-title="Documentary;Movies",Why We Fight: Prelude to War (1942)
+https://archive.org/download/wwf_prelude_to_war/prelude_to_war_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_nazis_strike" group-title="Documentary;Movies",Why We Fight: The Nazis Strike (1943)
+https://archive.org/download/wwf_the_nazis_strike/the_nazis_strike_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_battle_of_britain" group-title="Documentary;Movies",Why We Fight: The Battle of Britain (1943)
+https://archive.org/download/wwf_the_battle_of_britain/the_battle_of_britain_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/wwf_the_battle_of_russia_pt1" group-title="Documentary;Movies",Why We Fight: The Battle of Russia - Part 1 (1943)
+https://archive.org/download/wwf_the_battle_of_russia_pt1/the_battle_of_russia_pt1_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/war_comes_to_america" group-title="Documentary;Movies",Why We Fight: War Comes to America (1945)
+https://archive.org/download/war_comes_to_america/war_comes_to_america_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/TheNewSpirit" group-title="Documentary;Movies",The New Spirit (1942)
+https://archive.org/download/TheNewSpirit/TheNewSpirit.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/battle_of_san_pietro" group-title="Documentary;Movies",The Battle of San Pietro (1945)
+https://archive.org/download/battle_of_san_pietro/battle_of_san_pietro_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/the_battle_of_midway" group-title="Documentary;Movies",The Battle of Midway (1942)
+https://archive.org/download/the_battle_of_midway/the_battle_of_midway_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/TheMemphisBelleAStoryofaFlyingFortress" group-title="Documentary;Movies",The Memphis Belle: A Story of a Flying Fortress (1944)
+https://archive.org/download/TheMemphisBelleAStoryofaFlyingFortress/Memphis.BelleTheA.Story.Of.A.Flying.Fortress.1944_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/DeathMills" group-title="Documentary;Movies",Death Mills (1945)
+https://archive.org/download/DeathMills/DeathMills.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/the_quiet_one" group-title="Documentary;Movies",The Quiet One (1948)
+https://archive.org/download/the_quiet_one/the_quiet_one.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/bacteria_friend_and_foe" group-title="Documentary;Movies",Bacteria: Friend and Foe
+https://archive.org/download/bacteria_friend_and_foe/bacteria_friend_and_foe_512kb.mp4
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="en" tvg-logo="https://archive.org/services/img/ParkCons1938" group-title="Documentary;Movies",Park Conscious (1938)
+https://archive.org/download/ParkCons1938/ParkCons1938_512kb.mp4
+
+#EXTINF:-1 tvg-id="AlKassOne.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_1.jpg" group-title="Al Kass Sports",Al Kass Sports 1
+https://www.elahmad.ru/tv/live/alkass-net.php?id=one
+
+#EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_2.jpg" group-title="Al Kass Sports",Al Kass Sports 2
+https://www.elahmad.ru/tv/live/alkass-net.php?id=two
+
+#EXTINF:-1 tvg-id="AlKassThree.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_3.jpg" group-title="Al Kass Sports",Al Kass Sports 3
+https://www.elahmad.ru/tv/live/alkass-net.php?id=three
+
+#EXTINF:-1 tvg-id="AlKassFour.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_4.jpg" group-title="Al Kass Sports",Al Kass Sports 4
+https://www.elahmad.ru/tv/live/alkass-net.php?id=four
+
+#EXTINF:-1 tvg-id="AlKassFive.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_5.jpg" group-title="Al Kass Sports",Al Kass Sports 5
+https://www.elahmad.ru/tv/live/alkass-net.php?id=five
+
+#EXTINF:-1 tvg-id="AlKassSix.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_6.jpg" group-title="Al Kass Sports",Al Kass Sports 6
+https://www.elahmad.ru/tv/live/alkass-net.php?id=six
+
+#EXTINF:-1 tvg-id="AlKassSeven.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_7.jpg" group-title="Al Kass Sports",Al Kass Sports 7
+https://www.elahmad.ru/tv/live/alkass-net.php?id=seven
+
+#EXTINF:-1 tvg-id="AlKassEight.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alkass_8.jpg" group-title="Al Kass Sports",Al Kass Sports 8
+https://www.elahmad.ru/tv/live/alkass-net.php?id=eight
+
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/mbc1.jpg" group-title="MBC",MBC 1 HD - إم بي سي 1
 https://shd-gcp-live-orng.shahid.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 
@@ -642,10 +615,27 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d
 #EXTINF:-1 tvg-id="Wanasah.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/mbclive.jpg" group-title="MBC",MBC Wanasah HD - وناسة
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeeraDoc.qa" tvg-country="QA" tvg-language="ar" tvg-logo="aljazeera_doc.png" group-title="Documentary",Al Jazeera Documentary - الجزيرة الوثائقية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aljazeeradoc1
 
-# ==============================================================================
-# باقة beIN الترفيهية (beIN Entertainment) (19 قناة)
-# ==============================================================================
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="QA" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_jazeera_english.jpg" group-title="General",Al Jazeera English - الجزيرة الإنجليزية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_jazeera_english1
+
+#EXTINF:-1 tvg-id="QatarTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv.jpg" group-title="General",Qatar TV - تلفزيون قطر
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=qatartv1
+
+#EXTINF:-1 tvg-id="QatarTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv-two.jpg" group-title="General",Qatar TV 2 - تلفزيون قطر 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=qatartv2
+
+#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_tv.jpg" group-title="General",Al Rayyan TV - قناة الريان
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alrayyan1
+
+#EXTINF:-1 tvg-id="AlRayyanAlQadeem.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_alqadeem.jpg" group-title="General",Al Rayyan Al Qadeem - الريان القديم
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_rayyan2_1
+
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaraby_2.jpg" group-title="Entertainment",Al Araby 2 - العربي 2
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alaraby_2
+
 #EXTINF:-1 tvg-id="Fatafeat.ae" tvg-country="" tvg-language="ar" tvg-logo="fatafeat.jpg" group-title="beIN Entertainment",Fatafeat HD - فتافيت
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=fatafeat
 
@@ -703,10 +693,6 @@ http://185.9.2.18/chid_377/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-country="US" tvg-language="en" tvg-logo="travel_channel.png" group-title="beIN Entertainment",Travel Channel Europe HD - ترافل تشانيل
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 
-
-# ==============================================================================
-# باقة قنوات الأطفال (Kids) (4 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="Spacetoon.ae" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/spacetoon.jpg" group-title="Kids",SpaceToon HD - قناة سبيس تون
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=spacetoon_live
 
@@ -719,10 +705,6 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=toyoraljanah
 #EXTINF:-1 tvg-id="Karameesh.jo" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/karameesh.jpg" group-title="Kids",Karameesh - قناة كراميش
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=karameesh
 
-
-# ==============================================================================
-# باقة قنوات ART (6 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="ARTCinema.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/art_cinema.jpg" group-title="ART",ART Cinema HD - إيه آر تي سينما
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=art_cinema
 
@@ -741,10 +723,6 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=hekayat_2
 #EXTINF:-1 tvg-id="ARTCima.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/art_cinema.jpg" group-title="ART",Cima TV - قناة سيما
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=art_cima
 
-
-# ==============================================================================
-# باقة قنوات روتانا (Rotana) (7 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="RotanaCinema.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_cinema.jpg" group-title="Rotana",Rotana Cinema HD - روتانا سينما
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd
 
@@ -766,100 +744,6 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=rotana_clip
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/rotana_music.jpg" group-title="Rotana",Rotana Music HD - روتانا موسيقى
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=rotana_music
 
-
-# ==============================================================================
-# باقة قنوات Box Premium & FilmBox (17 قناة)
-# ==============================================================================
-#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" group-title="Box Premium",FilmBox Premium HD
-https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Box Premium",FilmBox Extra HD
-https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="Box Premium",FilmBox Stars HD
-https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
-
-#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="Box Premium",FilmBox Action HD
-http://92.114.85.87:8008/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Box Premium",FilmBox Family / Comedy HD
-http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" group-title="Box Premium",FilmBox Arthouse HD
-https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Box Premium",FilmBox Basic HD
-http://88.212.15.50/live/test_filmbox/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DocuBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Box Premium",DocuBox HD
-https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Box Premium",FightBox HD
-https://webtvstream.bhtelecom.ba/fightbox.m3u8
-
-#EXTINF:-1 tvg-id="FastFunBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Box Premium",Fast&FunBox HD
-https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FashionBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Box Premium",FashionBox HD
-https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FunBoxUHD.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/9FJct9o.png" group-title="Box Premium",FunBox UHD
-https://webtvstream.bhtelecom.ba/funbox.m3u8
-
-#EXTINF:-1 tvg-id="360TuneBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Box Premium",360TuneBox HD
-https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gametoon.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Box Premium",Gametoon Box HD
-https://webtvstream.bhtelecom.ba/gametoon.m3u8
-
-#EXTINF:-1 tvg-id="BoxOfficeAction.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20261006T034039SQUARE.png" group-title="Box Premium",Box Office Action FR HD
-https://jmp2.uk/stvp-FR370000288
-
-#EXTINF:-1 tvg-id="BoxOfficeThriller.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260324T034928SQUARE.png" group-title="Box Premium",Box Office Thriller FR HD
-https://jmp2.uk/stvp-FR3700001AG
-
-#EXTINF:-1 tvg-id="BoxOfficeDrama.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" group-title="Box Premium",Box Office Drama FR HD
-https://jmp2.uk/stvp-FR3700003N4
-
-
-# ==============================================================================
-# باقة قنوات سينما المنزل (Home Cinema) (6 قناة)
-# ==============================================================================
-#EXTINF:-1 tvg-id="HomeCinema1.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema 1 HD - سينما المنزل 1
-https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HomeCinema2.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema 2 HD - سينما المنزل 2
-https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HomeCinemaAction.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Action HD - سينما الأكشن
-https://jmp2.uk/stvp-FR370000288
-
-#EXTINF:-1 tvg-id="HomeCinemaComedy.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Comedy HD - سينما كوميدي
-https://jmp2.uk/stvp-FR3700003N4
-
-#EXTINF:-1 tvg-id="HomeCinemaFamily.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Family HD - سينما العائلة
-https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
-
-#EXTINF:-1 tvg-id="HomeCinemaClassics.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Classics HD - كلاسيكيات السينما
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=rotana_classic
-
-
-# ==============================================================================
-# باقة قنوات StarzPlay (3 قناة)
-# ==============================================================================
-#EXTINF:-1 tvg-id="StarzPlayAction.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Action HD
-https://webtvstream.bhtelecom.ba/filmbox_action.m3u8
-
-#EXTINF:-1 tvg-id="StarzPlaySeries.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Series HD
-https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarzPlayCinema.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Cinema HD
-https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
-
-
-# ==============================================================================
-# باقة القنوات المصرية (Egypt) (25 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="AlMasriyah.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/esc_egypt.jpg" group-title="General",Al Masriyah - الفضائية المصرية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=almasriyah
 
@@ -914,6 +798,9 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=tentv
 #EXTINF:-1 tvg-id="ElMehwar.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/elmehwartv.jpg" group-title="General",El Mehwar TV - قناة المحور
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=elmehwar
 
+#EXTINF:-1 tvg-id="AlWathaeqya.eg" tvg-country="EG" tvg-language="ar" tvg-logo="alwathaeqya.png" group-title="Documentary",Al Wathaeqya - قناة الوثائقية
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alwathaeqya
+
 #EXTINF:-1 tvg-id="MasperoZaman.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/maspero-zaman-eg.jpg" group-title="General",Maspero Zaman - ماسبيرو زمان
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=MasperoZaman
 
@@ -935,10 +822,6 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=panorama_film
 #EXTINF:-1 tvg-id="MixBelAraby.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/mixbelaraby.jpg" group-title="Movies",Mix Bel Araby - ميكس بالعربي
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=mixbelaraby
 
-
-# ==============================================================================
-# باقة القنوات المغربية (Morocco) (9 قناة)
-# ==============================================================================
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaoula.jpg" group-title="General",Al Aoula Maroc - الأولى المغربية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aloula1
 
@@ -966,33 +849,128 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=laayoune
 #EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/telemaroc.jpg" group-title="General",Télé Maroc - تيلي ماروك
 https://www.elahmad.ru/tv/hlsjs-jwplayer.php?id=telemaroc
 
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-country="US" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD
+http://88.212.15.50/live/test_ngc/playlist.m3u8
 
-# ==============================================================================
-# باقة القنوات الإماراتية (UAE) (11 قناة)
-# ==============================================================================
-#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_tv.jpg" group-title="General",Dubai TV - قناة دبي
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaitv
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-country="US" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild HD
+http://88.212.15.50/live/test_ngw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="AE" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_one.jpg" group-title="Movies",Dubai One - دبي ون
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaione
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Documentary",Animaux FR HD (Pluto Animaux)
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 
-#EXTINF:-1 tvg-id="NoorDubai.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/noor_dubai.jpg" group-title="Religious",Noor Dubai - نور دبي
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=noordubai
+#EXTINF:-1 tvg-id="AnimalPlanet.cz" tvg-country="US" tvg-language="en" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Animal_Planet_2018_%28Vertical%29.svg/revision/latest?cb=20190715124953" group-title="Documentary",Animal Planet HD
+http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/sama_dubai.jpg" group-title="General",Sama Dubai - سما دبي
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=samadubai
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery FR HD
+http://192.99.186.30/stream/81/index.m3u8
 
-#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubaizaman.jpg" group-title="General",Dubai Zaman - دبي زمان
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubaizaman
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Discovery_Channel_2019_symbol.svg/revision/latest?cb=20210804150956" group-title="Documentary",Discovery Channel France HD
+http://192.99.186.30/stream/68/index.m3u8
 
-#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_shariqah.jpg" group-title="General",Sharjah TV - قناة الشارقة
-https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-country="SA" tvg-language="ar" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery HD - الشرق ديسكفري
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/aldafrah_tv.jpg" group-title="General",Al Dafrah TV - قناة الظفرة
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=aldafrah_tv
+#EXTINF:-1 tvg-id="FrancetvDocumentaire.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france5.png" group-title="Documentary",Planète Aventure / FranceTV Documentaire HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
 
-#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/fujtv.jpg" group-title="General",Fujairah TV - قناة الفجيرة
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=fujtv
+#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary",Crime & Investigation (Into Crime FR HD)
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="en" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",Crime 360 HD (A&E / Crime)
+https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-country="US" tvg-language="en" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Documentary",Science & Vie / Pluto TV Science HD
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="Documentary",RMC Mystère HD
+https://jmp2.uk/stvp-FR300006GF
+
+#EXTINF:-1 tvg-id="RMCJDCV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentary",RMC J'irai dormir chez vous HD
+https://jmp2.uk/stvp-FRBD4800001P4
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="en" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Documentary",Love Nature HD
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-country="ZA" tvg-language="en" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary",WildEarth Safari HD
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" group-title="Box Premium",FilmBox Premium HD
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Box Premium",FilmBox Extra HD
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="Box Premium",FilmBox Stars HD
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="Box Premium",FilmBox Action HD
+http://92.114.85.87:8008/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Box Premium",FilmBox Family / Comedy HD
+http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" group-title="Box Premium",FilmBox Arthouse HD
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-country="NL" tvg-language="en" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Box Premium",FilmBox Basic HD
+http://88.212.15.50/live/test_filmbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Box Premium",DocuBox HD
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Box Premium",FightBox HD
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+
+#EXTINF:-1 tvg-id="FastFunBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Box Premium",Fast&FunBox HD
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Box Premium",FashionBox HD
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FunBoxUHD.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/9FJct9o.png" group-title="Box Premium",FunBox UHD
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+
+#EXTINF:-1 tvg-id="360TuneBox.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Box Premium",360TuneBox HD
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gametoon.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Box Premium",Gametoon Box HD
+https://webtvstream.bhtelecom.ba/gametoon.m3u8
+
+#EXTINF:-1 tvg-id="BoxOfficeAction.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20261006T034039SQUARE.png" group-title="Box Premium",Box Office Action FR HD
+https://jmp2.uk/stvp-FR370000288
+
+#EXTINF:-1 tvg-id="BoxOfficeThriller.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260324T034928SQUARE.png" group-title="Box Premium",Box Office Thriller FR HD
+https://jmp2.uk/stvp-FR3700001AG
+
+#EXTINF:-1 tvg-id="BoxOfficeDrama.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" group-title="Box Premium",Box Office Drama FR HD
+https://jmp2.uk/stvp-FR3700003N4
+
+#EXTINF:-1 tvg-id="HomeCinema1.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema 1 HD - سينما المنزل 1
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeCinema2.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema 2 HD - سينما المنزل 2
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeCinemaAction.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Action HD - سينما الأكشن
+https://jmp2.uk/stvp-FR370000288
+
+#EXTINF:-1 tvg-id="HomeCinemaComedy.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Comedy HD - سينما كوميدي
+https://jmp2.uk/stvp-FR3700003N4
+
+#EXTINF:-1 tvg-id="HomeCinemaFamily.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Family HD - سينما العائلة
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+
+#EXTINF:-1 tvg-id="HomeCinemaClassics.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/home_cinema.png" group-title="Home Cinema",Home Cinema Classics HD - كلاسيكيات السينما
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=rotana_classic
+
+#EXTINF:-1 tvg-id="StarzPlayAction.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Action HD
+https://webtvstream.bhtelecom.ba/filmbox_action.m3u8
+
+#EXTINF:-1 tvg-id="StarzPlaySeries.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Series HD
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarzPlayCinema.ar" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/starzplay.png" group-title="Starz Play",StarzPlay Cinema HD
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/abudhabi_tv.jpg" group-title="AE",Abu Dhabi TV HD - قناة أبوظبي
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
@@ -1000,28 +978,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi
 #EXTINF:-1 tvg-id="AlEmarat.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/emarat_tv.jpg" group-title="AE",Al Emarat TV HD - قناة الإمارات
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/emarat_tv/emarat_tv_dash_enc/index.mpd
 
+#EXTINF:-1 tvg-id="YasSports.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/yas_sport.jpg" group-title="Sports",Yas Sports HD - قناة ياس الرياضية
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc/index.mpd
+
 #EXTINF:-1 tvg-id="AjmanTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ajman_tv.jpg" group-title="AE",Ajman TV HD - قناة عجمان
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-
-
-# ==============================================================================
-# باقة القنوات القطرية (Qatar) (6 قناة)
-# ==============================================================================
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="QA" tvg-language="en" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/al_jazeera_english.jpg" group-title="General",Al Jazeera English - الجزيرة الإنجليزية
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_jazeera_english1
-
-#EXTINF:-1 tvg-id="QatarTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv.jpg" group-title="General",Qatar TV - تلفزيون قطر
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=qatartv1
-
-#EXTINF:-1 tvg-id="QatarTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/qatartv-two.jpg" group-title="General",Qatar TV 2 - تلفزيون قطر 2
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=qatartv2
-
-#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_tv.jpg" group-title="General",Al Rayyan TV - قناة الريان
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alrayyan1
-
-#EXTINF:-1 tvg-id="AlRayyanAlQadeem.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alrayyan_alqadeem.jpg" group-title="General",Al Rayyan Al Qadeem - الريان القديم
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_rayyan2_1
-
-#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaraby_2.jpg" group-title="Entertainment",Al Araby 2 - العربي 2
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alaraby_2
-
