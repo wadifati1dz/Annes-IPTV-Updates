@@ -1,19 +1,19 @@
 {
-  "versionCode": 88,
-  "versionName": "2.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.3.0.apk",
+  "versionCode": 90,
+  "versionName": "2.3.2",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.3.2.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-latest.apk",
   "downloaderCode": "3578493",
-  "sha256": "981d32d94b97126aee2b379d330c2bd7d47231f8beefd553bdc17f8eeccdd3d4",
+  "sha256": "e002fe8a283499883eea80cfe61900b34fb0442a9187f8cdcf88742a94cca674",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.3.0):\n📌 كود Downloader للنسخة V2: 3578493\n• إضافة قنوات beIN SPORTS المفتوحة و beIN SPORTS NBA بدقة عالية وثبات فائق.\n• إضافة قناة beIN Drama بجودة ممتازة لمتابعة أحدث المسلسلات.\n• تحديث شامل لروابط القنوات الجزائرية والتأكد من عمل كافة القنوات العمومية والخاصة مع الصوت الكامل (الجزائر 2، الهداف، الوطنية، وغيرها).\n• استعادة التصميم الأصلي الأنيق لأيقونات الباقات بالقائمة الجانبية.\n• استقرار تام وتحسينات في سرعة التبديل بين القنوات.",
-    "fr": "Mise à jour Annes V2 (v2.3.0) :\n📌 Code Downloader V2 : 3578493\n• Ajout des chaînes beIN SPORTS HD (Ouverte) et beIN SPORTS NBA HD en haute définition et grande stabilité.\n• Ajout de beIN Drama HD pour le streaming de séries et divertissements.\n• Mise à jour complète et vérification des flux des chaînes algériennes (Algérie 2 avec son restauré, El Heddaf, El Watania, etc.).\n• Restauration du design original des icônes des bouquets dans le menu latéral.\n• Optimisation de la fluidité et du zapping direct."
+    "ar": "تحديث شامل Annes V2 (الإصدار 2.3.2):\n📌 كود Downloader للتحميل والتثبيت المباشر: 3578493\n• نظام التبديل التلقائي الذكي (Auto Failover): التبديل التلقائي الفوري إلى السيرفرات البديلة عند أي انقطاع في البث دون توقف المشاهدة.\n• باقة إذاعات القرآن الكريم 24/7: باقة صوتية مستمرة على مدار الساعة مع واجهة استماع قرآنية هادئة.\n• إنشاء باقات مخصصة داخل المفضلة: إمكانية إنشاء باقات خاصة بالريموت (رياضية، إخبارية، أطفال، إسلامية، سينما، إلخ) وتصنيف القنوات داخلها بحرية.\n• تنبيهات المباريات المباشرة والأهداف: متابعة الدوريات الكبرى وتلقي إشعارات الأهداف ونتائج المباريات فور تسجيلها.\n• تحسينات الريموت كنترول: تنقل سلس بين الباقات والقنوات، وخروج فوري من المفضلة، وسهولة تفعيل تنبيهات الدوريات.\n• شريط الإعلانات والتنبيهات السريعة في الواجهة الرئيسية.",
+    "fr": "Mise à jour majeure Annes V2 (v2.3.2) :\n📌 Code Downloader : 3578493\n• Basculement automatique intelligent (Auto Failover) vers les flux de secours en cas de coupure.\n• Bouquet Radio Coran 24h/24 avec interface audio dédiée.\n• Création de bouquets personnalisés dans les Favoris avec catégories suggérées.\n• Alertes de buts et scores en direct pour les championnats suivis.\n• Navigation télécommande optimisée : passage fluide bouquets/chaînes, sortie facile des favoris.\n• Bandeau d'annonces et alertes rapides sur l'écran d'accueil."
   },
-  "apkSize": 38498599,
+  "apkSize": 38533610,
   "releaseDate": "2026-11-27",
   "releaseNotes": {
-    "ar": "تحديث Annes V2 (الإصدار 2.3.0):\n📌 كود Downloader للنسخة V2: 3578493\n• إضافة قنوات beIN SPORTS المفتوحة و beIN SPORTS NBA بدقة عالية وثبات فائق.\n• إضافة قناة beIN Drama بجودة ممتازة لمتابعة أحدث المسلسلات.\n• تحديث شامل لروابط القنوات الجزائرية والتأكد من عمل كافة القنوات العمومية والخاصة مع الصوت الكامل (الجزائر 2، الهداف، الوطنية، وغيرها).\n• استعادة التصميم الأصلي الأنيق لأيقونات الباقات بالقائمة الجانبية.\n• استقرار تام وتحسينات في سرعة التبديل بين القنوات.",
-    "fr": "Mise à jour Annes V2 (v2.3.0) :\n📌 Code Downloader V2 : 3578493\n• Ajout des chaînes beIN SPORTS HD (Ouverte) et beIN SPORTS NBA HD en haute définition et grande stabilité.\n• Ajout de beIN Drama HD pour le streaming de séries et divertissements.\n• Mise à jour complète et vérification des flux des chaînes algériennes (Algérie 2 avec son restauré, El Heddaf, El Watania, etc.).\n• Restauration du design original des icônes des bouquets dans le menu latéral.\n• Optimisation de la fluidité et du zapping direct."
+    "ar": "تحديث شامل Annes V2 (الإصدار 2.3.2):\n📌 كود Downloader للتحميل والتثبيت المباشر: 3578493\n• نظام التبديل التلقائي الذكي (Auto Failover): التبديل التلقائي الفوري إلى السيرفرات البديلة عند أي انقطاع في البث دون توقف المشاهدة.\n• باقة إذاعات القرآن الكريم 24/7: باقة صوتية مستمرة على مدار الساعة مع واجهة استماع قرآنية هادئة.\n• إنشاء باقات مخصصة داخل المفضلة: إمكانية إنشاء باقات خاصة بالريموت (رياضية، إخبارية، أطفال، إسلامية، سينما، إلخ) وتصنيف القنوات داخلها بحرية.\n• تنبيهات المباريات المباشرة والأهداف: متابعة الدوريات الكبرى وتلقي إشعارات الأهداف ونتائج المباريات فور تسجيلها.\n• تحسينات الريموت كنترول: تنقل سلس بين الباقات والقنوات، وخروج فوري من المفضلة، وسهولة تفعيل تنبيهات الدوريات.\n• شريط الإعلانات والتنبيهات السريعة في الواجهة الرئيسية.",
+    "fr": "Mise à jour majeure Annes V2 (v2.3.2) :\n📌 Code Downloader : 3578493\n• Basculement automatique intelligent (Auto Failover) vers les flux de secours en cas de coupure.\n• Bouquet Radio Coran 24h/24 avec interface audio dédiée.\n• Création de bouquets personnalisés dans les Favoris avec catégories suggérées.\n• Alertes de buts et scores en direct pour les championnats suivis.\n• Navigation télécommande optimisée : passage fluide bouquets/chaînes, sortie facile des favoris.\n• Bandeau d'annonces et alertes rapides sur l'écran d'accueil."
   }
 }
