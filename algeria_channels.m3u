@@ -45,7 +45,7 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA2.us" tvg-country="QA" tvg-language="en" tvg-logo="bein_sports_xtra_2.png" group-title="beIN Sports",beIN SPORTS XTRA 2 HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAes.us" tvg-country="QA" tvg-language="es" tvg-logo="bein_sports_xtra_es.png" group-title="beIN Sports",beIN SPORTS XTRA 3 HD (en Español)
+#EXTINF:-1 tvg-id="beINSPORTSXTRAes.us" tvg-country="QA" tvg-language="es;en" tvg-logo="bein_sports_xtra_es.png" group-title="beIN Sports",beIN SPORTS XTRA 3 HD (en Español)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 # ==============================================================================
