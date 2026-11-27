@@ -962,3 +962,66 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc
 
 #EXTINF:-1 tvg-id="AjmanTV.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ajman_tv.jpg" group-title="AE",Ajman TV HD - قناة عجمان
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dz.coran" tvg-country="DZ" tvg-language="ar" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/coran.png" group-title="القرآن الكريم",إذاعة القرآن الكريم – الجزائر (Radio Coran)
+https://webradio1.tda.dz:8001/Coran_64K.mp3
+
+#EXTINF:-1 tvg-id="quran.abdulbasit" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/abdulbasit.jpg" group-title="القرآن الكريم",إذاعة الشيخ عبد الباسط عبد الصمد – المرتل 24/7
+https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad
+
+#EXTINF:-1 tvg-id="quran.minshawi" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/minshawi.jpg" group-title="القرآن الكريم",إذاعة الشيخ محمد صديق المنشاوي – المرتل 24/7
+https://backup.qurango.net/radio/mohammed_siddiq_alminshawi
+
+#EXTINF:-1 tvg-id="quran.hussary" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/hussary.jpg" group-title="القرآن الكريم",إذاعة الشيخ محمود خليل الحصري – المرتل 24/7
+https://backup.qurango.net/radio/mahmoud_khalil_alhussary
+
+#EXTINF:-1 tvg-id="quran.hussary.mojawwad" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/hussary.jpg" group-title="القرآن الكريم",إذاعة الشيخ محمود خليل الحصري – المجود 24/7
+https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad
+
+#EXTINF:-1 tvg-id="quran.afasi" tvg-country="KW" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/afasi.jpg" group-title="القرآن الكريم",إذاعة الشيخ مشاري راشد العفاسي 24/7
+https://qurango.net/radio/mishary_alafasi
+
+#EXTINF:-1 tvg-id="quran.maher" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/maher.jpg" group-title="القرآن الكريم",إذاعة الشيخ ماهر المعيقلي – الحرم المكي 24/7
+https://backup.qurango.net/radio/maher
+
+#EXTINF:-1 tvg-id="quran.abbad" tvg-country="YE" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/abbad.jpg" group-title="القرآن الكريم",إذاعة الشيخ فارس عباد 24/7
+https://backup.qurango.net/radio/fares_abbad
+
+#EXTINF:-1 tvg-id="quran.abkar" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/abkar.jpg" group-title="القرآن الكريم",إذاعة الشيخ إدريس أبكر 24/7
+https://backup.qurango.net/radio/idrees_abkr
+
+#EXTINF:-1 tvg-id="quran.ajmy" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/ajmy.jpg" group-title="القرآن الكريم",إذاعة الشيخ أحمد بن علي العجمي 24/7
+https://backup.qurango.net/radio/ahmad_alajmy
+
+#EXTINF:-1 tvg-id="quran.shatri" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/shatri.jpg" group-title="القرآن الكريم",إذاعة الشيخ أبو بكر الشاطري 24/7
+https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri
+
+#EXTINF:-1 tvg-id="quran.dosari" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/dosari.jpg" group-title="القرآن الكريم",إذاعة الشيخ ياسر الدوسري 24/7
+https://backup.qurango.net/radio/yasser_aldosari
+
+#EXTINF:-1 tvg-id="quran.qatami" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/qatami.jpg" group-title="القرآن الكريم",إذاعة الشيخ ناصر القطامي 24/7
+https://backup.qurango.net/radio/nasser_alqatami
+
+#EXTINF:-1 tvg-id="quran.shuraim" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/shuraim.jpg" group-title="القرآن الكريم",إذاعة الشيخ سعود الشريم 24/7
+https://backup.qurango.net/radio/saud_alshuraim
+
+#EXTINF:-1 tvg-id="quran.sudais" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/sudais.jpg" group-title="القرآن الكريم",إذاعة الشيخ عبد الرحمن السديس 24/7
+https://backup.qurango.net/radio/abdulrahman_alsudaes
+
+#EXTINF:-1 tvg-id="quran.tablawi" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/tablawi.jpg" group-title="القرآن الكريم",إذاعة الشيخ محمد محمود الطبلاوي 24/7
+https://backup.qurango.net/radio/mohammad_altablaway
+
+#EXTINF:-1 tvg-id="quran.alzain" tvg-country="SD" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/alzain.jpg" group-title="القرآن الكريم",إذاعة الشيخ الزين محمد أحمد 24/7
+https://backup.qurango.net/radio/alzain_mohammad_ahmad
+
+#EXTINF:-1 tvg-id="quran.salma" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/salma.jpg" group-title="القرآن الكريم",إذاعة تلاوات خاشعة نادرة 24/7
+https://backup.qurango.net/radio/salma
+
+#EXTINF:-1 tvg-id="quran.roqiah" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/roqiah.jpg" group-title="القرآن الكريم",إذاعة آيات الرقية الشرعية 24/7
+https://backup.qurango.net/radio/roqiah
+
+#EXTINF:-1 tvg-id="quran.tafseer" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/tafseer.jpg" group-title="القرآن الكريم",إذاعة تفسير القرآن الكريم كاملاً 24/7
+https://backup.qurango.net/radio/tafseer
+
+#EXTINF:-1 tvg-id="quran.athkar" tvg-country="SA" tvg-language="ar" tvg-logo="https://www.mp3quran.net/images/reciters/athkar.jpg" group-title="القرآن الكريم",إذاعة أذكار الصباح والمساء 24/7
+https://backup.qurango.net/radio/athkar_sabah
