@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-country="QA" tvg-language="ar" tvg-logo="bein_sports_news.png" group-title="beIN Sports",beIN SPORTS News HD - بي إن سبورتس الإخبارية
 http://viptvptv.ddns.net/live/ar/qa/bein/bein_sports_news/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="beINSPORTS.open" tvg-country="QA" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS HD - بي إن سبورتس المفتوحة
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_hd/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="beINSPORTS1.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 1 HD
 https://alwanlive.stream/?channel=bein1
 
@@ -33,6 +36,9 @@ https://alwanlive.stream/?channel=bein8
 #EXTINF:-1 tvg-id="beINSPORTS9.bein" tvg-country="" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS 9 HD
 https://alwanlive.stream/?channel=bein9
 
+#EXTINF:-1 tvg-id="beINSPORTSNBA.qa" tvg-country="QA" tvg-language="ar" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS NBA HD - بي إن سبورتس NBA
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_nba/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-country="QA" tvg-language="en" tvg-logo="bein_sports_xtra.png" group-title="beIN Sports",beIN SPORTS XTRA 1 HD
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
@@ -41,9 +47,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRAes.us" tvg-country="QA" tvg-language="es" tvg-logo="bein_sports_xtra_es.png" group-title="beIN Sports",beIN SPORTS XTRA 3 HD (en Español)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-country="US" tvg-language="en" tvg-logo="bein_sports_hd.png" group-title="beIN Sports",beIN SPORTS USA HD (English)
-https://tvsen6.aynaott.com/beinsports/index.m3u8
 
 # ==============================================================================
 # باقة القنوات الجزائرية (Algerian Channels - 13 Verified Channels)
@@ -608,6 +611,9 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=al_rayyan2_1
 
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-country="QA" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/alaraby_2.jpg" group-title="Entertainment",Al Araby 2 - العربي 2
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alaraby_2
+
+#EXTINF:-1 tvg-id="beINDrama.qa" tvg-country="QA" tvg-language="ar" tvg-logo="bein_entertainment.png" group-title="beIN Entertainment",beIN Drama HD - بي إن دراما
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_drama_hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Fatafeat.ae" tvg-country="" tvg-language="ar" tvg-logo="fatafeat.jpg" group-title="beIN Entertainment",Fatafeat HD - فتافيت
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=fatafeat

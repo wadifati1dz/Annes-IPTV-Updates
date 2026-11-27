@@ -1,19 +1,19 @@
 {
-  "versionCode": 83,
-  "versionName": "2.2.5",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.2.5.apk",
+  "versionCode": 88,
+  "versionName": "2.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.3.0.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-latest.apk",
   "downloaderCode": "3578493",
-  "sha256": "78e7f90d997f0d2c1a120c8b274329773c98f93330e7fa2e9b184e3189e46edb",
+  "sha256": "981d32d94b97126aee2b379d330c2bd7d47231f8beefd553bdc17f8eeccdd3d4",
   "mandatory": false,
   "notes": {
-    "ar": "تحديث ملكي Annes V2 (الإصدار 2.2.5):\n📌 كود Downloader للنسخة V2: 3578493\n• شريط تبويب ملكي فاخر جديد كلياً (Curved Bottom Dock): تصميم بدون إطارات مربعة مع هالة ضوئية ذهبية متوهجة وتأثير بيانو انسيابي.\n• تحسين الفراغ السفلي في الهاتف: إلغاء المسافات الزائدة لتستقر البطاقات بمحاذاة شريط التبويب مباشرة.\n• وضع مقاومة التقطيع (Buffer Boost): تشغيل فوري وثبات فائق للبث المباشر.\n• شريط EPG المصغر في المشغل: متابعة مباشرة لبرنامج القناة الحالي والقادم مع شريط تقدم حي.\n• تنبيهات وتذكير المباريات المباشرة مع إمكانية الفتح السريع لقناة beIN Sports الناقلة.\n• تحسينات شاملة على الأداء والمظهر في الهاتف والتلفاز.",
-    "fr": "Mise à jour royale Annes V2 (v2.2.5) :\n📌 Code Downloader V2 : 3578493\n• Nouvelle barre de navigation royale incurvée (Curved Bottom Dock) : design épuré sans bordures carrées, avec halo doré rayonnant et effet piano fluide.\n• Ajustement parfait de l'espacement inférieur sur mobile : les cartes reposent directement et harmonieusement au-dessus de la barre de navigation.\n• Mode Anti-Coupure (Buffer Boost) : fluidité et stabilité optimales pour le streaming direct.\n• Mini EPG Timebar dans le lecteur : suivi en direct de l'émission actuelle et suivante avec barre de progression.\n• Rappels de début de match et ouverture directe de la chaîne beIN Sports.\n• Améliorations globales de performance et d'élégance sur TV et smartphone."
+    "ar": "تحديث Annes V2 (الإصدار 2.3.0):\n📌 كود Downloader للنسخة V2: 3578493\n• إضافة قنوات beIN SPORTS المفتوحة و beIN SPORTS NBA بدقة عالية وثبات فائق.\n• إضافة قناة beIN Drama بجودة ممتازة لمتابعة أحدث المسلسلات.\n• تحديث شامل لروابط القنوات الجزائرية والتأكد من عمل كافة القنوات العمومية والخاصة مع الصوت الكامل (الجزائر 2، الهداف، الوطنية، وغيرها).\n• استعادة التصميم الأصلي الأنيق لأيقونات الباقات بالقائمة الجانبية.\n• استقرار تام وتحسينات في سرعة التبديل بين القنوات.",
+    "fr": "Mise à jour Annes V2 (v2.3.0) :\n📌 Code Downloader V2 : 3578493\n• Ajout des chaînes beIN SPORTS HD (Ouverte) et beIN SPORTS NBA HD en haute définition et grande stabilité.\n• Ajout de beIN Drama HD pour le streaming de séries et divertissements.\n• Mise à jour complète et vérification des flux des chaînes algériennes (Algérie 2 avec son restauré, El Heddaf, El Watania, etc.).\n• Restauration du design original des icônes des bouquets dans le menu latéral.\n• Optimisation de la fluidité et du zapping direct."
   },
-  "apkSize": 38483955,
-  "releaseDate": "2026-11-26",
+  "apkSize": 38498599,
+  "releaseDate": "2026-11-27",
   "releaseNotes": {
-    "ar": "تحديث ملكي Annes V2 (الإصدار 2.2.5):\n📌 كود Downloader للنسخة V2: 3578493\n• شريط تبويب ملكي فاخر جديد كلياً (Curved Bottom Dock): تصميم بدون إطارات مربعة مع هالة ضوئية ذهبية متوهجة وتأثير بيانو انسيابي.\n• تحسين الفراغ السفلي في الهاتف: إلغاء المسافات الزائدة لتستقر البطاقات بمحاذاة شريط التبويب مباشرة.\n• وضع مقاومة التقطيع (Buffer Boost): تشغيل فوري وثبات فائق للبث المباشر.\n• شريط EPG المصغر في المشغل: متابعة مباشرة لبرنامج القناة الحالي والقادم مع شريط تقدم حي.\n• تنبيهات وتذكير المباريات المباشرة مع إمكانية الفتح السريع لقناة beIN Sports الناقلة.\n• تحسينات شاملة على الأداء والمظهر في الهاتف والتلفاز.",
-    "fr": "Mise à jour royale Annes V2 (v2.2.5) :\n📌 Code Downloader V2 : 3578493\n• Nouvelle barre de navigation royale incurvée (Curved Bottom Dock) : design épuré sans bordures carrées, avec halo doré rayonnant et effet piano fluide.\n• Ajustement parfait de l'espacement inférieur sur mobile : les cartes reposent directement et harmonieusement au-dessus de la barre de navigation.\n• Mode Anti-Coupure (Buffer Boost) : fluidité et stabilité optimales pour le streaming direct.\n• Mini EPG Timebar dans le lecteur : suivi en direct de l'émission actuelle et suivante avec barre de progression.\n• Rappels de début de match et ouverture directe de la chaîne beIN Sports.\n• Améliorations globales de performance et d'élégance sur TV et smartphone."
+    "ar": "تحديث Annes V2 (الإصدار 2.3.0):\n📌 كود Downloader للنسخة V2: 3578493\n• إضافة قنوات beIN SPORTS المفتوحة و beIN SPORTS NBA بدقة عالية وثبات فائق.\n• إضافة قناة beIN Drama بجودة ممتازة لمتابعة أحدث المسلسلات.\n• تحديث شامل لروابط القنوات الجزائرية والتأكد من عمل كافة القنوات العمومية والخاصة مع الصوت الكامل (الجزائر 2، الهداف، الوطنية، وغيرها).\n• استعادة التصميم الأصلي الأنيق لأيقونات الباقات بالقائمة الجانبية.\n• استقرار تام وتحسينات في سرعة التبديل بين القنوات.",
+    "fr": "Mise à jour Annes V2 (v2.3.0) :\n📌 Code Downloader V2 : 3578493\n• Ajout des chaînes beIN SPORTS HD (Ouverte) et beIN SPORTS NBA HD en haute définition et grande stabilité.\n• Ajout de beIN Drama HD pour le streaming de séries et divertissements.\n• Mise à jour complète et vérification des flux des chaînes algériennes (Algérie 2 avec son restauré, El Heddaf, El Watania, etc.).\n• Restauration du design original des icônes des bouquets dans le menu latéral.\n• Optimisation de la fluidité et du zapping direct."
   }
 }
