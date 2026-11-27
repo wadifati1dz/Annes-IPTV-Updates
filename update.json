@@ -1,25 +1,25 @@
 {
-  "versionCode": 90,
-  "versionName": "2.3.2",
-  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.3.2.apk",
+  "versionCode": 91,
+  "versionName": "2.3.3",
+  "apkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-2.3.3.apk",
   "latestApkUrl": "https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/annes-iptv-latest.apk",
   "downloaderCode": "3578493",
-  "sha256": "e002fe8a283499883eea80cfe61900b34fb0442a9187f8cdcf88742a94cca674",
+  "sha256": "d7f1fbb6f132c0f4357c904b4e63ccb2f8a2f3e087761e95208c3b21dc1bd3c9",
   "mandatory": false,
   "announcement": {
-    "id": "notice-v232-dot",
-    "enabled": true,
-    "text": ".",
+    "id": "notice-v233-none",
+    "enabled": false,
+    "text": "",
     "type": "info"
   },
   "notes": {
-    "ar": "تحديث شامل Annes V2 (الإصدار 2.3.2):\n📌 كود Downloader للتحميل والتثبيت المباشر: 3578493\n• نظام التبديل التلقائي الذكي (Auto Failover): التبديل التلقائي الفوري إلى السيرفرات البديلة عند أي انقطاع في البث دون توقف المشاهدة.\n• باقة إذاعات القرآن الكريم 24/7: باقة صوتية مستمرة على مدار الساعة مع واجهة استماع قرآنية هادئة.\n• إنشاء باقات مخصصة داخل المفضلة: إمكانية إنشاء باقات خاصة بالريموت (رياضية، إخبارية، أطفال، إسلامية، سينما، إلخ) وتصنيف القنوات داخلها بحرية.\n• تنبيهات المباريات المباشرة والأهداف: متابعة الدوريات الكبرى وتلقي إشعارات الأهداف ونتائج المباريات فور تسجيلها.\n• تحسينات الريموت كنترول: تنقل سلس بين الباقات والقنوات، وخروج فوري من المفضلة، وسهولة تفعيل تنبيهات الدوريات.\n• شريط الإعلانات والتنبيهات السريعة في الواجهة الرئيسية.",
-    "fr": "Mise à jour majeure Annes V2 (v2.3.2) :\n📌 Code Downloader : 3578493\n• Basculement automatique intelligent (Auto Failover) vers les flux de secours en cas de coupure.\n• Bouquet Radio Coran 24h/24 avec interface audio dédiée.\n• Création de bouquets personnalisés dans les Favoris avec catégories suggérées.\n• Alertes de buts et scores en direct pour les championnats suivis.\n• Navigation télécommande optimisée : passage fluide bouquets/chaînes, sortie facile des favoris.\n• Bandeau d'annonces et alertes rapides sur l'écran d'accueil."
+    "ar": "تحديث Annes V2 (الإصدار 2.3.3):\n📌 كود Downloader للتحميل والتثبيت المباشر: 3578493\n• إعادة تصميم بطاقة التنبيهات لتصبح بطاقة عائمة فاخرة ومحايدة لا تتداخل مع شريط الحالة.\n• مؤقت اختفاء تلقائي ذكي بعد 15 ثانية للبطاقات والتنبيهات.\n• دعم كامل لزر الرجوع والريموت كنترول لإغلاق البطاقات في أي لحظة.\n• ثبات فائق واستقرار كامل في المشغل والبث.",
+    "fr": "Mise à jour Annes V2 (v2.3.3) :\n📌 Code Downloader : 3578493\n• Redesign de la carte d'annonces en carte flottante élégante.\n• Disparition automatique intelligente après 15 secondes.\n• Support complet de la télécommande et du bouton retour pour fermer à tout moment.\n• Stabilité et fluidité optimales."
   },
-  "apkSize": 38533610,
+  "apkSize": 38550010,
   "releaseDate": "2026-11-27",
   "releaseNotes": {
-    "ar": "تحديث شامل Annes V2 (الإصدار 2.3.2):\n📌 كود Downloader للتحميل والتثبيت المباشر: 3578493\n• نظام التبديل التلقائي الذكي (Auto Failover): التبديل التلقائي الفوري إلى السيرفرات البديلة عند أي انقطاع في البث دون توقف المشاهدة.\n• باقة إذاعات القرآن الكريم 24/7: باقة صوتية مستمرة على مدار الساعة مع واجهة استماع قرآنية هادئة.\n• إنشاء باقات مخصصة داخل المفضلة: إمكانية إنشاء باقات خاصة بالريموت (رياضية، إخبارية، أطفال، إسلامية، سينما، إلخ) وتصنيف القنوات داخلها بحرية.\n• تنبيهات المباريات المباشرة والأهداف: متابعة الدوريات الكبرى وتلقي إشعارات الأهداف ونتائج المباريات فور تسجيلها.\n• تحسينات الريموت كنترول: تنقل سلس بين الباقات والقنوات، وخروج فوري من المفضلة، وسهولة تفعيل تنبيهات الدوريات.\n• شريط الإعلانات والتنبيهات السريعة في الواجهة الرئيسية.",
-    "fr": "Mise à jour majeure Annes V2 (v2.3.2) :\n📌 Code Downloader : 3578493\n• Basculement automatique intelligent (Auto Failover) vers les flux de secours en cas de coupure.\n• Bouquet Radio Coran 24h/24 avec interface audio dédiée.\n• Création de bouquets personnalisés dans les Favoris avec catégories suggérées.\n• Alertes de buts et scores en direct pour les championnats suivis.\n• Navigation télécommande optimisée : passage fluide bouquets/chaînes, sortie facile des favoris.\n• Bandeau d'annonces et alertes rapides sur l'écran d'accueil."
+    "ar": "تحديث Annes V2 (الإصدار 2.3.3):\n📌 كود Downloader للتحميل والتثبيت المباشر: 3578493\n• إعادة تصميم بطاقة التنبيهات لتصبح بطاقة عائمة فاخرة ومحايدة لا تتداخل مع شريط الحالة.\n• مؤقت اختفاء تلقائي ذكي بعد 15 ثانية للبطاقات والتنبيهات.\n• دعم كامل لزر الرجوع والريموت كنترول لإغلاق البطاقات في أي لحظة.\n• ثبات فائق واستقرار كامل في المشغل والبث.",
+    "fr": "Mise à jour Annes V2 (v2.3.3) :\n📌 Code Downloader : 3578493\n• Redesign de la carte d'annonces en carte flottante élégante.\n• Disparition automatique intelligente après 15 secondes.\n• Support complet de la télécommande et du bouton retour pour fermer à tout moment.\n• Stabilité et fluidité optimales."
   }
 }
