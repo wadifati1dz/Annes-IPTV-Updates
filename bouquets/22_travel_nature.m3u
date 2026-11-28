@@ -1,15 +1,24 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
 
 # ==============================================================================
-# باقة السياحة والطبيعة والاسترخاء والعقارات (Travel, Nature & Relaxation) (15 قناة)
+# باقة السياحة والترحال والطبيعة والاسترخاء والعقارات (Voyages, Nature & Real Estate) (37 قناة)
 # ==============================================================================
 
-# ----------------- السياحة والتجوال في المدن (Tourism & City Walks) -----------------
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/travelxp.png" group-title="Travel & Nature",Travelxp HD - ترافيل إكس بي (سياحة وأسفار عالمية)
+# ----------------- السياحة والتجوال في المدن وعجائب العالم (Tourism & Exploration) -----------------
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/travelxp.png" group-title="Travel & Nature",Travelxp FR HD - ترافيل إكس بي الفرنسية (سياحة وأسفار عالمية)
 https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RMCJDCV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Travel & Nature",J'irai dormir chez vous HD - سأنام عندكم (تجوال في مدن العالم)
+#EXTINF:-1 tvg-id="Travelxp.in@EN" tvg-country="EU" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/travelxp.png" group-title="Travel & Nature",Travelxp English HD - ترافيل إكس بي العالمية (استكشاف المدن والجزر)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EchappeesBelles.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20261124T073040SQUARE.png" group-title="Travel & Nature",Échappées belles & co HD - إشابي بيل (أشهر برنامج سياحي وترحال فرنسي 24/7)
+https://jmp2.uk/stvp-FRBC3500002E4
+
+#EXTINF:-1 tvg-id="RMCJDCV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Travel & Nature",J'irai dormir chez vous HD - سأنام عندكم (مغامرات وتجوال في مدن العالم)
 https://jmp2.uk/stvp-FRBD4800001P4
+
+#EXTINF:-1 tvg-id="VoyagesSaveurs.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG.png" group-title="Travel & Nature",Voyages & Saveurs HD - أسفار ونكهات (سياحة الطهي والمدن الأوروبية والعالمية)
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeVoyage.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20261124T073029SQUARE.png" group-title="Travel & Nature",TV5 Monde Voyage HD - تي في 5 سياحة (اكتشاف العالم والمدن)
 https://jmp2.uk/stvp-FR1800004EP
@@ -20,14 +29,32 @@ https://jmp2.uk/stvp-FR3700004HZ
 #EXTINF:-1 tvg-id="TheExplorers.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/the_explorers.png" group-title="Travel & Nature",The Explorers HD - المستكشفون (أجمل معالم الأرض والشعوب)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 
+#EXTINF:-1 tvg-id="GoTraveler.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/gotraveler-us.png" group-title="Travel & Nature",GoTraveler HD - جو ترافيلر (رحلات حول العالم ومغامرات سياحية 24/7)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/insight-tv-nl.png" group-title="Travel & Nature",Insight TV HD - إنسايت تي في (استكشاف وثائقي ومغامرات السفر العالمية)
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DroneTV.us" tvg-country="US" tvg-language="" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/live_cams.png" group-title="Travel & Nature",DroneTV 4K/HD - درون تي في (تحليق جوي فوق أجمل مدن وشواطئ وجبال العالم 24/7)
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="3CatCameres.es" tvg-country="ES" tvg-language="" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/live_cams.png" group-title="Travel & Nature",City & Scenic Live Cams HD - كاميرات حية (تجوال المدن والشواطئ 24/7)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-country="US" tvg-language="en" tvg-logo="travel_channel.png" group-title="Travel & Nature",Travel Channel Europe HD - ترافل تشانيل (أقوى عروض السفر والوجهات الفاخرة)
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=travel
+
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_decouverte.png" group-title="Travel & Nature",RMC Découverte HD - آر إم سي استكشاف (استكشاف الحضارات والرحلات الكبرى)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_decouverte/live.livx/playlist.m3u8
+
 # ----------------- الطبيعة والحياة البرية (Nature & Wildlife) -----------------
-#EXTINF:-1 tvg-id="DestinationNature.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20260818T050804SQUARE.png" group-title="Travel & Nature",Destination Nature HD - وجهة الطبيعة (عالم المحميات وسحر الأرض)
+#EXTINF:-1 tvg-id="DestinationNature.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20260818T050804SQUARE.png" group-title="Travel & Nature",Destination Nature HD - وجهة الطبيعة (المحميات الوطنية والغابات وسحر الكوكب)
 https://jmp2.uk/stvp-FRBC4000001IO
 
-#EXTINF:-1 tvg-id="TerraMaterWild.at" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100006XA_20261026T042306SQUARE.png" group-title="Travel & Nature",Terra Mater Wild HD - تيرا ماتر وايلد (عالم الطبيعة والحياة البرية)
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="en" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Travel & Nature",Love Nature HD - لوف نيتشر (عالم الحيوان وعجائب الطبيعة بجودة فائقة)
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWild.at" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100006XA_20261026T042306SQUARE.png" group-title="Travel & Nature",Terra Mater Wild HD - تيرا ماتر وايلد (عالم الطبيعة وسحر المحيطات)
 https://jmp2.uk/stvp-FR3100006XA
 
 #EXTINF:-1 tvg-id="CapTerre.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20260528T055150SQUARE.png" group-title="Travel & Nature",Cap Terre HD - كاب تير (كوكب الأرض وعجائب الطبيعة)
@@ -36,19 +63,58 @@ https://jmp2.uk/stvp-FRBC3900004DS
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-country="ZA" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/wildearth.png" group-title="Travel & Nature",WildEarth HD - وايلد إيرث (سفاري وطبيعة حية مباشرة 24/7)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 
+#EXTINF:-1 tvg-id="Animaux.fr@Pluto" tvg-country="FR" tvg-language="fr" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Travel & Nature",Pluto TV Animaux HD - بلوتو حيوانات (الحياة البرية والحيوانات 24/7)
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/animaux.png" group-title="Travel & Nature",Animaux HD - قناة الحيوانات الفرنسية (وثائقيات برية نادرة)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/chasse_peche.png" group-title="Travel & Nature",Chasse & Pêche FR HD - الصيد والطبيعة (الغابات والأنهار)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-country="UK" tvg-language="en" tvg-logo="bbc_earth.png" group-title="Travel & Nature",BBC Earth ME HD - بي بي سي إيرث (سحر الطبيعة وكوكب الأرض بأعلى جودة)
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=bbcearth
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-country="US" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Travel & Nature",National Geographic Wild HD - ناشيونال جيوغرافيك وايلد
+http://88.212.15.50/live/test_ngw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Travel & Nature",National Geographic Abu Dhabi HD - ناشيونال جيوغرافيك أبوظبي (طبيعة واستكشاف)
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 
 # ----------------- الاسترخاء والتأمل (Relaxation & Ambient Nature) -----------------
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-language="" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/naturescape.png" group-title="Travel & Nature",Stingray Naturescape HD - نيتشر سكيب (مناظر طبيعية واسترخاء 24/7)
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="NatureTime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" group-title="Travel & Nature",NatureTime HD - نيتشر تايم (طبيعة هادئة وموسيقى استرخاء)
+#EXTINF:-1 tvg-id="NatureTime.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" group-title="Travel & Nature",NatureTime HD (Samsung) - نيتشر تايم (طبيعة هادئة وأصوات الشلالات)
 https://jmp2.uk/stvp-FRBB4900002D4
 
-# ----------------- العقارات وتصميم المنازل (Real Estate & Architecture) -----------------
+#EXTINF:-1 tvg-id="NatureTime.pluto" tvg-country="FR" tvg-language="fr" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" group-title="Travel & Nature",Nature Time HD (Pluto) - نيتشر تايم الفرنسية (رحلات استرخاء طبيعية هادئة)
+https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/myzen-tv-fr.png" group-title="Travel & Nature",MyZen TV HD - ماي زن تي في (القناة العالمية الأولى للاسترخاء، اليوغا والراحة النفسية)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureVision.us" tvg-country="US" tvg-language="" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/naturescape.png" group-title="Travel & Nature",Nature Vision HD - نيتشر فيجن (طبيعة نقية ومناظر مهدئة للأعصاب 24/7)
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BetterLifeNature.us" tvg-country="US" tvg-language="" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/naturescape.png" group-title="Travel & Nature",Better Life Nature HD - بيتر لايف نيتشر (جمال الطبيعة الساحرة ومياه وأنهار 24/7)
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+
+# ----------------- العقارات وتصميم المنازل والديكور (Real Estate & Architecture) -----------------
 #EXTINF:-1 tvg-id="LaMaisonFrance5.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20260528T055238SQUARE.png" group-title="Travel & Nature",La Maison France 5 HD - لاميـزون (عالم العقارات، الديكور والمنازل الفاخرة)
 https://jmp2.uk/stvp-FR4200001BN
 
-#EXTINF:-1 tvg-id="HGTV.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/hgtv.png" group-title="Travel & Nature",HGTV HD - إتش جي تي في (شراء وتجديد العقارات وتصميم المنازل)
+#EXTINF:-1 tvg-id="MaisonEtTravaux.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Maison_and_Travaux_TV_format_reduit_3_2_bis_d218712130.png" group-title="Travel & Nature",Maison & Travaux TV HD - ميزون إي ترافو (أشهر قناة فرنسية لتجديد العقارات والمنازل والتصميم الداخلي)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/hgtv.png" group-title="Travel & Nature",HGTV HD - إتش جي تي في (شراء وتجديد العقارات وتصميم بيوت الأحلام)
 http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/hgtv.png" group-title="Travel & Nature",The Design Network HD - ذا ديزاين نتورك (تصميم المنازل الفاخرة والعقارات المعمارية الحديثة)
+https://thedesignnetwork-pluto.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InsideOutside.gb" tvg-country="GB" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/hgtv.png" group-title="Travel & Nature",Inside Outside HD - إنسايد أوتسايد (عقارات بريطانية، حدائق ومنازل الأحلام 24/7)
+https://all3media-international-insideoutside-2-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/hgtv.png" group-title="Travel & Nature",Tiny House Nation HD - تايني هاوس (المنازل الذكية المبتكرة وحلول العقارات الحديثة)
+https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
