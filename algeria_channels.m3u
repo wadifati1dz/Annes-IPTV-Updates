@@ -784,6 +784,9 @@ https://www.elahmad.ru/tv/mobiletv/glarb.php?id=elmehwar
 #EXTINF:-1 tvg-id="AlWathaeqya.eg" tvg-country="EG" tvg-language="ar" tvg-logo="alwathaeqya.png" group-title="Documentary",Al Wathaeqya - قناة الوثائقية
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alwathaeqya
 
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic Abu Dhabi HD - ناشيونال جيوغرافيك أبوظبي
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+
 #EXTINF:-1 tvg-id="MasperoZaman.eg" tvg-country="EG" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/maspero-zaman-eg.jpg" group-title="General",Maspero Zaman - ماسبيرو زمان
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=MasperoZaman
 
