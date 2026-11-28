@@ -1,161 +1,412 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml"
-
-# ==============================================================================
-# باقة القنوات الفرنسية (France & Canal+ & Ciné+ & RMC) (52 قناة)
-# ==============================================================================
+#EXTM3U
+# باقة القنوات الفرنسية الشاملة (205 قناة)
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1.png" group-title="France",TF1 HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/playlists/paratv/group/tf1plus/tf1plus.m3u?chno=200
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france2.png" group-title="France",France 2 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
-
 #EXTINF:-1 tvg-id="France3.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france3.png" group-title="France",France 3 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3.m3u8
-
 #EXTINF:-1 tvg-id="France4.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france4.png" group-title="France",France 4 HD
 http://99.27.51.147:8080/France4/index.m3u8
-
 #EXTINF:-1 tvg-id="France5.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/france5.png" group-title="France",France 5 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
-
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/m6.png" group-title="France",M6 HD
-http://99.27.51.147:8080/M6/index.m3u8
-
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/arte_fr.png" group-title="France",Arte France HD
-http://99.27.51.147:8080/Arte/index.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lcp.png" group-title="France",LCP - Public Sénat HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/lcp.m3u8
-
 #EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/w9.png" group-title="France",W9 HD
-http://99.27.51.147:8080/W9/index.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tmc.png" group-title="France",TMC HD
-http://99.27.51.147:8080/TMC/index.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tfx.png" group-title="France",TFX HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/playlists/paratv/group/tf1plus/tf1plus.m3u?chno=203
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/gulli.png" group-title="France",Gulli Kids FR HD
-http://99.27.51.147:8080/Gulli/index.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/bfm_tv.png" group-title="France",BFM TV HD
-http://99.27.51.147:8080/BFMTV/index.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/cnews.png" group-title="France",CNews HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lci.png" group-title="France",LCI HD
-http://99.27.51.147:8080/LCI/index.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="France",franceinfo HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-
 #EXTINF:-1 tvg-id="CStar.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_CStar_2016.svg/500px-Logo_CStar_2016.svg.png" group-title="France",CStar HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="T18.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tv-logo.com/pt-data/uploads/images/t18.png" group-title="France",T18 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tv-logo.com/pt-data/uploads/images/novo19.png" group-title="France",NOVO19 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/lefigaro-tv.m3u8
-
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tf1_series_films.png" group-title="France",TF1 Séries Films HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/playlists/paratv/group/tf1plus/tf1plus.m3u?chno=204
-
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/lequipe.png" group-title="France",L'Équipe TV HD
-https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/6ter.png" group-title="France",6ter HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/playlists/paratv/group/tf1plus/tf1plus.m3u?chno=205
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_story.png" group-title="France",RMC Story HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc-bfm/rmc/story.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_story/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_decouverte.png" group-title="France",RMC Découverte HD
-https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_decouverte/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Ch%C3%A9rie_25_%282015%29.svg/500px-Logo_Ch%C3%A9rie_25_%282015%29.svg.png" group-title="France",RMC Life (Chérie 25) HD
 http://99.27.51.147:8080/Cherie25/index.m3u8
-
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png?h=100" group-title="France",Paris Première HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/playlists/paratv/group/tf1plus/tf1plus.m3u?chno=207
-
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ En Clair HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="France",Canal+ En Clair HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="Canal+ Cinéma HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Cinema_color.png?h=100" group-title="France",Canal+ Cinéma HD
 https://jmp2.uk/stvp-FR2600007CB
-
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Sport_color.png?h=100" group-title="France",Canal+ Sport HD
 http://99.27.51.147:8080/Eurosport2/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Foot_color.png?h=100" group-title="France",Canal+ Foot HD
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="Canal+ Grand Écran HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Grand_Ecran_color.png?h=100" group-title="France",Canal+ Grand Écran HD
 https://jmp2.uk/stvp-FR2600002X9
-
 #EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="Canal+ Docs HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Docs_color.png?h=100" group-title="France",Canal+ Docs HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="Canal+ Box Office HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Box_Office_color.png?h=100" group-title="France",Canal+ Box Office HD
 https://d3kwy5wwq7dpr1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-54b9d0g4zcfhp/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalPlus360.fr" tvg-name="Canal+ 360 HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_360_color.png?h=100" group-title="France",Canal+ 360 HD
 https://jmp2.uk/stvp-FR1100002RF
-
 #EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="Canal+ Séries HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Series_color.png?h=100" group-title="France",Canal+ Séries HD
 https://jmp2.uk/stvp-FR2600003OZ
-
 #EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="Canal+ Kids HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Kids_color.png?h=100" group-title="France",Canal+ Kids HD
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
-
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_J_color.png?h=100" group-title="France",Canal J HD
 http://99.27.51.147:8080/Gulli/index.m3u8
-
 #EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="Ciné+ Premier HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cine_Premier_color.png?h=100" group-title="France",Ciné+ Premier HD (Top Films)
 https://jmp2.uk/stvp-FR2600007CB
-
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="Ciné+ Frisson HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cine_Frisson_color.png?h=100" group-title="France",Ciné+ Frisson HD (Action & Frisson)
 https://jmp2.uk/stvp-FR2600002X9
-
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Ciné+ Emotion HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cine_Emotion_color.png?h=100" group-title="France",Ciné+ Emotion HD (Romance & Émotion)
 https://jmp2.uk/stvp-FR2600003OZ
-
 #EXTINF:-1 tvg-id="CinePlusFamily.fr" tvg-name="Ciné+ Family HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cine_Family_color.png?h=100" group-title="France",Ciné+ Family HD (Films Famille)
 https://d3kwy5wwq7dpr1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-54b9d0g4zcfhp/index.m3u8
-
 #EXTINF:-1 tvg-id="CinePlusFestival.fr" tvg-name="Ciné+ Festival HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cine_Club_color.png?h=100" group-title="France",Ciné+ Festival HD (Brefcinema)
 https://jmp2.uk/stvp-FRBA1000009KO
-
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Ciné+ Classic HD" tvg-country="FR" tvg-language="fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cine_Classic_color.png?h=100" group-title="France",Ciné+ Classic HD (Films Western & Rétro)
 https://jmp2.uk/stvp-FR900003DP
-
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/tv5monde.png" group-title="France",TV5Monde France HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/tv5monde-info.m3u8
-
 #EXTINF:-1 tvg-id="RMCLife.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/rmc_life.png" group-title="Lifestyle",RMC Life HD
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-
 #EXTINF:-1 tvg-id="RMCTalkSport.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20260622T063925SQUARE.png" group-title="Sports",RMC Sport Talk - After Foot TV HD
 https://jmp2.uk/stvp-FR1100002RF
-
 #EXTINF:-1 tvg-id="RMCMecanic.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" group-title="Sports;Auto",RMC Mecanic HD
 https://jmp2.uk/stvp-FR300003ZB
-
 #EXTINF:-1 tvg-id="RMCWow.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png" group-title="Entertainment",RMC WOW HD
 https://jmp2.uk/stvp-FR300001M1
-
 #EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://s1.dmcdn.net/u/8Dz9c1exwxFnyVPBm/60x60" group-title="Sports",Sport en France HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/sport-en-france-dm.m3u8
-
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Sports",Equidia Courses HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-
 #EXTINF:-1 tvg-id="PlutoCineFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_cinema.png" group-title="Movies",Pluto TV Cinéma Français
 https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
-
 #EXTINF:-1 tvg-id="PlutoSeriesFR.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/pluto_series.png" group-title="Entertainment",Pluto TV Séries FR
 https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
-
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/chasse_peche.png" group-title="France",Chasse & Pêche HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/animaux.png" group-title="France",Animaux HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/automoto.png" group-title="France",Automoto HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/action.png" group-title="France",Action HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="AB1.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/ab1.png" group-title="France",AB1 HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/mangas.png" group-title="France",Mangas HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ScienceVie.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/science_et_vie.png" group-title="France",Science & Vie TV HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/crime_district.png" group-title="France",Crime District HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Mytime Movies (1080p)
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-id="ZeeOne.uk@French",Zee One Français (720p)
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Adjugé vendu !
+https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8
+#EXTINF:-1 group-title="France" tvg-id="AlerteaMalibu.us@France",Alerte à Malibu
+https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Alerte Cobra
+https://jmp2.uk/plu-62f3e4bc08f5ec000744f552.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Allociné (720p)
+https://jmp2.uk/plu-6618e3037bcd8600089b62a8.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Barbie & Friends
+https://jmp2.uk/plu-686e7499e0ecf0e0cc25dbe3.m3u8
+#EXTINF:-1 group-title="France" tvg-id="BBCDrama.uk@Spain",BBC Drama
+https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Beyblade
+https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Blue Bloods
+https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Bob l'éponge (720p)
+https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",C'est pas sorcier
+https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",CATFISH TV (720p)
+https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p)
+https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Charlotte aux Fraises
+https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Cheers
+https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Cine666byPlutoTV.de@FR",Ciné 666 by Pluto TV
+https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CineActionbyPlutoTV.de@FR",Ciné Action by Pluto TV
+https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CinebyPlutoTV.de@FR",Ciné by Pluto TV
+https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CineCatastrophebyPlutoTV.de@FR",Ciné Catastrophe by Pluto TV
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CinedAsiebyPlutoTV.de@FR",Ciné d'Asie by Pluto TV
+https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CineHorreurbyPlutoTV.de@FR",Ciné Horreur by Pluto TV
+https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CineRetrobyPlutoTV.de@FR",Ciné Rétro by Pluto TV
+https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CineRomancebyPlutoTV.de@FR",Ciné Romance by Pluto TV
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CineSciFibyPlutoTV.de@FR",Ciné Sci-Fi by Pluto TV
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CineThrillersbyPlutoTV.de@FR",Ciné Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+#EXTINF:-1 group-title="France" tvg-id="CineWesternbyPlutoTV.de@FR",Ciné Western by Pluto TV
+https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",CNN Headlines International
+https://jmp2.uk/plu-66c45b36a72e7b0008a2b291.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Daria
+https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Dawson
+https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8
+#EXTINF:-1 group-title="France" tvg-id="DAZNCombat.uk@SD",DAZN Combat (684p)
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Degrassi.us@US",Degrassi
+https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
+#EXTINF:-1 group-title="France" tvg-id="DetectiveConan.us@France",Detective Conan France (720p)
+https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Diane femme flic
+https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Digimon Adventure
+https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Doraemon
+https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8
+#EXTINF:-1 group-title="France" tvg-id="DossiersFBI.us@France",Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Enquêtes Criminelles (720p)
+https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Enquêtes de Choc (720p)
+https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8
+#EXTINF:-1 group-title="France" tvg-id="EuronewsFrench.fr@SD",Euronews French (720p)
+https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
+#EXTINF:-1 group-title="France" tvg-id="FailArmy.us@US",FailArmy (720p)
+https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Faites entrer l'accusé
+https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
+#EXTINF:-1 group-title="France" tvg-id="FIFAPlus.uk@English",FIFA+ (720p)
+https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Flashpoint
+https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Génération Sitcoms
+https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Heleneetlesgarcons.us@France",Hélène et les garçons
+https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Homicide (720p)
+https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",iCarly TV
+https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",INA 70 (720p)
+https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8
+#EXTINF:-1 group-title="France" tvg-id="InazumaEleven.us@France",Inazuma Eleven
+https://jmp2.uk/plu-611e75226b7f420007c3f319.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Incroyables Transformations (720p)
+https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8
+#EXTINF:-1 group-title="France" tvg-id="InstantSaga.us@US",Instant Saga
+https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+#EXTINF:-1 group-title="France" tvg-id="InvestigationbyPlutoTV.de@FR",Investigation by Pluto TV
+https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",JAG
+https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Juste pour Rire GAGS (720p)
+https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",La maison France 5
+https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Lemiracledelamour.us@France",Le miracle de l'amour
+https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Les Anges
+https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8
+#EXTINF:-1 group-title="France" tvg-id="LesAnneesfac.us@France",Les Années fac
+https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Lesfillesdacote.us@France",Les filles d'à côté
+https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Les Marseillais (720p)
+https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8
+#EXTINF:-1 group-title="France" tvg-id="LesNouveauxDetectives.us@France",Les Nouveaux Detectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Les Routes du Paradis
+https://jmp2.uk/plu-65cce23bdc10a400080645ad.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Les Schtroumpfs
+https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Les Z'amours (720p)
+https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8
+#EXTINF:-1 group-title="France" tvg-id="LouisLaBrocante.us@France",Louis La Brocante
+https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",MacGyver
+https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Mattel Junior
+https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Mayday: Catastrophe Aérienne (720p)
+https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Mission Impossible
+https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",MODUS Super Series Darts
+https://jmp2.uk/plu-671643fc5534bb00089187ad.m3u8
+#EXTINF:-1 group-title="France" tvg-id="MostHaunted.uk@UK",Most Haunted
+https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
+#EXTINF:-1 group-title="France" tvg-id="MTVCLASSICS.de@FR",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+#EXTINF:-1 group-title="France" tvg-id="NatureTime.ca@France",Nature Time (720p)
+https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Nina
+https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Olive & Tom
+https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
+#EXTINF:-1 group-title="France" tvg-id="OnePiece.us@FR",One Piece
+https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Pêche à haut risque
+https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",PJ
+https://jmp2.uk/plu-692ec71425eaa17b6daf2a11.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Plus Belle la Vie 2
+https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTV90sClassics.de@FR",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVAnimaux.de@FR",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVANIMEGO.de@FR",Pluto TV ANIME GO!
+https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVAventure.de@FR",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVBrigadeCriminelle.de@FR",Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVComedie.de@FR",Pluto TV Comédie
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVComediesCultes.de@FR",Pluto TV Comédies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVCuisine.de@FR",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVDating.de@FR",Pluto TV Dating (720p)
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVFrenchCollection.de@FR",Pluto TV French Collection
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVHistoire.de@FR",Pluto TV Histoire (720p)
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVInside.de@FR",Pluto TV Inside
+https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Pluto TV Junior (720p)
+https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVKidsClassics.de@FR",Pluto TV Kids Classics (720p)
+https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Pluto TV Kids Club
+https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Pluto TV Paranormal
+https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVPolar.de@FR",Pluto TV Polar
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Pluto TV Reality
+https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVRetroToons.de@FR",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVSeriesFantastiques.de@FR",Pluto TV Séries Fantastiques
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVSuperKids.de@FR",Pluto TV Super Kids
+https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVTeen.de@FR",Pluto TV Teen (720p)
+https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVTelerealiteFrance.de@FR",Pluto TV Téléréalité France
+https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+#EXTINF:-1 group-title="France" tvg-id="PlutoTVToons.de@FR",Pluto TV Toons (720p)
+https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Qui veut gagner des millions? (720p)
+https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Rex chien flic
+https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Ridiculousness (720p)
+https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
+#EXTINF:-1 group-title="France" tvg-id="SeriesbyPlutoTV.de@FR",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Si près de chez vous
+https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8
+#EXTINF:-1 group-title="France" tvg-id="SpaceLivepoweredbysen.uk@SD",Space Live
+https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Teen Mom (720p)
+https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
+#EXTINF:-1 group-title="France" tvg-id="TheAsylum.us@US",The Asylum
+https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
+#EXTINF:-1 group-title="France" tvg-id="TopGear.uk@SD",Top Gear
+https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Tortues Ninja TV (720p)
+https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
+#EXTINF:-1 group-title="France" tvg-id="ToutlemondedetesteChris.de@FR",Tout le monde déteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+#EXTINF:-1 group-title="France" tvg-id="TrueCrimebyPlutoTV.de@FR",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Turbo.de@FR",Turbo (720p)
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",UFC
+https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Un gars une fille
+https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Un Si Grand Soleil
+https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Un Village Français (720p)
+https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
+#EXTINF:-1 group-title="France" tvg-id="VoyagesSaveurs.es@FR",Voyages & Saveurs (720p)
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+#EXTINF:-1 group-title="France" tvg-id="WalkerTexasRanger.us@France",Walker Texas Ranger
+https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",WPT
+https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Yaquelaveritequicompte.us@France",Y'a que la vérité qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
+#EXTINF:-1 group-title="France" tvg-id="YuGiOh.us@SD",Yu-Gi-Oh!
+https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8
+#EXTINF:-1 group-title="France" tvg-id="ZNation.us@SD",Z Nation
+https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
+#EXTINF:-1 group-title="France" tvg-id="",Zone Interdite
+https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
+#EXTINF:-1 group-title="France" tvg-id="6ter.fr@SD",6ter (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-id="20MinutesTV.fr@SD",20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="France" tvg-id="AB1.fr@SD",AB1 (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Action.fr@SD",Action (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-id="ADNTVPlus.fr@SD",ADN TV+ (720p)
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Africa24.fr@SD",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Africa24English.fr@SD",Africa 24 English (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Africa24Sport.fr@SD",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="France" tvg-id="AfricanewsEnglish.fr@SD",Africanews English (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 group-title="France" tvg-id="AfricanewsFrench.fr@SD",Africanews French (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 group-title="France" tvg-id="AlpedHuezTV.fr@SD",Alpe d’Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:-1 group-title="France" tvg-id="Animaux.fr@SD",Animaux (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-id="AntenneReunion.fr@SD",Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 group-title="France" tvg-id="Automotolachaine.fr@SD",Automoto la chaine (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-id="BFM2.fr@HD",BFM2 (1080p)
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 group-title="France" tvg-id="BFMBusiness.fr@SD",BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8

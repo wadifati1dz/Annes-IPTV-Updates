@@ -157,7 +157,11 @@ http://99.27.51.147:8080/France4/index.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/m6.png" group-title="France",M6 HD
-http://99.27.51.147:8080/M6/index.m3u8
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/chasse_peche.png" group-title="France",Chasse & Pêche HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="France",Animaux HD
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 
 #EXTINF:-1 tvg-id="Arte.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/arte_fr.png" group-title="France",Arte France HD
 http://99.27.51.147:8080/Arte/index.m3u8
