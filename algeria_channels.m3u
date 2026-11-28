@@ -1179,3 +1179,63 @@ https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-country="IN" tvg-language="en" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1700004YC_20260915T041616SQUARE.png" group-title="Cooking",Food Food HD - فود فود (الشيف العالمي سانجيف كابور)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
+
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_racing.jpg" group-title="Auto & Moto",Dubai Racing 2 HD - دبي ريسينج 2 (تغطيات حية لسباقات السيارات والقدرة)
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubairacing2
+
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-country="AE" tvg-language="ar" tvg-logo="https://www.elahmad.ru/tv/mobiletv/images/dubai_racing.jpg" group-title="Auto & Moto",Dubai Racing 3 HD - دبي ريسينج 3 (الأحداث الرياضية وسباقات التحدي)
+https://www.elahmad.ru/tv/mobiletv/glarb.php?id=dubairacing3
+
+#EXTINF:-1 tvg-id="AutomotoLaChaine.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/automoto.png" group-title="Auto & Moto",Automoto La Chaîne HD - أوتو موتو (قناة السيارات والدراجات النارية الرسمية)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGearFrance.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/top_gear.png" group-title="Auto & Moto",Top Gear France HD - توب جير فرنسا (تحديات واختبارات السيارات بالنسخة الفرنسية)
+https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TurboM6.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/m6.png" group-title="Auto & Moto",Turbo M6 HD - مجلة توربو الفرنسية الشهيرة 24/7 (أحدث الموديلات والتجارب)
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+
+#EXTINF:-1 tvg-id="MotorRacing.fr" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900002B4_20261020T053555SQUARE.png" group-title="Auto & Moto",Motor Racing HD - سباقات الحلبات وبطولات الجي تي والسرعة 24/7
+https://jmp2.uk/stvp-FR900002B4
+
+#EXTINF:-1 tvg-id="RedBullMotorsports.at" tvg-country="FR" tvg-language="fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1700004PK_20260818T050835SQUARE.png" group-title="Auto & Moto",Red Bull TV Motorsports HD - ريد بُل (الدريفت والراليات والرياضات الجريئة)
+https://jmp2.uk/stvp-FR1700004PK
+
+#EXTINF:-1 tvg-id="RallyTVWRC.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://images.pluto.tv/channels/696e024a7e92438c27a425a8/colorLogoPNG_1770892518087.png" group-title="Auto & Moto",Rally TV WRC HD - رالي تي في (القناة الرسمية لبطولة العالم للراليات)
+https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-country="DE" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/motorvision.png" group-title="Auto & Moto",Motorvision HD - موتور فيجن (عالم السيارات الخارقة واختبارات القيادة الاحترافية)
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="MotorvisionPlus.de" tvg-country="DE" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/motorvision.png" group-title="Auto & Moto",Motorvision+ HD - موتور فيجن بلس (سباقات الحلبات الأوروبية واستعراضات القوة)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MotorsportNetwork.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/motorsport.png" group-title="Auto & Moto",Motorsport Network HD - موتور سبورت نتورك (أخبار وسباقات المحركات العالمية)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGearClassic.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/top_gear.png" group-title="Auto & Moto",Top Gear Classic HD - توب جير العالمي (أشهر المغامرات والتحديات الكلاسيكية)
+https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGearUK.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/top_gear.png" group-title="Auto & Moto",Top Gear UK HD - توب جير بريطانيا (الحلقات الكاملة والمواسم الحديثة)
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+
+#EXTINF:-1 tvg-id="FifthGear.uk" tvg-country="UK" tvg-language="en" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000022R9_20260915T042127SQUARE.png" group-title="Auto & Moto",Fifth Gear HD - فيفث جير (البرنامج البريطاني الشهير لاختبارات وتجارب السيارات)
+https://jmp2.uk/stvp-IN3000022R9
+
+#EXTINF:-1 tvg-id="SPEEDVISION.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/motorsport.png" group-title="Auto & Moto",SPEEDVISION HD - سبيد فيجن (سباقات وتعديل السيارات الكلاسيكية والرياضية)
+https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-country="US" tvg-language="en" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC13000065U_20260127T205359SQUARE.png" group-title="Auto & Moto",PowerNation TV HD - باور نيشن (بناء وتعديل المحركات وسيارات الدفع الرباعي)
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.us" tvg-country="US" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/motorsport.png" group-title="Auto & Moto",FloRacing HD - فلو ريسينج (سباقات الحلبات الطينية، Sprint Cars وسيارات السرعة)
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us" tvg-country="US" tvg-language="en" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Auto & Moto",Pluto TV Cars HD - بلوتو كارز (عالم مراجعات وهندسة وصناعة السيارات)
+https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTurbo.us" tvg-country="US" tvg-language="en" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Auto & Moto",Pluto TV Turbo HD - بلوتو توربو (عالم السرعة والمنافسات الميكانيكية)
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.de" tvg-country="DE" tvg-language="en" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Auto & Moto",Pluto TV Motor HD - بلوتو موتور (الدراجات النارية والسباقات المشوقة)
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
